@@ -47,10 +47,10 @@ body {
 }
 
 nav {
-  background-color: gray;
+  background-color: $header-footer;
   text-align: center;
   font-weight: bold;
-  @include a-swap($boring-gray, $boring-gray, gray);
+  @include a-swap($boring-gray, $boring-gray, $header-footer);
 }
 nav ul,
 nav li {
@@ -70,9 +70,9 @@ main {
 
 footer {
   padding: 1em 2em;
-  background-color: gray;
+  background-color: $header-footer;
   color: $boring-gray;
 
-  @include a-swap($boring-gray, $boring-gray, gray, 1);
+  @include a-swap($boring-gray, $boring-gray, $header-footer, 1);
 
 }

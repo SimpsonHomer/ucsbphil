@@ -508,19 +508,19 @@ body {
 
 /* line 49, ../sass/screen.scss */
 nav {
-  background-color: gray;
+  background-color: dimgrey;
   text-align: center;
   font-weight: bold;
 }
-/* line 23, ../sass/_base.scss */
+/* line 24, ../sass/_base.scss */
 nav a {
   color: #e6e6e1;
-  background-color: gray;
+  background-color: dimgrey;
   text-decoration: none;
 }
-/* line 53, ../sass/_base.scss */
+/* line 54, ../sass/_base.scss */
 nav a:hover, nav a:active {
-  color: gray;
+  color: dimgrey;
   background-color: #e6e6e1;
 }
 
@@ -547,18 +547,18 @@ main {
 /* line 71, ../sass/screen.scss */
 footer {
   padding: 1em 2em;
-  background-color: gray;
+  background-color: dimgrey;
   color: #e6e6e1;
 }
-/* line 23, ../sass/_base.scss */
+/* line 24, ../sass/_base.scss */
 footer a {
   color: #e6e6e1;
-  background-color: gray;
+  background-color: dimgrey;
   text-decoration: underline;
 }
-/* line 53, ../sass/_base.scss */
+/* line 54, ../sass/_base.scss */
 footer a:hover, footer a:active {
-  color: gray;
+  color: dimgrey;
   background-color: #e6e6e1;
   text-decoration: none;
 }
