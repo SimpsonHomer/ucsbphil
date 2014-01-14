@@ -1,0 +1,318 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "">
+	<sitename></sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Helvetica" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Helvetica" fontsize = "4" color = "#F0F0F0" border = "0" rows = "3" col = "3"> </thumbnail> 
+<large base ="images/" font = "Helvetica" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "18-01-outline.jpg"
+thumbpath = "18-01-outline.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 2nd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[The Most Important Issues in the Philosophy of Science]]></meta>
+</image>
+
+
+<image
+path = "18-02-schrodingers-lit0002.jpg"
+thumbpath = "18-02-schrodingers-lit0002.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 2nd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[The Most Important Issues in the Philosophy of Science]]></meta>
+</image>
+
+
+<image
+path = "18-03-classical-world-0003.jpg"
+thumbpath = "18-03-classical-world-0003.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 2nd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[The Most Important Issues in the Philosophy of Science]]></meta>
+</image>
+
+
+<image
+path = "18-04-penrose.jpg"
+thumbpath = "18-04-penrose.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 2nd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[The Most Important Issues in the Philosophy of Science]]></meta>
+</image>
+
+
+<image
+path = "18-05-penrose.jpg"
+thumbpath = "18-05-penrose.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 2nd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[The Most Important Issues in the Philosophy of Science]]></meta>
+</image>
+
+
+<image
+path = "19-01-fine.jpg"
+thumbpath = "19-01-fine.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 2nd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[The Most Important Issues in the Philosophy of Science]]></meta>
+</image>
+
+
+<image
+path = "19-02-fine.jpg"
+thumbpath = "19-02-fine.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 2nd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[The Most Important Issues in the Philosophy of Science]]></meta>
+</image>
+
+
+<image
+path = "19-03-hellman.jpg"
+thumbpath = "19-03-hellman.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 2nd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[The Most Important Issues in the Philosophy of Science]]></meta>
+</image>
+
+
+<image
+path = "19-04-group.jpg"
+thumbpath = "19-04-group.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 2nd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[The Most Important Issues in the Philosophy of Science]]></meta>
+</image>
+
+
+<image
+path = "19-05-anderson-grunbaum.jpg"
+thumbpath = "19-05-anderson-grunbaum.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 2nd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[The Most Important Issues in the Philosophy of Science]]></meta>
+</image>
+
+
+<image
+path = "19-06-lunch.jpg"
+thumbpath = "19-06-lunch.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 2nd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[The Most Important Issues in the Philosophy of Science]]></meta>
+</image>
+
+
+<image
+path = "19-07-lunch.jpg"
+thumbpath = "19-07-lunch.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 2nd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[The Most Important Issues in the Philosophy of Science]]></meta>
+</image>
+
+
+<image
+path = "19-08-lunch.jpg"
+thumbpath = "19-08-lunch.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 2nd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[The Most Important Issues in the Philosophy of Science]]></meta>
+</image>
+
+
+<image
+path = "19-09-lunch.jpg"
+thumbpath = "19-09-lunch.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 2nd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[The Most Important Issues in the Philosophy of Science]]></meta>
+</image>
+
+
+<image
+path = "19-10-lunch.jpg"
+thumbpath = "19-10-lunch.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 2nd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[The Most Important Issues in the Philosophy of Science]]></meta>
+</image>
+
+
+<image
+path = "19-11-lunch.jpg"
+thumbpath = "19-11-lunch.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 2nd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[The Most Important Issues in the Philosophy of Science]]></meta>
+</image>
+
+
+<image
+path = "19-12-lunch.jpg"
+thumbpath = "19-12-lunch.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 2nd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[The Most Important Issues in the Philosophy of Science]]></meta>
+</image>
+
+
+<image
+path = "19-13-lunch.jpg"
+thumbpath = "19-13-lunch.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 2nd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[The Most Important Issues in the Philosophy of Science]]></meta>
+</image>
+
+
+<image
+path = "19-14-lunch.jpg"
+thumbpath = "19-14-lunch.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 2nd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[The Most Important Issues in the Philosophy of Science]]></meta>
+</image>
+
+
+<image
+path = "19-15-sober.jpg"
+thumbpath = "19-15-sober.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 2nd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[The Most Important Issues in the Philosophy of Science]]></meta>
+</image>
+
+
+<image
+path = "19-16-rosenberg.jpg"
+thumbpath = "19-16-rosenberg.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 2nd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[The Most Important Issues in the Philosophy of Science]]></meta>
+</image>
+
+
+<image
+path = "20-01-breakfast.jpg"
+thumbpath = "20-01-breakfast.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 2nd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[The Most Important Issues in the Philosophy of Science]]></meta>
+</image>
+
+
+<image
+path = "20-02-breakfast.jpg"
+thumbpath = "20-02-breakfast.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 2nd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[The Most Important Issues in the Philosophy of Science]]></meta>
+</image>
+
+
+<image
+path = "20-03-breakfast.jpg"
+thumbpath = "20-03-breakfast.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 2nd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[The Most Important Issues in the Philosophy of Science]]></meta>
+</image>
+
+
+<image
+path = "20-04-waiting.jpg"
+thumbpath = "20-04-waiting.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 2nd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[The Most Important Issues in the Philosophy of Science]]></meta>
+</image>
+
+
+<image
+path = "20-05-waiting.jpg"
+thumbpath = "20-05-waiting.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 2nd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[The Most Important Issues in the Philosophy of Science]]></meta>
+</image>
+
+
+<image
+path = "20-06-waiting.jpg"
+thumbpath = "20-06-waiting.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 2nd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[The Most Important Issues in the Philosophy of Science]]></meta>
+</image>
+
+
+<image
+path = "20-07-anderson-teller-0028.jpg"
+thumbpath = "20-07-anderson-teller-0028.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 2nd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[The Most Important Issues in the Philosophy of Science]]></meta>
+</image>
+
+
+<image
+path = "20-08-group.jpg"
+thumbpath = "20-08-group.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 2nd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[The Most Important Issues in the Philosophy of Science]]></meta>
+</image>
+
+
+<image
+path = "20-09-smith-butterfield.jpg"
+thumbpath = "20-09-smith-butterfield.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 2nd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[The Most Important Issues in the Philosophy of Science]]></meta>
+</image>
+
+
+<image
+path = "20-10-friedman-smeenk-0031.jpg"
+thumbpath = "20-10-friedman-smeenk-0031.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 2nd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[The Most Important Issues in the Philosophy of Science]]></meta>
+</image>
+
+
+<image
+path = "21-01-anderson-rescorl0032.jpg"
+thumbpath = "21-01-anderson-rescorl0032.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 2nd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[The Most Important Issues in the Philosophy of Science]]></meta>
+</image>
+
+
+<image
+path = "21-02-humphey-teller.jpg"
+thumbpath = "21-02-humphey-teller.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 2nd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[The Most Important Issues in the Philosophy of Science]]></meta>
+</image>
+
+</images>
+</gallery>

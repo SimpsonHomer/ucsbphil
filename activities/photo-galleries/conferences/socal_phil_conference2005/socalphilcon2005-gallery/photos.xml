@@ -1,0 +1,111 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "">
+	<sitename></sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Helvetica" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Helvetica" fontsize = "4" color = "#F0F0F0" border = "0" rows = "3" col = "3"> </thumbnail> 
+<large base ="images/" font = "Helvetica" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "csun01.jpg"
+thumbpath = "csun01.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[2005 Southern California Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[California State University; Northridge]]></meta>
+</image>
+
+
+<image
+path = "csun02.jpg"
+thumbpath = "csun02.jpg"
+thumbwidth = "139"
+	<meta name = "title"><![CDATA[2005 Southern California Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[California State University; Northridge]]></meta>
+</image>
+
+
+<image
+path = "csun03.jpg"
+thumbpath = "csun03.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[2005 Southern California Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[California State University; Northridge]]></meta>
+</image>
+
+
+<image
+path = "csun04.jpg"
+thumbpath = "csun04.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[2005 Southern California Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[California State University; Northridge]]></meta>
+</image>
+
+
+<image
+path = "csun05.jpg"
+thumbpath = "csun05.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[2005 Southern California Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[California State University; Northridge]]></meta>
+</image>
+
+
+<image
+path = "csun06.jpg"
+thumbpath = "csun06.jpg"
+thumbwidth = "182"
+	<meta name = "title"><![CDATA[2005 Southern California Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[California State University; Northridge]]></meta>
+</image>
+
+
+<image
+path = "csun07.jpg"
+thumbpath = "csun07.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[2005 Southern California Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[California State University; Northridge]]></meta>
+</image>
+
+
+<image
+path = "csun08.jpg"
+thumbpath = "csun08.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[2005 Southern California Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[California State University; Northridge]]></meta>
+</image>
+
+
+<image
+path = "csun09.jpg"
+thumbpath = "csun09.jpg"
+thumbwidth = "179"
+	<meta name = "title"><![CDATA[2005 Southern California Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[California State University; Northridge]]></meta>
+</image>
+
+
+<image
+path = "csun10.jpg"
+thumbpath = "csun10.jpg"
+thumbwidth = "185"
+	<meta name = "title"><![CDATA[2005 Southern California Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[California State University; Northridge]]></meta>
+</image>
+
+</images>
+</gallery>

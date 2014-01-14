@@ -1,0 +1,509 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <title>Philosophy 20C: April 2008</title>
+  
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="MSSmartTagsPreventParsing" content="true" />
+<meta name="generator" content="Blogger" />
+<link rel="alternate" type="application/atom+xml" title="Philosophy 20C - Atom" href="http://www.philosophy.ucsb.edu/websites/phil20C/atom.xml" />
+<link rel="alternate" type="application/rss+xml" title="Philosophy 20C - RSS" href="http://www.philosophy.ucsb.edu/websites/phil20C/rss.xml" />
+<link rel="service.post" type="application/atom+xml" title="Philosophy 20C - Atom" href="http://www.blogger.com/feeds/6915277348567327518/posts/default" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.blogger.com/rsd.g?blogID=6915277348567327518" />
+<style type="text/css">
+@import url("http://www.blogger.com/css/blog_controls.css");
+@import url("http://www.blogger.com/dyn-css/authorization.css?targetBlogID=6915277348567327518");
+</style>
+
+
+  <style type="text/css">
+/*
+-----------------------------------------------
+Blogger Template Style
+Name:     Minima Blue
+Designer: Douglas Bowman
+URL:      www.stopdesign.com
+Date:     28 Feb 2004
+----------------------------------------------- */
+
+
+body {
+  background:#3e5e8d;
+  margin:0;
+  padding:20px 20px;
+  font-family: Verdana, Helvetica, Arial, Trebuchet MS, Lucida Grande, Sans-Serif;
+  font-size: 11px;
+  text-align:center;
+  color:#000000;
+  }
+
+p {
+  margin: 0px;
+  padding: 0px;
+}
+
+h2, h3, h4 {
+  margin: 0px;
+  padding: 0px;
+}
+
+a:link {
+  color:#03c;
+  text-decoration:none;
+  }
+
+a:visited {
+  color:#03c;
+  text-decoration:none;
+  }
+
+a:hover {
+  color:#03c;
+  text-decoration:underline;
+  }
+
+a img {
+  border-width:0;
+  }
+
+#layoutContainer {
+    width:950px;
+    margin:0px auto;
+    padding:0px;
+    text-align:left;
+    border: solid 1px #ffffff;
+    overflow: hidden;
+}
+
+/* Header
+----------------------------------------------- */
+  #header {
+    width:950px;
+    height:175px;
+    margin:0px;
+    border:none;
+    background-image: url(http://www.philosophy.ucsb.edu/images/phil20c.gif);
+    }
+
+#blog-title {
+  margin:0px;
+  padding:0px;
+  border:none;
+  color:#ffffff;
+  text-transform:uppercase;
+  text-indent: -9999px;
+  }
+
+#blog-title a {
+  color:#ffffff;
+  text-decoration:none;
+  }
+
+#blog-title a:hover {
+  color:#ffffff;
+  }
+
+#description {
+  margin:0px;
+  padding:0px;
+  border:none;
+  text-transform:uppercase;
+  text-indent: -9999px;
+  }
+
+
+/* Content
+----------------------------------------------- */
+  #content {
+    width:950px;
+    margin:0px;
+    padding:0px;
+    text-align:left;
+    overflow: hidden;
+    background: #b2b1a5;
+    }
+
+  #main {
+    width:650px;
+    float:left;
+    background:#ebebe7;
+    margin:0px;
+    padding:0px;
+}
+
+#main p {
+    margin:0px;
+    padding:0px;
+    }
+
+
+#main ul {
+    margin:0px;
+    padding:2px 0px 2px 45px;
+    list-style-type: square;
+    }
+
+#main ol {
+    margin:0px;
+    padding:2px 0px 2px 45px;
+    }
+
+#sidebar {
+    width:300px;
+    float:right;
+    margin:0px;
+    padding:0px;
+    background:#b2b1a5;
+    }
+
+
+/* Headings
+----------------------------------------------- */
+h2 {
+  margin:0px;
+  padding:0px;
+  font-size: 12px;
+  text-transform:uppercase;
+  color:#b2b1a5;
+  }
+
+
+/* Posts
+----------------------------------------------- */
+.date-header {
+  text-size:9px;
+  text-transform:uppercase;
+  margin:0px;
+  padding:10px 0px 0px 10px;
+  color:#b2b1a5;
+}
+
+.post {
+  margin:0px;
+  padding:5px 10px 5px 10px;
+  border-bottom:10px solid #cccccc;
+  
+}
+
+.post-title {
+  margin:0px;
+  padding:0px 0px 2px 0px;
+  font-size:14px;
+  text-transform:uppercase;
+  line-height:16px;
+  color:#00426a;
+}
+
+.post-title a {
+  text-decoration:none;
+  color:#00426a;
+}
+
+.post-title a:hover {
+  color:#fff;
+}
+
+.post div {
+  margin:0px;
+  padding:0px;
+  line-height:16px;
+}
+
+p.post-footer {
+  margin:0px;
+  color:#999999;
+}
+
+.post-footer em, .comment-link {
+  font-size: 9px;
+  text-transform:uppercase;
+  letter-spacing:.1em;
+}
+
+.post-footer em {
+  font-style:normal;
+  color:#579;
+  margin:0px;
+}
+
+.comment-link {
+  margin-left:0px;
+}
+
+.post img {
+  padding:4px;
+  border:1px solid #00426a;
+}
+
+.post blockquote {
+  margin:10px;
+}
+
+.post blockquote p {
+  margin:0px;
+}
+
+
+/* Comments
+----------------------------------------------- */
+#comments h4 {
+  margin:0px;
+  font-weight: bold;
+  text-transform:uppercase;
+  letter-spacing:.2em;
+  color:#999999;
+}
+
+#comments h4 strong {
+  font-size: 12px;
+}
+
+#comments-block {
+  margin:1em 0px;
+  line-height:1.6em;
+}
+
+#comments-block dt {
+  margin:0px;
+}
+
+#comments-block dd {
+  margin:0px;
+}
+
+#comments-block dd.comment-timestamp {
+  margin:0px;
+  font-size: 9px;
+  text-transform:uppercase;
+  letter-spacing:.1em;
+}
+
+#comments-block dd p {
+  margin:0px;
+}
+
+.deleted-comment {
+  font-style:italic;
+  color:gray;
+}
+
+
+/* Sidebar Content
+----------------------------------------------- */
+.sidebar-title {
+  margin:0px;
+  padding:10px 0px 2px 10px;
+  font-size:14px;
+  line-height:16px;
+  color:#00426a;
+}
+
+#sidebar ul {
+  margin:0px;
+  padding:0px;
+  border-bottom:none;
+  list-style:none;
+}
+
+#sidebar li {
+  margin:0px;
+  padding:2px 0px 2px 25px;
+}
+
+#sidebar p {
+  margin:0px;
+  padding:0px;
+}
+
+
+/* Footer
+----------------------------------------------- */
+#footer {
+  width:950px;
+  height: 45px;
+  clear:both;
+  margin:0px;
+  padding:0px;
+  background: #00426a;
+}
+
+#footer p {
+  margin:0;
+  padding:10px;
+  text-align: center;
+  font-family: Verdana, Helvetica, Arial, Trebuchet MS, Lucida Grande, Sans-Serif;
+  font-size: 10px;
+  text-transform:uppercase;
+  color: #ffffff;
+  letter-spacing:.1em;
+}
+
+</style>
+
+</head>
+
+<body>
+<div id="layoutContainer">
+<div id="header">
+
+</div>
+
+<!-- Begin #content -->
+<div id="content">
+
+<!-- Begin #main -->
+<div id="main"><div id="main2">
+
+
+<h2 class="date-header">Monday, April 7, 2008</h2>
+     
+<!-- Begin .post -->
+<div class="post"><a name="3098202949513740706"></a>
+
+<h3 class="post-title">
+
+Syllabus
+</h3>
+
+<div class="post-body">
+<div><div style="clear:both;"></div>PHIL 20C / HOLDEN<br />HISTORY OF PHILOSOPHY: EMPIRICISTS TO KANT<br /><br />Spring 2008<br />MWF 11-11:50, 1610 Broida Hall<br /><br />PROFESSOR<br />Tom Holden, Philosophy Department, tholden@philosophy.ucsb.edu<br />Mailbox: 5631 South Hall<br />Office Hours: F 8:30-10.30am and by appointment, 5710 South Hall<br /><br />TEACHING ASSISTANTS<br />Thomas Curtin, thomasjcurtin@umail.ucsb.edu, South Hall 5432-V, office hours TR 11-12<br />Quentin Gee, gee@umail.ucsb.edu, South Hall 5432-P, office hours W 12-2<br />Sian Griffith, siangriffith@umail.ucsb.edu, South Hall 5432-U, office hours W 1-3<br />Timothy Linehan, timothylinehan@umail.ucsb.edu, South Hall 5432-P, office hours M 12-2<br />Joshua May, jdmay@umail.ucsb.edu, South Hall 5432-X, office hours M 2-4<br />Jason Newman, jnewman@umail.ucsb.edu, South Hall 5720, office hours T 12.30-1.30, W 2-3<br /><br />COURSE DESCRIPTION<br />This is the third and final course in the Philosophy 20 series of classes surveying the history of philosophy in the West. In this last course, we examine the main developments in the seventeenth and eighteenth centuries: the so-called early modern period. (Note that you do not have to have taken 20A or 20B in order to enroll for 20C.)<br />       We will examine the work of four major figures in the period: John Locke (1632-1704), George Berkeley (1685-1753), David Hume (1711-1776) and Immanuel Kant (1724-1804). The focus of the course will be the metaphysical systems developed by these thinkers, and in particular their various theories of the relationship between mind and world.<br />       Reading will consist largely in representative selections from each of the four historical figures.<br /><br />COURSE REQUIREMENTS AND GRADING SCHEDULE:<br />To pass this course, you must be registered for a discussion section, you must turn in both papers, and you must complete the final. Grade composition is then as follows:<br />--First paper (4-5 pages) due Monday April 28th             20%<br />--Second paper (5-6 pages) due Friday May 30th                        40%<br />--Final exam Thursday June 12 12-3pm                           40%<br /><br />NOTE ABOUT FINAL EXAM: There will be no rescheduled exams. If you take this course, then it is your responsibility to be in town on Thursday June 12th to take the final exam.<br /><br />REQUIRED TEXTS:<br />(1) Elizabeth Radcliffe, Richard McCarty, Fritz Allhoff, Anand Jayprakash Vaidya, ed., Late<br />Modern Philosophy: Essential Readings with Commentary (Malden: Blackwell, 2007)<br />(2) David Hume, Dialogues Concerning Natural Religion, 2d. edition, ed. Richard H. Popkin<br />(Indianapolis: Hackett, 1998)<br /><br />COURSE WEBSITE: <a name="OLE_LINK2"></a><a name="OLE_LINK1">http://www.philosophy.ucsb.edu/websites/phil20C</a>/<br /><br />READING REQUIREMENTS<br />Students are expected to attend all class meetings and do the appropriate reading prior to class. Since philosophy involves close examination of often fairly dense arguments, here ‘doing the reading’ means much more than just skimming over the printed page. Doing the reading requires carefully and critically reading selections in their entirety; it requires making an attempt to understand what an author is claiming, why he or she is making that claim, and beginning to think about whether those claims are justified.<br />Of course, all that matters is that you make a sincere attempt to do this. If you could just read the material and master all its implications by yourselves, what would be the point of the course? You are hardly expected to have figured it all out before you walk in the door. That’s what we are going to try to do in class -- figure it out. But we can’t begin to make headway in class if you don’t make a sincere attempt to critically read the assigned material – and students who are not up to speed with the reading will slow the rest of us down. So I expect all students to come to class having done the reading, and ready to ask and answer questions about it.<br /><br />PLAGIARISM AND OTHER ACADEMIC CHEATING:<br />I take this extremely seriously: I will prosecute any offenses, seeking penalties ranging up to and including expulsion from the university. It is your responsibility to make sure that your work does not violate university policies about plagiarism and other academic cheating. If you need any help in understanding these standards or are in any doubt about whether your work for this course violates them, it is your responsibility to find out by checking with me.<br /><br />NO ADDITIONAL ASSIGNMENTS FOR EXTRA CREDIT: All students are expected to meet the same standards to pass the course. Doing additional assignments for ‘extra credit’ or catch-up grades is not an option.<br /><br /><br />STUDENT SUPPORT<br /><br />OFFICE HOURS: My office hours are from 8:30-10:30am on Friday (my office is SH 5710). (See also your TA’s office hours.) If you are unable to see me during my regular slot, I will be happy to schedule a mutually convenient time. I encourage you to talk with me and with your TA outside of class. (Note however: You should at least try to work around our schedules if possible. I do not take kindly to students making eleventh hour demands that I drop everything to meet them just before a test or paper due date, all because they were too disorganized to come and see me at the appropriate time.)<br /><br />WRITING SUPPORT: Strong writing skills are indispensable for success in philosophy. Since philosophy requires the clear communication of often difficult and subtle ideas, weak writing renders high level performance impossible. In addition to any support the TAs and I can offer you, I encourage you to avail yourself of the help available from the Campus Learning Assistance Services writing tutors. <br /><br />IF YOU FACE MAJOR DIFFICULTIES: If for any reason you face major difficulties -- medical or otherwise -- please get in touch with me as soon as possible. I am happy to work with you to find the best course of action and, if possible, to help you complete the course successfully.<br /><br />RECOMMENDED COMMENTARY &amp; OTHER RESOURCES<br /><br />I don’t ask students to read anything outside of the primary sources (the ‘required texts’). Generally speaking it is better to focus on reading (and re-reading) these primary texts carefully and critically, rather than spending time looking at the secondary literature. (Philosophical thinking is best served by the sustained first-person examination of arguments, not traditional library and internet research.) However, if you do wish to seek help from such sources, the following texts are good places to start:<br /><br /><br />BOOKS HELD ON RESERVE IN LIBRARY<br />(to check out for two hours, go to circulation desk and give this course number) <br /><br /><br />Jonathan Bennett, Locke Berkeley Hume: Central Themes (Oxford: Oxford University Press,<br />1971) – dense but philosophically rich [on reserve in library]<br /><br />Jonathan Bennett, Learning from Six Philosophers (Oxford: Oxford University Press,<br />2001), vol. ii – this volume covers Locke, Berkeley, and Hume [on reserve in library]<br /><br />Nicholas Jolley, Locke (Oxford University Press, 1999) – an excellent, very accessible<br />introduction to Locke’s philosophy [on reserve in library]<br /><br />E. J. Lowe, Locke on Human Understanding (London: Routledge, 1995) – a useful orientation to<br />Locke’s Essay, aimed at beginners [on reserve in library] <br /><br />Vere Chappell (ed.), The Cambridge Companion to Locke (Cambridge: Cambridge University<br />Press, 1994) – a collection of useful essays on different aspects of Locke’s thought [on reserve in library]<br /><br />George Pitcher, Berkeley (London: Routledge and Kegan Paul, 1977) [on reserve in library]<br /><br />A. C. Grayling, Berkeley: The Central Arguments (London: Duckworth, 1986) [on reserve in<br />library]<br /><br />David Fate Norton (ed.), The Cambridge Companion to Hume (Cambridge: Cambridge University<br />Press, 1994) – a collection of useful essays on different aspects of Hume’s thought [on reserve in library]<br /><br />Don Garrett, Cognition and Commitment in Hume’s Philosophy (Oxford: Oxford University<br />Press, 1997) – an important, text-driven study of the nuances of Hume’s philosophy; influential [on reserve in library]<br /><br />C. D. Broad, Kant: An Introduction (Cambridge: Cambridge University Press, 1978) – an<br />accessible orientation [on reserve in library]<br /><br />Jonathan Bennett, Kant’s Analytic (Cambridge: Cambridge University Press, 1966) – dense but<br />philosophically rich [on reserve in library]<br /><br />SYLLABUS AGENDA AND READINGS:<br /><br />Note (1): Additional readings may well be added as we proceed, and (depending on our rate of progress) some sections may be cut.<br /><br />Note (2): This timetable is simply a best-guess at our rate of progress, not a cast-iron guarantee. It is subject to change as we proceed.<br /><br /><br />WEEK 1<br /><br />Mon March 31: Orientation and introduction<br /><br />Wed April 2: Early modern philosophy and Locke’s philosophical project<br />--‘Empiricism’, editors’ introduction in Late Modern Philosophy, 17-20<br />--‘John Locke’, editors’ introduction in Late Modern Philosophy, 21-22<br /><br />                Fri April 4: Locke’s attack on innatism<br />--‘Innatism and Empiricism’, editors’ introduction in Late Modern Philosophy, 2-4<br />--Locke, Essay Concerning Human Understanding book 1 chapter 2, in Late Modern Philosophy, 22-24<br /><br /><br />WEEK 2<br /><br />Mon April 7: Locke on the origin and structure of ideas<br />--Locke, Essay Concerning Human Understanding book 2 chapters 1-7, in Late Modern Philosophy, 24-29<br /><br />Wed April 9: Locke on primary and secondary qualities<br />--Locke, Essay Concerning Human Understanding book 2 chapter 8, and book 2 chapter 21, sections 1-3 only, in Late Modern Philosophy, 30-33, 33-34<br /><br />Fri April 11: Locke on primary and secondary qualities (continued)<br />                --No additional reading<br /><br /><br />WEEK 3<br /><br />Mon April 14: Locke on substance and substratum<br />--Locke, Essay Concerning Human Understanding book 2 chapter 23, in Late Modern Philosophy, 39-41<br /><br />                              <br />Wed April 16: Locke on substance and substratum (continued)<br />--No additional reading<br /><br />Fri April 18: Locke on personal identity<br />--Locke, Essay Concerning Human Understanding book 2 chapter 27, in Late Modern Philosophy, 41-45<br /><br /><br />WEEK 4<br /><br />Mon April 21: Locke on personal identity (continued)<br />                --No additional reading<br />Wed April 23: Locke on the external world<br />--Locke, Essay Concerning Human Understanding book 4 chapters 3, 9, 11, in Late Modern Philosophy, 48-9, 49, 51<br /><br />Fri April 25: Introduction to Berkeley; the primary-secondary quality distinction and immaterialism<br />--‘George Berkeley’, editors’ introduction in Late Modern Philosophy, 52-3<br />--Berkeley, Three Dialogues, the First Dialogue, in Late Modern Philosophy, 53-65<br /><br />WEEK 5<br /><br />Mon April 28: Berkeley on substratum and some initial objections to immaterialism<br />--Berkeley, Three Dialogues, the Second Dialogue, in Late Modern Philosophy, 65-69<br />                FIRST PAPER DUE<br /><br />Wed April 30: Berkeley’s ‘Master Argument’ and immaterialism<br />--Berkeley, Three Dialogues, the Third Dialogue, in Late Modern Philosophy, 69-74<br /><br />Fri May 2: Introduction to Hume; Hume’s mental geography<br />--‘David Hume’, editors’ introduction in Late Modern Philosophy, 75-76<br />--Hume, Enquiry Concerning Human Understanding, sections 2 and 3, in Late Modern Philosophy, 76-79<br />                                                                                                                                                   <br />                               <br />WEEK 6<br /><br />Mon May 5: Hume on inductive reasoning<br />--Hume, Enquiry Concerning Human Understanding, section 4, in Late Modern Philosophy, 79-85<br /><br />Wed May 7: Hume’s ‘skeptical solution’<br />--Hume, Enquiry Concerning Human Understanding, section 5, in Late Modern Philosophy, 85-90<br /><br />Fri May 9: Hume on causation: the negative phase<br />--Hume, Enquiry Concerning Human Understanding, section 7 part 1, in Late Modern Philosophy, 90-93<br /><br /><br />WEEK 7<br /><br />Mon May 12: Hume on causation: the positive phase<br />--Hume, Enquiry Concerning Human Understanding, section 7 part 2, in Late Modern Philosophy, 93-96<br /><br />Wed May 14: Hume on skepticism and the scope of natural religion<br />--Hume, Dialogues Concerning Natural Religion, part 1 (pp.3-12)<br /><br />Fri May 16: Hume on the design argument 1<br />--Hume, Dialogues Concerning Natural Religion, parts 2-3 (pp.13-27)<br /><br /><br />WEEK 8<br /><br />Mon May 19: Hume on the design argument 2<br />--Hume, Dialogues Concerning Natural Religion, parts 4-5 (pp.28-38)<br /><br />Wed May 21: Hume on the cosmological argument<br />--Hume, Dialogues Concerning Natural Religion, part 9 (pp.54-57)<br /><br />Fri May 23: Hume on the problem of evil<br />--Hume, Dialogues Concerning Natural Religion, part 11 (pp.67-76)<br /><br /><br />WEEK 9<br /><br />Mon May 26: NO CLASS (Memorial Day)<br /><br />Wed May 28: Hume’s assessment of natural religion<br />--Hume, Dialogues Concerning Natural Religion, part 12 (pp.77-89)<br /><br />Fri May 30: Introduction to Kant<br />--‘Immanuel Kant’, editors’ introduction in Late Modern Philosophy, 145-6<br />--Kant, Prolegomena to Any Future Metaphysics, preface, in Late Modern Philosophy, 146-8<br />                                SECOND PAPER DUE<br /><br /><br />WEEK 10<br /><br />Mon June 2: Kant on the possibility of metaphysics and the synthetic a priori<br />--Kant, Prolegomena to Any Future Metaphysics, preamble sections 1 and 2, in Late Modern Philosophy, 148-151<br />                               <br />Wed June 4: Kant on geometry and critical idealism<br />--Kant, Prolegomena to Any Future Metaphysics, ‘Main transcendental question, first part: How is pure mathematics possible?’, in Late Modern Philosophy, 152-160<br /><br />Fri June 6: Wrapping up<br /><br /><br />EXAM WEEK<br /><br />Thurs June 12: FINAL EXAM, 12-3pm<br /><br />Note: there will be no rescheduled exams. If you take this course, then it is your responsibility to be in town on June 12th to take the final exam.<div style="clear:both; padding-bottom:0.25em"></div>
+</div>
+</div>
+    
+<p class="post-footer">
+<em>posted by UCSB Philosophy at 
+    <a class="post-footer-link" href="http://www.philosophy.ucsb.edu/websites/phil20C/2008/04/syllabus.html" title="permanent link"> 1:24 PM </a></em>
+
+
+  
+    </p>
+  
+  </div>
+  <!-- End .post -->
+  
+  
+  
+  <!-- Begin #comments -->
+ 
+
+  <!-- End #comments -->
+
+
+</div></div>
+<!-- End #main -->
+
+
+<!-- BEGIN SIDEBAR -->
+<div id="sidebar"><div id="sidebar2">
+
+
+  <h2 class="sidebar-title">Email Links</h2>
+    <ul>
+    	<li><a href="mailto:tholden@philosophy.ucsb.edu">Tom Holden (Class Instructor)</a></li>
+        <li><a href="mailto:thomasjcurtin@umail.ucsb.edu">Thomas Curtin</a></li>
+        <li><a href="mailto:gee@umail.ucsb.edu">Quentin Gee</a></li>
+        <li><a href="mailto:siangriffith@umail.ucsb.edu">Sian Griffith</a></li>
+        <li><a href="mailto:timothylinehan@umail.ucsb.edu">Timothy Linehan</a></li>
+        <li><a href="mailto:jdmay@umail.ucsb.edu">Joshua May</a></li>
+        <li><a href="mailto:jnewman@umail.ucsb.edu">Jason Newman</a></li>
+
+  </ul>
+
+<h2 class="sidebar-title">Info & Handouts</h2>
+    <ul>
+    	<li><a href="http://www.philosophy.ucsb.edu/websites/phil20C/Phil_20C_Syllabus_2008.doc">Syllabus</a></li>
+         <li><a href="http://www.philosophy.ucsb.edu/websites/phil20C/Phil_20C_First_Paper_Assignment_2008.doc">First paper assignment</a></li>
+         <li><a href="http://www.philosophy.ucsb.edu/websites/phil20C/Phil_20C_Second_Paper_Assignment_2008.doc">Second paper assignment</a></li>
+         <li><a href="http://www.philosophy.ucsb.edu/websites/phil20C/Phil_20C_Final_Exam_Study_Guide_2008.doc">Final exam study guide</a></li>
+         <li><a href="http://www.philosophy.ucsb.edu/websites/phil20C/Phil_20C_Review_Session_Details_2008.doc">Review Session Details</a></li>
+
+        
+  </ul>
+
+<h2 class="sidebar-title">Lecture Notes</h2>
+    <ul>
+    	<li><a href="http://www.philosophy.ucsb.edu/websites/phil20C/phil20c_lecture1_2008.ppt">Lecture #1</a></li>
+         <li><a href="http://www.philosophy.ucsb.edu/websites/phil20C/phil20c_lecture2_2008.ppt">Lecture #2</a></li>
+         <li><a href="http://www.philosophy.ucsb.edu/websites/phil20C/phil20c_lecture3_2008.ppt">Lecture #3</a></li>
+         <li><a href="http://www.philosophy.ucsb.edu/websites/phil20C/phil20c_lecture4_2008.ppt">Lecture #4</a></li>
+         <li><a href="http://www.philosophy.ucsb.edu/websites/phil20C/phil20c_lecture5_2008.ppt">Lecture #5</a></li>
+         <li><a href="http://www.philosophy.ucsb.edu/websites/phil20C/phil20c_lecture6_2008.ppt">Lecture #6</a></li>
+         <li><a href="http://www.philosophy.ucsb.edu/websites/phil20C/phil20c_lecture7_2008.ppt">Lecture #7</a></li>
+         <li><a href="http://www.philosophy.ucsb.edu/websites/phil20C/phil20c_lecture8_2008.ppt">Lecture #8</a></li>
+         <li><a href="http://www.philosophy.ucsb.edu/websites/phil20C/phil20c_lecture9_2008.ppt">Lecture #9</a></li>
+         <li><a href="http://www.philosophy.ucsb.edu/websites/phil20C/phil20c_lecture10_2008.ppt">Lecture #10</a></li>
+         <li><a href="http://www.philosophy.ucsb.edu/websites/phil20C/phil20c_lecture11_2008.ppt">Lecture #11</a></li>
+         <li><a href="http://www.philosophy.ucsb.edu/websites/phil20C/phil20c_lecture12_2008.ppt">Lecture #12</a></li>
+         <li><a href="http://www.philosophy.ucsb.edu/websites/phil20C/phil20c_lecture13_2008.ppt">Lecture #13</a></li>
+         <li><a href="http://www.philosophy.ucsb.edu/websites/phil20C/phil20c_lecture14_2008.ppt">Lecture #14</a></li>
+         <li><a href="http://www.philosophy.ucsb.edu/websites/phil20C/phil20c_lecture15_2008.ppt">Lecture #15</a></li>
+         <li><a href="http://www.philosophy.ucsb.edu/websites/phil20C/phil20c_lecture16_2008.ppt">Lecture #16</a></li>
+         <li><a href="http://www.philosophy.ucsb.edu/websites/phil20C/phil20c_lecture17_2008.ppt">Lecture #17</a></li>
+         <li><a href="http://www.philosophy.ucsb.edu/websites/phil20C/phil20c_lecture18_2008.ppt">Lecture #18</a></li>
+         <li><a href="http://www.philosophy.ucsb.edu/websites/phil20C/phil20c_lecture19_2008.ppt">Lecture #19</a></li>
+         <li><a href="http://www.philosophy.ucsb.edu/websites/phil20C/phil20c_lecture20_2008.ppt">Lecture #20</a></li>
+         <li><a href="http://www.philosophy.ucsb.edu/websites/phil20C/phil20c_lecture21_2008.ppt">Lecture #21</a></li>
+         <li><a href="http://www.philosophy.ucsb.edu/websites/phil20C/phil20c_lecture22_2008.ppt">Lecture #22</a></li>
+         <li><a href="http://www.philosophy.ucsb.edu/websites/phil20C/phil20c_lecture23_2008.ppt">Lecture #23</a></li>
+         <li><a href="http://www.philosophy.ucsb.edu/websites/phil20C/phil20c_lecture24_2008.ppt">Lecture #24</a></li>
+         <li><a href="http://www.philosophy.ucsb.edu/websites/phil20C/phil20c_lecture25_2008.ppt">Lecture #25</a></li>
+         <li><a href="http://www.philosophy.ucsb.edu/websites/phil20C/phil20c_lecture26_2008.ppt">Lecture #26</a></li>
+         <li><a href="http://www.philosophy.ucsb.edu/websites/phil20C/phil20c_lecture27_2008.ppt">Lecture #27</a></li>
+         <li><a href="http://www.philosophy.ucsb.edu/websites/phil20C/phil20c_lecture28_2008.ppt">Lecture #28</a></li>
+
+  </ul>
+
+<h2 class="sidebar-title">Online Resources</h2>
+    <ul>
+        <li><a href="http://www.jimpryor.net/teaching/vocab/index.html">Philosophical Terms and Methods</a></li>
+        <li><a href="http://www.jimpryor.net/teaching/guidelines/reading.html">Guidlines on Reading Philosophy</a></li>
+        <li><a href="http://www.jimpryor.net/teaching/guidelines/writing.html">Guidlines on Writing a Philosophy Paper</a></li>
+    	<li><a href="http://www.philosophy.ucsb.edu/">UCSB Department of Philosophy</a></li>
+  </ul>
+
+<h2 class="sidebar-title">Timelines & Texts</h2>
+    <ul>
+        <li><a href="http://www.wadsworth.com/philosophy_d/special_features/timeline/enl_timeline.html">Enlightenment Timeline</a></li>
+        <li><a href="http://www.earlymoderntexts.com/">Early Modern Texts</a></li>
+  </ul>
+
+  
+<h2 class="sidebar-title">Previous Posts</h2>
+    <ul id="recently">
+    
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil20C/2008/04/syllabus.html">Syllabus</a></li>
+     
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil20C/2008/03/welcome-to-philosophy-20c.html">Welcome to Philosophy 20C</a></li>
+     
+  </ul>
+
+    
+  <h2 class="sidebar-title">Archives</h2>
+    <ul class="archive-list">
+   	  
+    	<li><a href="http://www.philosophy.ucsb.edu/websites/phil20C/2008_03_01_archive.html">March 2008</a></li>
+	  
+    	<li><a href="http://www.philosophy.ucsb.edu/websites/phil20C/2008_04_01_archive.html">April 2008</a></li>
+	  
+
+  </ul>
+  
+
+</div></div><!-- End #sidebar -->
+
+</div><!-- End #content -->
+
+
+
+
+<!-- Begin #footer -->
+<div id="footer"><p>UCSB Department of Philosophy<br>
+5631 South Hall | Santa Barbara, CA 93106-3090 | (PH) 805-893-3122 (FX) 805-893-8221</p>
+</div>
+<!-- End #footer -->
+
+</div>
+
+</body>
+</html>

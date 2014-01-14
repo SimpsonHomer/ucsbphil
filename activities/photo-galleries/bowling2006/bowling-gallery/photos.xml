@@ -1,0 +1,285 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "">
+	<sitename></sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Helvetica" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Helvetica" fontsize = "4" color = "#F0F0F0" border = "0" rows = "3" col = "3"> </thumbnail> 
+<large base ="images/" font = "Helvetica" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "bowling_22apr06_001.jpg"
+thumbpath = "bowling_22apr06_001.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Bowling Tournament @ Zodos (April 2006) ]]></meta>
+</image>
+
+
+<image
+path = "bowling_22apr06_002.jpg"
+thumbpath = "bowling_22apr06_002.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Bowling Tournament @ Zodos (April 2006) ]]></meta>
+</image>
+
+
+<image
+path = "bowling_22apr06_005.jpg"
+thumbpath = "bowling_22apr06_005.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Bowling Tournament @ Zodos (April 2006) ]]></meta>
+</image>
+
+
+<image
+path = "bowling_22apr06_007.jpg"
+thumbpath = "bowling_22apr06_007.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Bowling Tournament @ Zodos (April 2006) ]]></meta>
+</image>
+
+
+<image
+path = "bowling_22apr06_008.jpg"
+thumbpath = "bowling_22apr06_008.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Bowling Tournament @ Zodos (April 2006) ]]></meta>
+</image>
+
+
+<image
+path = "bowling_22apr06_009.jpg"
+thumbpath = "bowling_22apr06_009.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Bowling Tournament @ Zodos (April 2006) ]]></meta>
+</image>
+
+
+<image
+path = "bowling_22apr06_010.jpg"
+thumbpath = "bowling_22apr06_010.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Bowling Tournament @ Zodos (April 2006) ]]></meta>
+</image>
+
+
+<image
+path = "bowling_22apr06_013.jpg"
+thumbpath = "bowling_22apr06_013.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Bowling Tournament @ Zodos (April 2006) ]]></meta>
+</image>
+
+
+<image
+path = "bowling_22apr06_014.jpg"
+thumbpath = "bowling_22apr06_014.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Bowling Tournament @ Zodos (April 2006) ]]></meta>
+</image>
+
+
+<image
+path = "bowling_22apr06_015.jpg"
+thumbpath = "bowling_22apr06_015.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Bowling Tournament @ Zodos (April 2006) ]]></meta>
+</image>
+
+
+<image
+path = "bowling_22apr06_016.jpg"
+thumbpath = "bowling_22apr06_016.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Bowling Tournament @ Zodos (April 2006) ]]></meta>
+</image>
+
+
+<image
+path = "bowling_22apr06_017.jpg"
+thumbpath = "bowling_22apr06_017.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Bowling Tournament @ Zodos (April 2006) ]]></meta>
+</image>
+
+
+<image
+path = "bowling_22apr06_018.jpg"
+thumbpath = "bowling_22apr06_018.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Bowling Tournament @ Zodos (April 2006) ]]></meta>
+</image>
+
+
+<image
+path = "bowling_22apr06_019.jpg"
+thumbpath = "bowling_22apr06_019.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Bowling Tournament @ Zodos (April 2006) ]]></meta>
+</image>
+
+
+<image
+path = "bowling_22apr06_020.jpg"
+thumbpath = "bowling_22apr06_020.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Bowling Tournament @ Zodos (April 2006) ]]></meta>
+</image>
+
+
+<image
+path = "bowling_22apr06_021.jpg"
+thumbpath = "bowling_22apr06_021.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Bowling Tournament @ Zodos (April 2006) ]]></meta>
+</image>
+
+
+<image
+path = "bowling_22apr06_022.jpg"
+thumbpath = "bowling_22apr06_022.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Bowling Tournament @ Zodos (April 2006) ]]></meta>
+</image>
+
+
+<image
+path = "bowling_22apr06_024.jpg"
+thumbpath = "bowling_22apr06_024.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Bowling Tournament @ Zodos (April 2006) ]]></meta>
+</image>
+
+
+<image
+path = "bowling_22apr06_025.jpg"
+thumbpath = "bowling_22apr06_025.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Bowling Tournament @ Zodos (April 2006) ]]></meta>
+</image>
+
+
+<image
+path = "bowling_22apr06_026.jpg"
+thumbpath = "bowling_22apr06_026.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Bowling Tournament @ Zodos (April 2006) ]]></meta>
+</image>
+
+
+<image
+path = "bowling_22apr06_027.jpg"
+thumbpath = "bowling_22apr06_027.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Bowling Tournament @ Zodos (April 2006) ]]></meta>
+</image>
+
+
+<image
+path = "bowling_22apr06_028.jpg"
+thumbpath = "bowling_22apr06_028.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Bowling Tournament @ Zodos (April 2006) ]]></meta>
+</image>
+
+
+<image
+path = "bowling_22apr06_029.jpg"
+thumbpath = "bowling_22apr06_029.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Bowling Tournament @ Zodos (April 2006) ]]></meta>
+</image>
+
+
+<image
+path = "bowling_22apr06_032.jpg"
+thumbpath = "bowling_22apr06_032.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Bowling Tournament @ Zodos (April 2006) ]]></meta>
+</image>
+
+
+<image
+path = "bowling_22apr06_033.jpg"
+thumbpath = "bowling_22apr06_033.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Bowling Tournament @ Zodos (April 2006) ]]></meta>
+</image>
+
+
+<image
+path = "bowling_22apr06_035.jpg"
+thumbpath = "bowling_22apr06_035.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Bowling Tournament @ Zodos (April 2006) ]]></meta>
+</image>
+
+
+<image
+path = "bowling_22apr06_036.jpg"
+thumbpath = "bowling_22apr06_036.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Bowling Tournament @ Zodos (April 2006) ]]></meta>
+</image>
+
+
+<image
+path = "bowling_22apr06_038.jpg"
+thumbpath = "bowling_22apr06_038.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Bowling Tournament @ Zodos (April 2006) ]]></meta>
+</image>
+
+
+<image
+path = "bowling_22apr06_040.jpg"
+thumbpath = "bowling_22apr06_040.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Bowling Tournament @ Zodos (April 2006) ]]></meta>
+</image>
+
+
+<image
+path = "bowling_22apr06_041.jpg"
+thumbpath = "bowling_22apr06_041.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Bowling Tournament @ Zodos (April 2006) ]]></meta>
+</image>
+
+
+<image
+path = "bowling_22apr06_042.jpg"
+thumbpath = "bowling_22apr06_042.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Bowling Tournament @ Zodos (April 2006) ]]></meta>
+</image>
+
+
+<image
+path = "bowling_22apr06_043.jpg"
+thumbpath = "bowling_22apr06_043.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Bowling Tournament @ Zodos (April 2006) ]]></meta>
+</image>
+
+
+<image
+path = "bowling_22apr06_045.jpg"
+thumbpath = "bowling_22apr06_045.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Bowling Tournament @ Zodos (April 2006) ]]></meta>
+</image>
+
+</images>
+</gallery>

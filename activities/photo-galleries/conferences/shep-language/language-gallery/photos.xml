@@ -1,0 +1,651 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "">
+	<sitename></sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Helvetica" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Helvetica" fontsize = "4" color = "#F0F0F0" border = "0" rows = "3" col = "3"> </thumbnail> 
+<large base ="images/" font = "Helvetica" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "01.jpg"
+thumbpath = "01.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "03.jpg"
+thumbpath = "03.jpg"
+thumbwidth = "133"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "04.jpg"
+thumbpath = "04.jpg"
+thumbwidth = "133"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "05.jpg"
+thumbpath = "05.jpg"
+thumbwidth = "133"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "06.jpg"
+thumbpath = "06.jpg"
+thumbwidth = "133"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "07.jpg"
+thumbpath = "07.jpg"
+thumbwidth = "133"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "08.jpg"
+thumbpath = "08.jpg"
+thumbwidth = "133"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "09.jpg"
+thumbpath = "09.jpg"
+thumbwidth = "133"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "10.jpg"
+thumbpath = "10.jpg"
+thumbwidth = "133"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "11.jpg"
+thumbpath = "11.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "12.jpg"
+thumbpath = "12.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "13.jpg"
+thumbpath = "13.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "15.jpg"
+thumbpath = "15.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "16.jpg"
+thumbpath = "16.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "17.jpg"
+thumbpath = "17.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "18.jpg"
+thumbpath = "18.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "19.jpg"
+thumbpath = "19.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "20.jpg"
+thumbpath = "20.jpg"
+thumbwidth = "133"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "21.jpg"
+thumbpath = "21.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "22.jpg"
+thumbpath = "22.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "23.jpg"
+thumbpath = "23.jpg"
+thumbwidth = "133"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "24.jpg"
+thumbpath = "24.jpg"
+thumbwidth = "133"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "25.jpg"
+thumbpath = "25.jpg"
+thumbwidth = "133"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "26.jpg"
+thumbpath = "26.jpg"
+thumbwidth = "133"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "27.jpg"
+thumbpath = "27.jpg"
+thumbwidth = "133"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "28.jpg"
+thumbpath = "28.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "29.jpg"
+thumbpath = "29.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "30.jpg"
+thumbpath = "30.jpg"
+thumbwidth = "133"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "31.jpg"
+thumbpath = "31.jpg"
+thumbwidth = "133"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "32.jpg"
+thumbpath = "32.jpg"
+thumbwidth = "133"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "33.jpg"
+thumbpath = "33.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "35.jpg"
+thumbpath = "35.jpg"
+thumbwidth = "133"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "36.jpg"
+thumbpath = "36.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "38.jpg"
+thumbpath = "38.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "39.jpg"
+thumbpath = "39.jpg"
+thumbwidth = "133"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "40.jpg"
+thumbpath = "40.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "41.jpg"
+thumbpath = "41.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "42.jpg"
+thumbpath = "42.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "43.jpg"
+thumbpath = "43.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "45.jpg"
+thumbpath = "45.jpg"
+thumbwidth = "133"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "46.jpg"
+thumbpath = "46.jpg"
+thumbwidth = "133"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "47.jpg"
+thumbpath = "47.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "48.jpg"
+thumbpath = "48.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "49.jpg"
+thumbpath = "49.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "50.jpg"
+thumbpath = "50.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "51.jpg"
+thumbpath = "51.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "52.jpg"
+thumbpath = "52.jpg"
+thumbwidth = "133"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "53.jpg"
+thumbpath = "53.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "54.jpg"
+thumbpath = "54.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "55.jpg"
+thumbpath = "55.jpg"
+thumbwidth = "133"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "56.jpg"
+thumbpath = "56.jpg"
+thumbwidth = "133"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "57.jpg"
+thumbpath = "57.jpg"
+thumbwidth = "133"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "58.jpg"
+thumbpath = "58.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "59.jpg"
+thumbpath = "59.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "60.jpg"
+thumbpath = "60.jpg"
+thumbwidth = "133"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "61.jpg"
+thumbpath = "61.jpg"
+thumbwidth = "133"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "62.jpg"
+thumbpath = "62.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "63.jpg"
+thumbpath = "63.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "64.jpg"
+thumbpath = "64.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "65.jpg"
+thumbpath = "65.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "66.jpg"
+thumbpath = "66.jpg"
+thumbwidth = "133"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "67.jpg"
+thumbpath = "67.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "68.jpg"
+thumbpath = "68.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "69.jpg"
+thumbpath = "69.jpg"
+thumbwidth = "133"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "70.jpg"
+thumbpath = "70.jpg"
+thumbwidth = "133"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "71.jpg"
+thumbpath = "71.jpg"
+thumbwidth = "133"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "72.jpg"
+thumbpath = "72.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "73.jpg"
+thumbpath = "73.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "74.jpg"
+thumbpath = "74.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+
+<image
+path = "75.jpg"
+thumbpath = "75.jpg"
+thumbwidth = "133"
+	<meta name = "title"><![CDATA[The 3rd Steven Humphrey Excellence in Philosophy Conference]]></meta>
+	<meta name = "description"><![CDATA[Advances in the Theory of Meaning]]></meta>
+</image>
+
+</images>
+</gallery>

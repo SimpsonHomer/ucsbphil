@@ -1,0 +1,301 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "">
+	<sitename></sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Helvetica" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Helvetica" fontsize = "4" color = "#F0F0F0" border = "0" rows = "3" col = "3"> </thumbnail> 
+<large base ="images/" font = "Helvetica" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "DCP_1540.jpg"
+thumbpath = "DCP_1540.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2006 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "DCP_1541.jpg"
+thumbpath = "DCP_1541.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2006 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "DCP_1542.jpg"
+thumbpath = "DCP_1542.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2006 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "DCP_1545.jpg"
+thumbpath = "DCP_1545.jpg"
+thumbwidth = "176"
+	<meta name = "title"><![CDATA[Spring 2006 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "DCP_1546.jpg"
+thumbpath = "DCP_1546.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2006 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "DCP_1547.jpg"
+thumbpath = "DCP_1547.jpg"
+thumbwidth = "167"
+	<meta name = "title"><![CDATA[Spring 2006 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "DCP_1549.jpg"
+thumbpath = "DCP_1549.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2006 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "DCP_1550.jpg"
+thumbpath = "DCP_1550.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2006 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "DCP_1551.jpg"
+thumbpath = "DCP_1551.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2006 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "DCP_1552.jpg"
+thumbpath = "DCP_1552.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2006 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "DCP_1553.jpg"
+thumbpath = "DCP_1553.jpg"
+thumbwidth = "174"
+	<meta name = "title"><![CDATA[Spring 2006 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "DCP_1554.jpg"
+thumbpath = "DCP_1554.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2006 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "DCP_1557.jpg"
+thumbpath = "DCP_1557.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2006 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "DCP_1559.jpg"
+thumbpath = "DCP_1559.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2006 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "DCP_1560.jpg"
+thumbpath = "DCP_1560.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2006 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "DCP_1562.jpg"
+thumbpath = "DCP_1562.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2006 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "DCP_1564.jpg"
+thumbpath = "DCP_1564.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2006 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "DCP_1567.jpg"
+thumbpath = "DCP_1567.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2006 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "DCP_1568.jpg"
+thumbpath = "DCP_1568.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2006 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "DCP_1569.jpg"
+thumbpath = "DCP_1569.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2006 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "DCP_1570.jpg"
+thumbpath = "DCP_1570.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2006 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "DCP_1571.jpg"
+thumbpath = "DCP_1571.jpg"
+thumbwidth = "180"
+	<meta name = "title"><![CDATA[Spring 2006 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "DCP_1572.jpg"
+thumbpath = "DCP_1572.jpg"
+thumbwidth = "178"
+	<meta name = "title"><![CDATA[Spring 2006 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "DCP_1573.jpg"
+thumbpath = "DCP_1573.jpg"
+thumbwidth = "184"
+	<meta name = "title"><![CDATA[Spring 2006 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "DCP_1575.jpg"
+thumbpath = "DCP_1575.jpg"
+thumbwidth = "154"
+	<meta name = "title"><![CDATA[Spring 2006 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "DCP_1576.jpg"
+thumbpath = "DCP_1576.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2006 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "DCP_1577.jpg"
+thumbpath = "DCP_1577.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2006 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "DCP_1579.jpg"
+thumbpath = "DCP_1579.jpg"
+thumbwidth = "183"
+	<meta name = "title"><![CDATA[Spring 2006 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "DCP_1580.jpg"
+thumbpath = "DCP_1580.jpg"
+thumbwidth = "176"
+	<meta name = "title"><![CDATA[Spring 2006 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "DCP_1581.jpg"
+thumbpath = "DCP_1581.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2006 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "DCP_1587.jpg"
+thumbpath = "DCP_1587.jpg"
+thumbwidth = "165"
+	<meta name = "title"><![CDATA[Spring 2006 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "DCP_1590.jpg"
+thumbpath = "DCP_1590.jpg"
+thumbwidth = "163"
+	<meta name = "title"><![CDATA[Spring 2006 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "DCP_1592.jpg"
+thumbpath = "DCP_1592.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2006 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "DCP_1593.jpg"
+thumbpath = "DCP_1593.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2006 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "DCP_1594.jpg"
+thumbpath = "DCP_1594.jpg"
+thumbwidth = "142"
+	<meta name = "title"><![CDATA[Spring 2006 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+</images>
+</gallery>

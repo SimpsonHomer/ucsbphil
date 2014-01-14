@@ -1,0 +1,317 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "">
+	<sitename></sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Helvetica" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Helvetica" fontsize = "4" color = "#F0F0F0" border = "0" rows = "3" col = "3"> </thumbnail> 
+<large base ="images/" font = "Helvetica" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "DCP_1628.jpg"
+thumbpath = "DCP_1628.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Faculty and Graduate Student Party @ Voula Tsouna's House]]></meta>
+</image>
+
+
+<image
+path = "DCP_1629.jpg"
+thumbpath = "DCP_1629.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Faculty and Graduate Student Party @ Voula Tsouna's House]]></meta>
+</image>
+
+
+<image
+path = "DCP_1630.jpg"
+thumbpath = "DCP_1630.jpg"
+thumbwidth = "170"
+	<meta name = "title"><![CDATA[Faculty and Graduate Student Party @ Voula Tsouna's House]]></meta>
+</image>
+
+
+<image
+path = "DCP_1637.jpg"
+thumbpath = "DCP_1637.jpg"
+thumbwidth = "190"
+	<meta name = "title"><![CDATA[Faculty and Graduate Student Party @ Voula Tsouna's House]]></meta>
+</image>
+
+
+<image
+path = "DCP_1638.jpg"
+thumbpath = "DCP_1638.jpg"
+thumbwidth = "156"
+	<meta name = "title"><![CDATA[Faculty and Graduate Student Party @ Voula Tsouna's House]]></meta>
+</image>
+
+
+<image
+path = "DCP_1639.jpg"
+thumbpath = "DCP_1639.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Faculty and Graduate Student Party @ Voula Tsouna's House]]></meta>
+</image>
+
+
+<image
+path = "DCP_1640.jpg"
+thumbpath = "DCP_1640.jpg"
+thumbwidth = "182"
+	<meta name = "title"><![CDATA[Faculty and Graduate Student Party @ Voula Tsouna's House]]></meta>
+</image>
+
+
+<image
+path = "DCP_1641.jpg"
+thumbpath = "DCP_1641.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Faculty and Graduate Student Party @ Voula Tsouna's House]]></meta>
+</image>
+
+
+<image
+path = "DCP_1647.jpg"
+thumbpath = "DCP_1647.jpg"
+thumbwidth = "162"
+	<meta name = "title"><![CDATA[Faculty and Graduate Student Party @ Voula Tsouna's House]]></meta>
+</image>
+
+
+<image
+path = "DCP_1649.jpg"
+thumbpath = "DCP_1649.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Faculty and Graduate Student Party @ Voula Tsouna's House]]></meta>
+</image>
+
+
+<image
+path = "DCP_1651.jpg"
+thumbpath = "DCP_1651.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Faculty and Graduate Student Party @ Voula Tsouna's House]]></meta>
+</image>
+
+
+<image
+path = "DCP_1654.jpg"
+thumbpath = "DCP_1654.jpg"
+thumbwidth = "170"
+	<meta name = "title"><![CDATA[Faculty and Graduate Student Party @ Voula Tsouna's House]]></meta>
+</image>
+
+
+<image
+path = "DCP_1655.jpg"
+thumbpath = "DCP_1655.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Faculty and Graduate Student Party @ Voula Tsouna's House]]></meta>
+</image>
+
+
+<image
+path = "DCP_1656.jpg"
+thumbpath = "DCP_1656.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Faculty and Graduate Student Party @ Voula Tsouna's House]]></meta>
+</image>
+
+
+<image
+path = "DCP_1658.jpg"
+thumbpath = "DCP_1658.jpg"
+thumbwidth = "133"
+	<meta name = "title"><![CDATA[Faculty and Graduate Student Party @ Voula Tsouna's House]]></meta>
+</image>
+
+
+<image
+path = "DCP_1660.jpg"
+thumbpath = "DCP_1660.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Faculty and Graduate Student Party @ Voula Tsouna's House]]></meta>
+</image>
+
+
+<image
+path = "DCP_1662.jpg"
+thumbpath = "DCP_1662.jpg"
+thumbwidth = "153"
+	<meta name = "title"><![CDATA[Faculty and Graduate Student Party @ Voula Tsouna's House]]></meta>
+</image>
+
+
+<image
+path = "DCP_1664.jpg"
+thumbpath = "DCP_1664.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Faculty and Graduate Student Party @ Voula Tsouna's House]]></meta>
+</image>
+
+
+<image
+path = "DCP_1665.jpg"
+thumbpath = "DCP_1665.jpg"
+thumbwidth = "169"
+	<meta name = "title"><![CDATA[Faculty and Graduate Student Party @ Voula Tsouna's House]]></meta>
+</image>
+
+
+<image
+path = "DCP_1667.jpg"
+thumbpath = "DCP_1667.jpg"
+thumbwidth = "186"
+	<meta name = "title"><![CDATA[Faculty and Graduate Student Party @ Voula Tsouna's House]]></meta>
+</image>
+
+
+<image
+path = "DCP_1668.jpg"
+thumbpath = "DCP_1668.jpg"
+thumbwidth = "152"
+	<meta name = "title"><![CDATA[Faculty and Graduate Student Party @ Voula Tsouna's House]]></meta>
+</image>
+
+
+<image
+path = "DCP_1669.jpg"
+thumbpath = "DCP_1669.jpg"
+thumbwidth = "182"
+	<meta name = "title"><![CDATA[Faculty and Graduate Student Party @ Voula Tsouna's House]]></meta>
+</image>
+
+
+<image
+path = "DCP_1670.jpg"
+thumbpath = "DCP_1670.jpg"
+thumbwidth = "151"
+	<meta name = "title"><![CDATA[Faculty and Graduate Student Party @ Voula Tsouna's House]]></meta>
+</image>
+
+
+<image
+path = "DCP_1671.jpg"
+thumbpath = "DCP_1671.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Faculty and Graduate Student Party @ Voula Tsouna's House]]></meta>
+</image>
+
+
+<image
+path = "DCP_1673.jpg"
+thumbpath = "DCP_1673.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Faculty and Graduate Student Party @ Voula Tsouna's House]]></meta>
+</image>
+
+
+<image
+path = "DCP_1674.jpg"
+thumbpath = "DCP_1674.jpg"
+thumbwidth = "166"
+	<meta name = "title"><![CDATA[Faculty and Graduate Student Party @ Voula Tsouna's House]]></meta>
+</image>
+
+
+<image
+path = "DCP_1675.jpg"
+thumbpath = "DCP_1675.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Faculty and Graduate Student Party @ Voula Tsouna's House]]></meta>
+</image>
+
+
+<image
+path = "DCP_1676.jpg"
+thumbpath = "DCP_1676.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Faculty and Graduate Student Party @ Voula Tsouna's House]]></meta>
+</image>
+
+
+<image
+path = "DCP_1678.jpg"
+thumbpath = "DCP_1678.jpg"
+thumbwidth = "172"
+	<meta name = "title"><![CDATA[Faculty and Graduate Student Party @ Voula Tsouna's House]]></meta>
+</image>
+
+
+<image
+path = "DCP_1679.jpg"
+thumbpath = "DCP_1679.jpg"
+thumbwidth = "176"
+	<meta name = "title"><![CDATA[Faculty and Graduate Student Party @ Voula Tsouna's House]]></meta>
+</image>
+
+
+<image
+path = "DCP_1683.jpg"
+thumbpath = "DCP_1683.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Faculty and Graduate Student Party @ Voula Tsouna's House]]></meta>
+</image>
+
+
+<image
+path = "DCP_1684.jpg"
+thumbpath = "DCP_1684.jpg"
+thumbwidth = "137"
+	<meta name = "title"><![CDATA[Faculty and Graduate Student Party @ Voula Tsouna's House]]></meta>
+</image>
+
+
+<image
+path = "DCP_1685.jpg"
+thumbpath = "DCP_1685.jpg"
+thumbwidth = "171"
+	<meta name = "title"><![CDATA[Faculty and Graduate Student Party @ Voula Tsouna's House]]></meta>
+</image>
+
+
+<image
+path = "DCP_1687.jpg"
+thumbpath = "DCP_1687.jpg"
+thumbwidth = "187"
+	<meta name = "title"><![CDATA[Faculty and Graduate Student Party @ Voula Tsouna's House]]></meta>
+</image>
+
+
+<image
+path = "DCP_1688.jpg"
+thumbpath = "DCP_1688.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Faculty and Graduate Student Party @ Voula Tsouna's House]]></meta>
+</image>
+
+
+<image
+path = "DCP_1690.jpg"
+thumbpath = "DCP_1690.jpg"
+thumbwidth = "182"
+	<meta name = "title"><![CDATA[Faculty and Graduate Student Party @ Voula Tsouna's House]]></meta>
+</image>
+
+
+<image
+path = "DCP_1691.jpg"
+thumbpath = "DCP_1691.jpg"
+thumbwidth = "173"
+	<meta name = "title"><![CDATA[Faculty and Graduate Student Party @ Voula Tsouna's House]]></meta>
+</image>
+
+</images>
+</gallery>

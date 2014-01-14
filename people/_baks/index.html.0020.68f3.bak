@@ -1,0 +1,932 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- InstanceBegin template="../../web-data/Templates/main-temp.html" -->
+<head>
+<meta name="generator" content="Adobe GoLive" />
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<title>University of California, Santa Barbara | Department of Philosophy | People</title>
+<!-- #BeginHeadLocked "" -->
+<link href="../css/philosophy.css" rel="stylesheet" type="text/css" media="all" />
+<link href="../images/favicon.ico" rel="shortcut icon" csoptsettings="AQAAABh42mNgYNAINk4uyEzOz2FgYOD4DwRA2gYATmAHaQ==" livesrc="../favicon.psd" />
+<!-- #EndHeadLocked -->
+<csscriptdict import="import">
+  <script type="text/javascript" src="../GeneratedItems/CSScriptLib.js"></script>
+</csscriptdict>
+</head>
+<body bgcolor="#3e5e8d">
+<div align="center">
+  <table class="border-white" width="950" border="0" cellspacing="0" cellpadding="0">
+    <tr height="175">
+      <td align="right" valign="bottom" nowrap="nowrap" width="950" height="175" background="../images/header.gif"><table width="100" border="0" cellspacing="10" cellpadding="0">
+          <tr>
+            <td align="right" valign="middle"><menumachine name="philosophy_navigation" id="m46x7fku">
+                <csobj t="Component" csref="../menumachine/philosophy_navigation/menuspecs.menudata">
+                  <noscript>
+                  <p><a class="mm_no_js_link" href="../menumachine/philosophy_navigation/navigation.html">Site Navigation</a></p>
+                  </noscript>
+                </csobj>
+                <script type="text/javascript"><!--
+var mmfolder=/*URL*/"../menumachine/",zidx=1000;
+//--></script>
+                <script type="text/javascript" src="../menumachine/menumachine2.js"></script>
+                <script type="text/javascript" src="../menumachine/philosophy_navigation/menuspecs.js"></script>
+              </menumachine>
+            </td>
+            <td align="right" valign="middle" width="2"></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td align="left" valign="top" bgcolor="#b2b1a5" width="950"><table width="950" border="0" cellspacing="6" cellpadding="0">
+          <tr>
+            <td class="sub-navigation" align="left" valign="top" nowrap="nowrap"><!-- InstanceBeginEditable name="Region" --><span style="color: #000000"><a name="Anchor-Faculty-11481" id="Anchor-Faculty-11481"></a>People &gt;</span> <a href="index.html" target="_top">Faculty</a> | <a href="index3.html">Staff</a> | <a href="index2.html" target="_top">Graduate Students</a><!-- InstanceEndEditable --></td>
+            <td align="right" valign="top" nowrap="nowrap"><!-- InstanceBeginEditable name="Region2" --><!-- InstanceEndEditable --></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td align="left" valign="top" bgcolor="#ebebe7" width="950"><table width="950" border="0" cellspacing="6" cellpadding="0">
+          <tr>
+            <td class="maintext" align="left" valign="top" width="938"><!-- InstanceBeginEditable name="Region3" -->
+              <table width="938" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td width="953" align="left" valign="top"><table width="938" border="0" cellspacing="0" cellpadding="0">
+                      <tr height="30">
+                        <td width="644" height="30" align="left" valign="middle" bgcolor="#cccccc" class="maintext"><span class="heading">Faculty In Residence</span><span class="sub-navigation"> </span>[<a href="#Anchor-Visiting-49575">Emeritus Faculty</a>] [<a href="#Anchor-Adjunct-49575">Adjunct &amp; Visiting Faculty</a>] [<a href="#Anchor-Affiliated-49575">Affiliated Philosophy</a>]</td>
+                        <td align="center" valign="middle" bgcolor="#cccccc" width="294" height="30"><csobj w="212" h="23" t="URLPopup" data="{ 0 = { label = &quot;Faculty &amp; Graduate Student Profiles&quot;; selected = &quot;YES&quot;; }; 1 = { label = &quot;-- Faculty --&quot;; url = &quot;index.html&quot;; }; 2 = { label = &quot;Anderson&quot;; url = &quot;profiles/faculty/anderson.html&quot;; }; 3 = { label = &quot;Brueckner&quot;; url = &quot;profiles/faculty/brueckner.html&quot;; }; 4 = { label = &quot;Falvey&quot;; url = &quot;profiles/faculty/falvey.html&quot;; }; 5 = { label = &quot;Forgie&quot;; url = &quot;profiles/faculty/forgie.html&quot;; }; 6 = { label = &quot;Hanser&quot;; url = &quot;profiles/faculty/hanser.html&quot;; }; 7 = { label = &quot;Holden&quot;; url = &quot;profiles/faculty/holden.html&quot;; }; 8 = { label = &quot;McMahon&quot;; url = &quot;profiles/faculty/mcmahon.html&quot;; }; 9 = { label = &quot;Rescorla&quot;; url = &quot;profiles/faculty/rescorla.html&quot;; }; 10 = { label = &quot;Salmon&quot;; url = &quot;profiles/faculty/salmon.html&quot;; }; 11 = { label = &quot;Tsouna&quot;; url = &quot;profiles/faculty/tsouna.html&quot;; }; 12 = { label = &quot;Wilkins&quot;; url = &quot;profiles/faculty/wilkins.html&quot;; }; 13 = { label = &quot;Zimmerman&quot;; url = &quot;profiles/faculty/zimmerman.html&quot;; }; 14 = { label = &quot;-- Graduate Students --&quot;; url = &quot;index2.html&quot;; }; 15 = { label = &quot;Altschul&quot;; url = &quot;profiles/graduate-students/altschul.html&quot;; }; 16 = { label = &quot;Atkins&quot;; url = &quot;profiles/graduate-students/atkins.html&quot;; }; 17 = { label = &quot;Barnes&quot;; url = &quot;profiles/graduate-students/barnes.html&quot;; }; 18 = { label = &quot;Blair&quot;; url = &quot;profiles/graduate-students/blair.html&quot;; }; 19 = { label = &quot;Bundy&quot;; url = &quot;profiles/graduate-students/bundy.html&quot;; }; 20 = { label = &quot;Chandler&quot;; url = &quot;profiles/graduate-students/chandler.html&quot;; }; 21 = { label = &quot;Choi&quot;; url = &quot;profiles/graduate-students/choi.html&quot;; }; 22 = { label = &quot;Curtin&quot;; url = &quot;profiles/graduate-students/curtin.html&quot;; }; 23 = { label = &quot;Dolson&quot;; url = &quot;profiles/graduate-students/dolson.html&quot;; }; 24 = { label = &quot;Evans&quot;; url = &quot;profiles/graduate-students/evans.html&quot;; }; 25 = { label = &quot;Fletcher&quot;; url = &quot;profiles/graduate-students/fletcher.html&quot;; }; 26 = { label = &quot;Gee&quot;; url = &quot;profiles/graduate-students/gee.html&quot;; }; 27 = { label = &quot;Griffith&quot;; url = &quot;profiles/graduate-students/griffith.html&quot;; }; 28 = { label = &quot;Hagland&quot;; url = &quot;profiles/graduate-students/hagland.html&quot;; }; 29 = { label = &quot;Hannen&quot;; url = &quot;profiles/graduate-students/hannen.html&quot;; }; 30 = { label = &quot;Huizenga&quot;; url = &quot;profiles/graduate-students/huizenga.html&quot;; }; 31 = { label = &quot;Lee&quot;; url = &quot;profiles/graduate-students/lee.html&quot;; }; 32 = { label = &quot;Lewis&quot;; url = &quot;profiles/graduate-students/lewis.html&quot;; }; 33 = { label = &quot;Linehan&quot;; url = &quot;profiles/graduate-students/linehan.html&quot;; }; 34 = { label = &quot;Manning&quot;; url = &quot;profiles/graduate-students/manning.html&quot;; }; 35 = { label = &quot;May&quot;; url = &quot;profiles/graduate-students/may.html&quot;; }; 36 = { label = &quot;McDonald&quot;; url = &quot;profiles/graduate-students/mcdonald.html&quot;; }; 37 = { label = &quot;Nance&quot;; url = &quot;profiles/graduate-students/nance.html&quot;; }; 38 = { label = &quot;Newman&quot;; url = &quot;profiles/graduate-students/newman.html&quot;; }; 39 = { label = &quot;Noffsinger&quot;; url = &quot;profiles/graduate-students/noffsinger.html&quot;; }; 40 = { label = &quot;Rabern&quot;; url = &quot;profiles/graduate-students/rabern.html&quot;; }; 41 = { label = &quot;Salazar&quot;; url = &quot;profiles/graduate-students/salazar.html&quot;; }; 42 = { label = &quot;Scott&quot;; url = &quot;profiles/graduate-students/scott.html&quot;; }; 43 = { label = &quot;Siewert&quot;; url = &quot;profiles/graduate-students/siewert.html&quot;; }; 44 = { label = &quot;Silverman&quot;; url = &quot;profiles/graduate-students/silverman.html&quot;; }; 45 = { label = &quot;Tennberg&quot;; url = &quot;profiles/graduate-students/tennberg.html&quot;; }; 46 = { label = &quot;Tsompanidis&quot;; url = &quot;profiles/graduate-students/tsompanidis.html&quot;; }; 47 = { label = &quot;Way&quot;; url = &quot;profiles/graduate-students/way.html&quot;; }; 48 = { label = &quot; Yi&quot;; url = &quot;profiles/graduate-students/yi.html&quot;; }; }" target="_top">
+                            <div align="center"><span class="heading">Schedule &amp; Office Hours</span></div>
+                          </csobj></td>
+                      </tr>
+                  </table></td>
+                </tr>
+                <tr height="10">
+                  <td align="left" valign="top" height="10"></td>
+                </tr>
+                <tr>
+                  <td align="left" valign="top"><table width="938" border="0" cellspacing="0" cellpadding="0">
+                      <tr height="95">
+                        <td align="left" valign="middle" width="77" height="95"><table class="border-blue" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                              <td><a href="profiles/faculty/anderson.html"><img src="images/75x93/faculty/anderson.jpg" alt="C. Anthony Anderson" width="75" height="93" border="0" /></a></td>
+                            </tr>
+                          </table></td>
+                        <td align="left" valign="top" width="5" height="95"></td>
+                        <td align="left" valign="top" height="95"><table width="550" border="0" cellspacing="4" cellpadding="0">
+                            <tr>
+                              <td width="542" class="name-research"><a href="profiles/faculty/anderson.html">C. Anthony Anderson</a></td>
+                            </tr>
+                            <tr>
+                              <td class="institution-interests">PhD, University of California, Los Angeles</td>
+                            </tr>
+                            <tr>
+                              <td class="name-research">Professor of Philosophy</td>
+                            </tr>
+                            <tr>
+                              <td class="institution-interests">Logic, Metaphysics, Epistemology</td>
+                            </tr>
+                            <tr>
+                              <td class="maintext">South Hall 5708 | phone 805-893-7530 | <a href="mailto:caanders@philosophy.ucsb.edu">caanders@philosophy.ucsb.edu</a></td>
+                            </tr>
+                          </table></td>
+                        <td align="left" valign="top" width="5" height="95"></td>
+                        <td width="290" height="95" align="left" valign="top" class="maintext">
+                                                    
+                                                   	  <div align="center">
+                                                      <p>                                                      Office Hours:
+                                                      M/W 1:00-2:00<br />
+(Spring 2012)                                                     </p>
+                   	    </div>                                                      </td>
+                      </tr>
+                      <tr height="13">
+                        <td colspan="5" align="left" valign="middle" height="13"><hr noshade="noshade" size="1" />                        </td>
+                      </tr>
+                    </table></td>
+                </tr>
+                <tr>
+                  <td align="left" valign="top"><table width="938" border="0" cellspacing="0" cellpadding="0">
+                      <tr height="95">
+                        <td align="left" valign="middle" width="77" height="96"><table class="border-blue" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                              <td><a href="profiles/faculty/brueckner.html"><img src="images/75x93/faculty/brueckner.jpg" alt="Anthony Brueckner" width="75" height="93" border="0" /></a></td>
+                            </tr>
+                          </table></td>
+                        <td align="left" valign="top" width="5" height="96"></td>
+                        <td align="left" valign="top" height="96"><table width="550" border="0" cellspacing="4" cellpadding="0">
+                            <tr>
+                              <td class="name-research"><a href="profiles/faculty/brueckner.html">Anthony Brueckner</a></td>
+                            </tr>
+                            <tr>
+                              <td class="institution-interests">PhD, University of California, Los Angeles</td>
+                            </tr>
+                            <tr>
+                              <td class="name-research">Professor of Philosophy</td>
+                            </tr>
+                            <tr>
+                              <td class="institution-interests">Epistemology, Philosophy of Language, Metaphysics, Philosophy of Mind</td>
+                            </tr>
+                            <tr>
+                              <td class="maintext">South Hall 5713 | phone 805-893-8497 | <a href="mailto:brueckne@philosophy.ucsb.edu">brueckne@philosophy.ucsb.edu</a></td>
+                            </tr>
+                          </table></td>
+                        <td align="left" valign="top" width="5" height="96"></td>
+                        <td width="290" height="96" align="left" valign="top" class="maintext">
+                                                    
+                                                   	  <div align="center">
+                                                      <p>                                                      Office Hours:
+                                                      R 2:30-3:20<br />
+													  </p>
+                        </div>                                                      </td>
+                      </tr>
+                      <tr height="13">
+                        <td colspan="5" align="left" valign="middle" height="13"><hr noshade="noshade" size="1" />                        </td>
+                      </tr>
+                    </table></td>
+                </tr>
+                <tr>
+                  <td align="left" valign="top"><table width="938" border="0" cellspacing="0" cellpadding="0">
+                      <tr height="95">
+                        <td align="left" valign="middle" width="77" height="95"><table class="border-blue" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                              <td><a href="profiles/faculty/falvey.html"><img src="images/75x93/faculty/falvey02.jpg" alt="Kevin Falvey" width="75" height="93" border="0" /></a></td>
+                            </tr>
+                          </table></td>
+                        <td align="left" valign="top" width="5" height="95"></td>
+                        <td align="left" valign="top" height="95"><table width="550" border="0" cellspacing="4" cellpadding="0">
+                            <tr>
+                              <td class="name-research"><a href="profiles/faculty/falvey.html">Kevin Falvey</a></td>
+                            </tr>
+                            <tr>
+                              <td class="institution-interests">PhD, University of Minnesota</td>
+                            </tr>
+                            <tr>
+                              <td class="name-research">Associate Professor of Philosophy | Faculty Undergraduate Advisor</td>
+                            </tr>
+                            <tr>
+                              <td class="institution-interests">Philosophy of Mind, Philosophy of Language</td>
+                            </tr>
+                            <tr>
+                              <td class="maintext">South Hall 5709 | phone 805-893-7528 | <a href="mailto:falvey@philosophy.ucsb.edu">falvey@philosophy.ucsb.edu</a></td>
+                            </tr>
+                          </table></td>
+                        <td align="left" valign="top" width="5" height="95"></td>
+                        <td width="290" height="95" align="left" valign="top" class="maintext">
+                                                    
+                                                   	  <div align="center">
+                                                      <p>                                                      Office Hours: Please email<br />
+													  </p>
+					    </div>                        </td>
+                      </tr>
+                      <tr height="13">
+                        <td colspan="5" align="left" valign="middle" height="13"><hr noshade="noshade" size="1" />                        </td>
+                      </tr>
+                    </table></td>
+                </tr>
+                <tr>
+                  <td align="left" valign="top"><table width="938" border="0" cellspacing="0" cellpadding="0">
+                      <tr height="95">
+                        <td align="left" valign="middle" width="77" height="95"><table class="border-blue" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                              <td><a href="profiles/faculty/hanser.html"><img src="images/75x93/faculty/hanser.jpg" alt="Matthew Hanser" width="75" height="93" border="0" /></a></td>
+                            </tr>
+                          </table></td>
+                        <td align="left" valign="top" width="5" height="95"></td>
+                        <td align="left" valign="top" height="95"><table width="550" border="0" cellspacing="4" cellpadding="0">
+                            <tr>
+                              <td class="name-research"><a href="profiles/faculty/hanser.html">Matthew Hanser</a></td>
+                            </tr>
+                            <tr>
+                              <td class="institution-interests">PhD, University of California, Los Angeles</td>
+                            </tr>
+                            <tr>
+                              <td class="name-research">Professor of Philosophy | Chair</td>
+                            </tr>
+                            <tr>
+                              <td class="institution-interests">Ethics, Theory of Action, Philosophy of Mind</td>
+                            </tr>
+                            <tr>
+                              <td class="maintext">South Hall 5724 | phone 805-893-3165 | <a href="mailto:hanser@philosophy.ucsb.edu">hanser@philosophy.ucsb.edu</a></td>
+                            </tr>
+                          </table></td>
+                        <td align="left" valign="top" width="5" height="95"></td>
+                        <td width="290" height="95" align="left" valign="top" class="maintext">
+                                                    
+                                                   	  <div align="center">
+                                                      <p>                                                      Office Hours:
+                                                      R 2:00-3:00 (Spring 2012)<br />
+													  </p>
+                        </div>                                                      </td>
+                      </tr>
+                      <tr height="13">
+                        <td colspan="5" align="left" valign="middle" height="13"><hr noshade="noshade" size="1" />                        </td>
+                      </tr>
+                    </table></td>
+                </tr>
+                <tr>
+                  <td align="left" valign="top"><table width="938" border="0" cellspacing="0" cellpadding="0">
+                      <tr height="95">
+                        <td align="left" valign="middle" width="77" height="95"><table class="border-blue" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                              <td><a href="profiles/faculty/holden.html"><img src="images/75x93/faculty/holden.jpg" alt="Thomas Holden" width="75" height="93" border="0" /></a></td>
+                            </tr>
+                          </table></td>
+                        <td align="left" valign="top" width="5" height="95"></td>
+                        <td align="left" valign="top" height="95"><table width="550" border="0" cellspacing="4" cellpadding="0">
+                            <tr>
+                              <td class="name-research"><a href="profiles/faculty/holden.html">Thomas Holden</a></td>
+                            </tr>
+                            <tr>
+                              <td class="institution-interests">PhD, University of North Carolina at Chapel Hill</td>
+                            </tr>
+                            <tr>
+                              <td class="name-research">Professor of Philosophy</td>
+                            </tr>
+                            <tr>
+                              <td class="institution-interests">Modern Philosophy</td>
+                            </tr>
+                            <tr>
+                              <td class="maintext">South Hall 5710 | phone 805-893-2841 | <a href="mailto:tholden@philosophy.ucsb.edu">tholden@philosophy.ucsb.edu</a></td>
+                            </tr>
+                          </table></td>
+                        <td align="left" valign="top" width="5" height="95"></td>
+                        <td width="290" height="95" align="left" valign="top" class="maintext">
+                                                    
+                                                   	  <div align="center">
+                                                      <p>                                                      Office Hours:
+                                                      F 11:00-12:00, F 2:00-3:00 (Spring 2012)<br />
+													  </p>
+                        </div>                                                      </td>
+                      </tr>
+                      <tr height="13">
+                        <td colspan="5" align="left" valign="middle" height="13"><hr noshade="noshade" size="1" />                        </td>
+                      </tr>
+                  </table></td>
+                </tr>
+                <tr>
+                  <td align="left" valign="top"><table width="938" border="0" cellspacing="0" cellpadding="0">
+                      <tr height="95">
+                        <td align="left" valign="middle" width="77" height="95"><table class="border-blue" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                              <td><a href="profiles/faculty/mcmahon.html"><img src="images/75x93/faculty/mcmahon.jpg" alt="Christopher McMahon" width="75" height="93" border="0" /></a></td>
+                            </tr>
+                          </table></td>
+                        <td align="left" valign="top" width="5" height="95"></td>
+                        <td align="left" valign="top" height="95"><table width="550" border="0" cellspacing="4" cellpadding="0">
+                            <tr>
+                              <td class="name-research"><a href="profiles/faculty/mcmahon.html">Christopher McMahon</a></td>
+                            </tr>
+                            <tr>
+                              <td class="institution-interests">PhD, University of Pittsburgh</td>
+                            </tr>
+                            <tr>
+                              <td class="name-research">Professor of Philosophy</td>
+                            </tr>
+                            <tr>
+                              <td class="institution-interests">Moral Philosophy, Political and Social Philosophy</td>
+                            </tr>
+                            <tr>
+                              <td class="maintext">South Hall 5711 | phone 805-893-4610 | <a href="mailto:cmcmahon@philosophy.ucsb.edu">cmcmahon@philosophy.ucsb.edu</a></td>
+                            </tr>
+                          </table></td>
+                        <td align="left" valign="top" width="5" height="95"></td>
+                        <td width="290" height="95" align="left" valign="top" class="maintext">
+                                                    
+                                                   	  <div align="center">
+                                                      <p>                                                      Office Hours:
+                                                      T 3:30-4:30, R 11:00-12:00 (Spring 2012)<br />
+													  </p>
+                        </div>                                                      </td>
+                      </tr>
+                      <tr height="13">
+                        <td colspan="5" align="left" valign="middle" height="13"><hr noshade="noshade" size="1" />                        </td>
+                      </tr>
+                    </table></td>
+                </tr>
+                <tr>
+                  <td align="left" valign="top"><table width="938" border="0" cellspacing="0" cellpadding="0">
+                      <tr height="95">
+                        <td align="left" valign="middle" width="77" height="95"><table class="border-blue" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                              <td><a href="profiles/faculty/rescorla.html"><img src="images/75x93/faculty/rescorla.jpg" alt="Michael Rescorla" width="75" height="93" border="0" /></a></td>
+                            </tr>
+                          </table></td>
+                        <td align="left" valign="top" width="5" height="95"></td>
+                        <td align="left" valign="top" height="95"><table width="550" border="0" cellspacing="4" cellpadding="0">
+                            <tr>
+                              <td class="name-research"><a href="profiles/faculty/rescorla.html">Michael Rescorla</a></td>
+                            </tr>
+                            <tr>
+                              <td class="institution-interests">PhD, Harvard University</td>
+                            </tr>
+                            <tr>
+                              <td class="name-research">Associate Professor of Philosophy</td>
+                            </tr>
+                            <tr>
+                              <td class="institution-interests">Philosophy of Language, Mind, Psychology, Logic</td>
+                            </tr>
+                            <tr>
+                              <td class="maintext">South Hall 5716 | phone 805-893-3080 | <a href="mailto:rescorla@philosophy.ucsb.edu">rescorla@philosophy.ucsb.edu</a></td>
+                            </tr>
+                          </table></td>
+                        <td align="left" valign="top" width="5" height="95"></td>
+                        <td width="290" height="95" align="left" valign="top" class="maintext">
+                                                    
+                                                   	  <div align="center">
+                                                      <p>                                                      Office Hours:
+                                                      Please email<br />
+													  </p>
+                                                      </div>                                                      </td>
+                      </tr>
+                      <tr height="13">
+                        <td colspan="5" align="left" valign="middle" height="13"><hr noshade="noshade" size="1" />                        </td>
+                      </tr>
+                    </table></td>
+                </tr>
+                
+                <tr>
+                  <td align="left" valign="top"><table width="938" border="0" cellspacing="0" cellpadding="0">
+                      <tr height="95">
+                        <td align="left" valign="middle" width="77" height="95"><table class="border-blue" border="0" cellspacing="0" cellpadding="0">
+                                <td><a href="profiles/faculty/robertson.html"><img src="images/75x93/faculty/robertson.jpg" alt="Teresa Robertson" width="75" height="93" border="0" /></a></td>
+                            <tr>
+                              <td></td>
+                            </tr>
+                          </table></td>
+                        <td align="left" valign="top" width="5" height="95"></td>
+                        <td align="left" valign="top" height="95"><table width="550" border="0" cellspacing="4" cellpadding="0">
+                            <tr>
+                              <td class="name-research">Teresa Robertson</td>
+                            </tr>
+                            <tr>
+                              <td class="institution-interests">PhD, Princeton University</td>
+                            </tr>
+                            <tr>
+                              <td class="name-research">Associate Professor of Philosophy</td>
+                            </tr>
+                            <tr>
+                              <td class="institution-interests">Philosophy of Language, Metaphysics</td>
+                            </tr>
+                            <tr>
+                              <td class="maintext">South Hall 5714 | phone TBA | <a href="mailto:trobertson@philosophy.ucsb.edu">trobertson@philosophy.ucsb.edu</a></td>
+                            </tr>
+                          </table></td>
+                        <td align="left" valign="top" width="5" height="95"></td>
+                        <td width="290" height="95" align="left" valign="top" class="maintext">
+                                                    
+                                                   	  <div align="center">
+                                                      <p>                                                      Office Hours:
+                                                      T/R 3:20-4:20 &amp; by appt. (Spring 2012)</p>
+                        </div>                                                      </td>
+                      </tr>
+                      <tr height="13">
+                        <td colspan="5" align="left" valign="middle" height="13"><hr noshade="noshade" size="1" />                        </td>
+                      </tr>
+                    </table></td>
+                </tr>
+                
+                <tr>
+                  <td align="left" valign="top"><table width="938" border="0" cellspacing="0" cellpadding="0">
+                      <tr height="95">
+                        <td align="left" valign="middle" width="77" height="95"><table class="border-blue" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                              <td><a href="profiles/faculty/salmon.html"><img src="images/75x93/faculty/salmon.jpg" alt="Nathan Salmon" width="75" height="93" border="0" /></a></td>
+                            </tr>
+                          </table></td>
+                        <td align="left" valign="top" width="5" height="95"></td>
+                        <td align="left" valign="top" height="95"><table width="550" border="0" cellspacing="4" cellpadding="0">
+                            <tr>
+                              <td class="name-research"><a href="profiles/faculty/salmon.html">Nathan Salmon</a></td>
+                            </tr>
+                            <tr>
+                              <td class="institution-interests">PhD, University of California, Los Angeles</td>
+                            </tr>
+                            <tr>
+                              <td class="name-research">Professor of Philosophy | Faculty Graduate Advisor</td>
+                            </tr>
+                            <tr>
+                              <td class="institution-interests">Philosophy of Language, Philosophy of Logic, Metaphysics</td>
+                            </tr>
+                            <tr>
+                              <td class="maintext">South Hall 5712 | phone 805-893-4028 | <a href="mailto:nsalmon@philosophy.ucsb.edu">nsalmon@philosophy.ucsb.edu</a></td>
+                            </tr>
+                          </table></td>
+                        <td align="left" valign="top" width="5" height="95"></td>
+                        <td width="290" height="95" align="left" valign="top" class="maintext">
+                                                    
+                                                   	  <div align="center">
+                                                      <p>                                                      Office Hours:
+                                                      W 2:00-3:00 &amp; by appt. (Spring 2012)<br />
+													  </p>
+                        </div>                                                      </td>
+                      </tr>
+                      <tr height="13">
+                        <td colspan="5" align="left" valign="middle" height="13"><hr noshade="noshade" size="1" />                        </td>
+                      </tr>
+                    </table></td>
+                </tr>
+                <tr>
+                  <td align="left" valign="top"><table width="938" border="0" cellspacing="0" cellpadding="0">
+                      <tr height="95">
+                        <td align="left" valign="middle" width="77" height="95"><table class="border-blue" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                              <td><a href="profiles/faculty/tsouna.html"><img src="images/75x93/faculty/tsouna.jpg" alt="Voula Tsouna" width="75" height="93" border="0" /></a></td>
+                            </tr>
+                          </table></td>
+                        <td align="left" valign="top" width="5" height="95"></td>
+                        <td align="left" valign="top" height="95"><table width="550" border="0" cellspacing="4" cellpadding="0">
+                            <tr>
+                              <td class="name-research"><a href="profiles/faculty/tsouna.html">Voula Tsouna</a></td>
+                            </tr>
+                            <tr>
+                              <td class="institution-interests">PhD, University of Paris X, France</td>
+                            </tr>
+                            <tr>
+                              <td class="name-research">Professor of Philosophy | Faculty Graduate Advisor </td>
+                            </tr>
+                            <tr>
+                              <td class="institution-interests">Ancient Philosophy</td>
+                            </tr>
+                            <tr>
+                              <td class="maintext">South Hall 5722 | phone 805-893-3990 | <a href="mailto:vtsouna@philosophy.ucsb.edu">vtsouna@philosophy.ucsb.edu</a></td>
+                            </tr>
+                          </table></td>
+                        <td align="left" valign="top" width="5" height="95"></td>
+                        <td width="290" height="95" align="left" valign="top" class="maintext">
+                                                    
+                                                   	  <div align="center">
+                                                      <p>                                                      Office Hours:
+                                                      Please email<br />
+													  </p>
+                        </div>                                                      </td>
+                      </tr>
+                      <tr height="13">
+                        <td colspan="5" align="left" valign="middle" height="13"><hr noshade="noshade" size="1" />                        </td>
+                      </tr>
+                    </table></td>
+                </tr>
+                <tr>
+                  <td align="left" valign="top"><table width="938" border="0" cellspacing="0" cellpadding="0">
+                      <tr height="95">
+                        <td align="left" valign="middle" width="77" height="95"><table class="border-blue" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                              <td><a href="profiles/faculty/wilkins.html"><img src="images/75x93/faculty/wilkins.jpg" alt="Burleigh Wilkins" width="75" height="93" border="0" /></a></td>
+                            </tr>
+                          </table></td>
+                        <td align="left" valign="top" width="5" height="95"></td>
+                        <td align="left" valign="top" height="95"><table width="550" border="0" cellspacing="4" cellpadding="0">
+                            <tr>
+                              <td class="name-research"><a href="profiles/faculty/wilkins.html">Burleigh Wilkins</a></td>
+                            </tr>
+                            <tr>
+                              <td class="institution-interests">PhD, Princeton University</td>
+                            </tr>
+                            <tr>
+                              <td class="name-research">Professor of Philosophy</td>
+                            </tr>
+                            <tr>
+                              <td class="institution-interests">Philosophy of History, Political Philosophy, Philosophy of Law</td>
+                            </tr>
+                            <tr>
+                              <td class="maintext">South Hall 5715 | phone 805-893-4137 </td>
+                            </tr>
+                          </table></td>
+                        <td align="left" valign="top" width="5" height="95"></td>
+                        <td width="290" height="95" align="left" valign="top" class="maintext">
+                                                    
+                                                   	  <div align="center">
+                                                      <p>                                                      Office Hours:
+                                                      <br />
+													  </p>
+                          </div>                        </td>
+                      </tr>
+                      <tr height="13">
+                        <td colspan="5" align="left" valign="middle" height="13"><hr noshade="noshade" size="1" />                        </td>
+                      </tr>
+                    </table></td>
+                </tr>
+                <tr>
+                  <td align="left" valign="top"><table width="938" border="0" cellspacing="0" cellpadding="0">
+                      <tr height="95">
+                        <td align="left" valign="middle" width="77" height="95"><table class="border-blue" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                              <td><a href="profiles/faculty/zimmerman.html"><img src="images/75x93/faculty/zimmerman.jpg" alt="Aaron Zimmerman" width="75" height="93" border="0" /></a></td>
+                            </tr>
+                          </table></td>
+                        <td align="left" valign="top" width="5" height="95"></td>
+                        <td align="left" valign="top" height="95"><table width="550" border="0" cellspacing="4" cellpadding="0">
+                            <tr>
+                              <td class="name-research"><a href="profiles/faculty/zimmerman.html">Aaron Zimmerman</a></td>
+                            </tr>
+                            <tr>
+                              <td class="institution-interests">PhD, Cornell University</td>
+                            </tr>
+                            <tr>
+                              <td class="name-research">Associate Professor of Philosophy</td>
+                            </tr>
+                            <tr>
+                              <td class="institution-interests">Philosophy of Mind, Epistemology, Action Theory, Moral Psychology</td>
+                            </tr>
+                            <tr>
+                              <td class="maintext">South Hall 5707 | phone 805-893-2632 | <a href="mailto:azimmerman@philosophy.ucsb.edu">azimmerman@philosophy.ucsb.edu</a></td>
+                            </tr>
+                          </table></td>
+                        <td align="left" valign="top" width="5" height="95"></td>
+                        <td width="290" height="95" align="left" valign="top" class="maintext">
+                                                    
+                                                   	  <div align="center">
+                                                      <p>                                                      Office Hours:
+                                                      Please email<br />
+													  </p>
+                        </div>                                                      </td>
+                      </tr>
+                      <tr height="13">
+                        <td colspan="5" align="left" valign="middle" height="13"><hr noshade="noshade" size="1" />                        </td>
+                      </tr>
+                  </table></td>
+                </tr>
+                <tr>
+                  <td class="maintext" align="left" valign="top"><br />
+                    <em><strong>* For Faculty awards and honors information please see Faculty CVs.</strong></em><br />
+                    <br />
+                    [<a href="#Anchor-Faculty-11481">back to top</a>]<br />
+                    <br />                  </td>
+                </tr>
+                <tr height="30">
+                  <td class="heading" align="left" valign="middle" bgcolor="#cccccc" height="30"><a name="Anchor-Visiting-49575" id="Anchor-Visiting-49575"></a>Emeritus Faculty<br />                  </td>
+                </tr>
+                <tr height="10">
+                  <td class="heading" align="left" valign="middle" height="10"></td>
+                </tr>
+                <tr>
+                  <td align="left" valign="top"><table width="100%" border="0" cellspacing="4" cellpadding="0">
+                      <tr>
+                        <td class="name-research">Donald W. Crawford</td>
+                      </tr>
+                      <tr>
+                        <td class="institution-interests">PhD, University of Wisconsin, Madison</td>
+                      </tr>
+                      <tr>
+                        <td class="name-research">Emeritus Professor of Philosophy</td>
+                      </tr>
+                      <tr>
+                        <td class="institution-interests">Aesthetics, 18th-Century Philosophy</td>
+                      </tr>
+                    </table></td>
+                </tr>
+                <tr>
+                  <td align="left" valign="top"><hr noshade="noshade" size="1" />                  </td>
+                </tr>
+                <tr>
+                  <td align="left" valign="top"><table width="100%" border="0" cellspacing="4" cellpadding="0">
+                      <tr>
+                        <td class="name-research">Francis W. Dauer</td>
+                      </tr>
+                      <tr>
+                        <td class="institution-interests">PhD, Harvard University</td>
+                      </tr>
+                      <tr>
+                        <td class="name-research">Emeritus Professor of Philosophy</td>
+                      </tr>
+                      <tr>
+                        <td class="institution-interests">Epistemology, Hume, Philosophical Psychology</td>
+                      </tr>
+                    </table></td>
+                </tr>
+                <tr>
+                  <td align="left" valign="top"><hr noshade="noshade" size="1" />                  </td>
+                </tr>
+                <tr>
+                  <td align="left" valign="top"><table width="100%" border="0" cellspacing="4" cellpadding="0">
+                      <tr>
+                        <td class="name-research">Herbert Fingarette</td>
+                      </tr>
+                      <tr>
+                        <td class="institution-interests">PhD, University of California, Los Angeles</td>
+                      </tr>
+                      <tr>
+                        <td class="name-research">Emeritus Professor of Philosophy</td>
+                      </tr>
+                      <tr>
+                        <td class="institution-interests">Philosophy of Psychology, Philosophy of Law, Chinese Philosophy</td>
+                      </tr>
+                      <tr>
+                        <td class="maintext"><a href="mailto:hfingarette@yahoo.com">hfingarette@yahoo.com</a></td>
+                      </tr>
+                    </table></td>
+                </tr>
+                <tr>
+                  <td align="left" valign="top"><hr noshade="noshade" size="1" />                  </td>
+                </tr>
+                <tr>
+                  <td align="left" valign="top"><table width="100%" border="0" cellspacing="4" cellpadding="0">
+                      <tr>
+                        <td class="name-research">Noel Fleming</td>
+                      </tr>
+                      <tr>
+                        <td class="institution-interests">D.Phil., Oxford University</td>
+                      </tr>
+                      <tr>
+                        <td class="name-research">Emeritus Professor of Philosophy</td>
+                      </tr>
+                      <tr>
+                        <td class="institution-interests">Philosophy of Mind, History of Philosophy, Aesthetics</td>
+                      </tr>
+                    </table></td>
+                </tr>
+                <tr>
+                  <td align="left" valign="top"><hr noshade="noshade" size="1" />                  </td>
+                </tr>
+                <tr>
+                  <td align="left" valign="top"><table width="100%" border="0" cellspacing="4" cellpadding="0">
+                      <tr>
+                        <td class="name-research">J. William Forgie</td>
+                      </tr>
+                      <tr>
+                        <td class="institution-interests">PhD, Cornell University</td>
+                      </tr>
+                      <tr>
+                        <td class="name-research">Emeritus Professor of Philosophy</td>
+                      </tr>
+                      <tr>
+                        <td class="maintext"><span class="institution-interests">Philosophy of Religion, Epistemology, Wittgenstein</span></td>
+                      </tr>
+                      <tr>
+                        <td class="maintext"><a href="mailto:forgie@philosophy.ucsb.edu">forgie@philosophy.ucsb.edu</a><br /></td>
+                      </tr>
+                  </table></td>
+                </tr>
+                <tr>
+                  <td align="left" valign="top"><hr noshade="noshade" size="1" />                  </td>
+                </tr>
+                <tr>
+                  <td align="left" valign="top"><table width="100%" border="0" cellspacing="4" cellpadding="0">
+                      <tr>
+                        <td class="name-research">Hubert Schwyzer †</td>
+                      </tr>
+                      <tr>
+                        <td class="institution-interests">PhD, University of California, Berkeley</td>
+                      </tr>
+                      <tr>
+                        <td class="name-research">Emeritus Professor of Philosophy</td>
+                      </tr>
+                      <tr>
+                        <td class="institution-interests">Kant, Wittgenstein</td>
+                      </tr>
+                      <tr>
+                        <td class="maintext"><a href="images/schwyzer.pdf">In Memoriam [PDF]</a></td>
+                      </tr>
+                    </table></td>
+                </tr>
+                <tr>
+                  <td align="left" valign="top"><hr noshade="noshade" size="1" />                  </td>
+                </tr>
+                <tr>
+                  <td align="left" valign="top"><table width="100%" border="0" cellspacing="4" cellpadding="0">
+                      <tr>
+                        <td class="name-research">Alexander Sesonske</td>
+                      </tr>
+                      <tr>
+                        <td class="institution-interests">PhD, University of California, Los Angeles</td>
+                      </tr>
+                      <tr>
+                        <td class="name-research">Emeritus Professor of Philosophy</td>
+                      </tr>
+                      <tr>
+                        <td class="institution-interests">Aesthetics, Ethics, Classical Philosophy</td>
+                      </tr>
+                    </table></td>
+                </tr>
+                <tr>
+                  <td align="left" valign="top"><hr noshade="noshade" size="1" />                  </td>
+                </tr>
+                <tr>
+                  <td class="maintext" align="left" valign="top"><br />
+                    [<a href="#Anchor-Faculty-11481">back to top</a>]<br />
+                    <br />                  </td>
+                </tr>
+                <tr height="30">
+                  <td class="heading" align="left" valign="middle" bgcolor="#cccccc" height="30"><a name="Anchor-Adjunct-49575" id="Anchor-Adjunct-49575"></a>Adjunct &amp; Visiting Faculty<br />                  </td>
+                </tr>
+                <tr height="10">
+                  <td class="heading" align="left" valign="top" height="10"></td>
+                </tr>
+                <tr>
+                  <td class="heading" align="left" valign="top"><table width="100%" border="0" cellspacing="4" cellpadding="0">
+                      <tr>
+                       
+                      </tr>
+                  </table></td>
+                </tr>
+                
+                                <tr>
+                  <td class="heading" align="left" valign="top"><table width="100%" border="0" cellspacing="4" cellpadding="0">
+                      <tr>
+                        <td class="name-research">Steven Humphrey</td>
+                      </tr>
+                      <tr>
+                        <td class="institution-interests">PhD, Ohio State University</td>
+                      </tr>
+                      <tr>
+                        <td class="name-research">Adjunct Professor of Philosophy</td>
+                      </tr>
+                      <tr>
+                        <td class="institution-interests">Philosophy of Science</td>
+                      </tr>
+                      <tr>
+                        <td class="maintext"><p><a href="mailto:steven_humphrey@msn.com">steven_humphrey@msn.com</a><br />
+                          Office: South Hall 5719<br />
+                        Office Hours by appointment</p>                        </td>
+                      </tr>
+                      <tr>
+                        <td class="maintext">&nbsp;</td>
+                      </tr>
+                  </table></td>
+                  
+                  
+<!-- Start Profile-->                  
+                  
+                </tr>
+                
+                <tr>
+                  <td class="heading" align="left" valign="top"><table width="100%" border="0" cellspacing="4" cellpadding="0">
+                      <tr>
+                        <td class="name-research">Ben Wolfson</td>
+                      </tr>
+                      <tr>
+                        <td class="institution-interests">PhD</td>
+                      </tr>
+                      <tr>
+                        <td class="name-research">Visiting Faculty</td>
+                      </tr>
+                      <tr>
+                        <td class="institution-interests">Philosophy</td>
+                      </tr>
+                      <tr>
+                        <td class="maintext"><p><a href="mailto:wolfson@gmail.com">wolfson@gmail.com</a><br />
+                          Office: South Hall 5719<br />
+                        Office Hours: R 2:00-4:00</p>                        </td>
+                      </tr>
+                      <tr>
+                        <td class="maintext">&nbsp;</td>
+                      </tr>
+                  </table></td>
+                  
+<!-- End Profile-->                  
+                  
+<!-- Start Profile-->                  
+                  
+                </tr>
+                
+                <tr>
+                  <td class="heading" align="left" valign="top"><table width="100%" border="0" cellspacing="4" cellpadding="0">
+                      <tr>
+                        <td class="name-research">Brandon Johns</td>
+                      </tr>
+                      <tr>
+                        <td class="institution-interests">PhD</td>
+                      </tr>
+                      <tr>
+                        <td class="name-research">Visiting Faculty</td>
+                      </tr>
+                      <tr>
+                        <td class="institution-interests">Philosophy</td>
+                      </tr>
+                      <tr>
+                        <td class="maintext"><p><a href="mailto:bjohns43@gmail.com">bjohns43@gmail.com</a><br />
+                          Office: South Hall 5719<br />
+                        Office Hours: W/F 4:00-5:00</p>                        </td>
+                      </tr>
+                      <tr>
+                        <td class="maintext">&nbsp;</td>
+                      </tr>
+                  </table></td>
+                  
+<!-- End Profile-->        
+
+<!-- Start Profile-->                  
+                  
+                </tr>
+                
+                <tr>
+                  <td class="heading" align="left" valign="top"><table width="100%" border="0" cellspacing="4" cellpadding="0">
+                      <tr>
+                        <td class="name-research">Russell Samolsky</td>
+                      </tr>
+                      <tr>
+                        <td class="institution-interests">PhD</td>
+                      </tr>
+                      <tr>
+                        <td class="name-research">Visiting Faculty</td>
+                      </tr>
+                      <tr>
+                        <td class="institution-interests">English</td>
+                      </tr>
+                      <tr>
+                        <td class="maintext"><p><a href="mailto:rsamolsky@english.ucsb.edu">rsamolsky@english.ucsb.edu</a><br />
+                          Office: South Hall 2724<br />
+                        Office Hours: F 2:30-4:00</p>                        </td>
+                      </tr>
+                      <tr>
+                        <td class="maintext">&nbsp;</td>
+                      </tr>
+                  </table></td>
+                  
+<!-- End Profile-->        
+
+                  
+                </tr>
+                
+                
+                
+                <tr>
+                  <td align="left" valign="top"><hr noshade="noshade" size="1" />                  </td>
+                </tr>
+                <tr height="30">
+                  <td class="heading" align="left" valign="middle" bgcolor="#cccccc" height="30"><a name="Anchor-Affiliated-49575" id="Anchor-Adjunct-"></a>Affiliated Faculty<br />                  </td>
+                </tr>
+                <tr>
+                  <td class="maintext" align="left" valign="top"><table width="100%" border="0" cellspacing="4" cellpadding="0">
+                    <tr>
+                      <td class="name-research">Andrew Norris</td>
+                    </tr>
+                    <tr>
+                      <td class="institution-interests"> PhD, University of California, Berkeley</td>
+                    </tr>
+                    <tr>
+                      <td class="name-research">Associate Professor of Political Science</td>
+                    </tr>
+                    <tr>
+                      <td class="institution-interests">Political Philosophy</td>
+                    </tr>
+                    <tr>
+                      <td class="maintext"><a href="mailto:anorris@polsci.ucsb.edu">anorris@polsci.ucsb.edu</a></td>
+                    </tr>
+                  </table>
+                    <p>[<a href="#Anchor-Faculty-11481">back to top</a>]</p>
+                    <table width="100%" border="0" cellspacing="4" cellpadding="0">
+                      <tr>
+                        <td class="name-research">Robert Renehan</td>
+                      </tr>
+                      <tr>
+                        <td class="institution-interests">PhD, Harvard University</td>
+                      </tr>
+                      <tr>
+                        <td class="name-research">Professor of Classics</td>
+                      </tr>
+                      <tr>
+                        <td class="institution-interests">Greek Philosophy</td>
+                      </tr>
+                      <tr>
+                        <td class="maintext"><a href="mailto:renehan@classics.ucsb.edu">renehan@classics.ucsb.edu</a></td>
+                      </tr>
+                    </table></td>
+                </tr>
+                <tr height="30">
+                  <td class="maintext" align="left" valign="middle" bgcolor="#cccccc" height="30"><a name="Anchor-Office-49575" id="Anchor-Office-49575"></a><span class="heading">Supporting Staff</span></td>
+                </tr>
+                <tr height="10">
+                  <td class="heading" align="left" valign="top" height="10"></td>
+                </tr>
+                
+                <tr>
+                	<td class="maintext" style="text-align:center;">
+					
+					<br />
+					<a href="index3.html">
+                    <span style="font-size:14px;">
+                    South Hall Administrative Support Center Staff                    </span>                    </a>
+                    <br />
+					<br />                    </td>
+                </tr>
+                <tr>
+                  <td class="maintext" align="left" valign="top"><br />
+                    [<a href="#Anchor-Faculty-11481">back to top</a>]<br />
+                    <br />                  </td>
+                </tr>
+                <tr>
+                  <td></td>
+                </tr>
+              </table>
+              <!-- InstanceEndEditable --></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td align="left" valign="top" bgcolor="#6f8591" width="950"><table width="950" border="0" cellspacing="6" cellpadding="0">
+          <tr>
+            <td class="bottom-navigation" align="center" valign="middle" nowrap="nowrap">University of California, Santa Barbara<br />
+              Philosophy Department | 5631 South Hall | Santa Barbara, CA 93106-3090 | (PH) 805-893-7488 (FX) 805-893-8221</td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td align="left" valign="top" bgcolor="#00426a" width="950"><table width="950" border="0" cellspacing="6" cellpadding="0">
+          <tr>
+            <td class="bottom-navigation" align="center" valign="middle" nowrap="nowrap">© UCSB Philosophy 2006 | <a href="mailto:sasc-webupdates@hfa.ucsb.edu">Contact Philosophy Webmaster</a></td>
+          </tr>
+        </table></td>
+    </tr>
+  </table>
+</div>
+</body>
+<!-- InstanceEnd -->
+</html>

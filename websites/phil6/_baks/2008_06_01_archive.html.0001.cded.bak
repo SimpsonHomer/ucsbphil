@@ -1,0 +1,517 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <title>Philosophy 6: June 2008</title>
+  
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="MSSmartTagsPreventParsing" content="true" />
+<meta name="generator" content="Blogger" />
+<link rel="alternate" type="application/atom+xml" title="Philosophy 6 - Atom" href="http://www.philosophy.ucsb.edu/websites/phil6/atom.xml" />
+<link rel="alternate" type="application/rss+xml" title="Philosophy 6 - RSS" href="http://www.philosophy.ucsb.edu/websites/phil6/rss.xml" />
+<link rel="service.post" type="application/atom+xml" title="Philosophy 6 - Atom" href="http://www.blogger.com/feeds/6237430187788549112/posts/default" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.blogger.com/rsd.g?blogID=6237430187788549112" />
+<style type="text/css">
+@import url("http://www.blogger.com/css/blog_controls.css");
+@import url("http://www.blogger.com/dyn-css/authorization.css?targetBlogID=6237430187788549112");
+</style>
+
+
+  <style type="text/css">
+/*
+-----------------------------------------------
+Blogger Template Style
+Name:     Minima Blue
+Designer: Douglas Bowman
+URL:      www.stopdesign.com
+Date:     28 Feb 2004
+----------------------------------------------- */
+
+
+body {
+  background:#3e5e8d;
+  margin:0;
+  padding:20px 20px;
+  font-family: Verdana, Helvetica, Arial, Trebuchet MS, Lucida Grande, Sans-Serif;
+  font-size: 11px;
+  text-align:center;
+  color:#000000;
+  }
+
+p {
+  margin: 0px;
+  padding: 0px;
+}
+
+h2, h3, h4 {
+  margin: 0px;
+  padding: 0px;
+}
+
+a:link {
+  color:#03c;
+  text-decoration:none;
+  }
+
+a:visited {
+  color:#03c;
+  text-decoration:none;
+  }
+
+a:hover {
+  color:#03c;
+  text-decoration:underline;
+  }
+
+a img {
+  border-width:0;
+  }
+
+#layoutContainer {
+    width:950px;
+    margin:0px auto;
+    padding:0px;
+    text-align:left;
+    border: solid 1px #ffffff;
+    overflow: hidden;
+}
+
+/* Header
+----------------------------------------------- */
+  #header {
+    width:950px;
+    height:175px;
+    margin:0px;
+    border:none;
+    background-image: url(http://www.philosophy.ucsb.edu/images/phil6.gif);
+    }
+
+#blog-title {
+  margin:0px;
+  padding:0px;
+  border:none;
+  color:#ffffff;
+  text-transform:uppercase;
+  text-indent: -9999px;
+  }
+
+#blog-title a {
+  color:#ffffff;
+  text-decoration:none;
+  }
+
+#blog-title a:hover {
+  color:#ffffff;
+  }
+
+#description {
+  margin:0px;
+  padding:0px;
+  border:none;
+  text-transform:uppercase;
+  text-indent: -9999px;
+  }
+
+
+/* Content
+----------------------------------------------- */
+  #content {
+    width:950px;
+    margin:0px;
+    padding:0px;
+    text-align:left;
+    overflow: hidden;
+    background: #b2b1a5;
+    }
+
+  #main {
+    width:650px;
+    float:left;
+    background:#ebebe7;
+    margin:0px;
+    padding:0px;
+}
+
+#main p {
+    margin:0px;
+    padding:0px;
+    }
+
+
+#main ul {
+    margin:0px;
+    padding:2px 0px 2px 45px;
+    list-style-type: square;
+    }
+
+#main ol {
+    margin:0px;
+    padding:2px 0px 2px 45px;
+    }
+
+#sidebar {
+    width:300px;
+    float:right;
+    margin:0px;
+    padding:0px;
+    background:#b2b1a5;
+    }
+
+
+/* Headings
+----------------------------------------------- */
+h2 {
+  margin:0px;
+  padding:0px;
+  font-size: 12px;
+  text-transform:uppercase;
+  color:#b2b1a5;
+  }
+
+
+/* Posts
+----------------------------------------------- */
+.date-header {
+  text-size:9px;
+  text-transform:uppercase;
+  margin:0px;
+  padding:10px 0px 0px 10px;
+  color:#b2b1a5;
+}
+
+.post {
+  margin:0px;
+  padding:5px 10px 5px 10px;
+  border-bottom:10px solid #cccccc;
+  
+}
+
+.post-title {
+  margin:0px;
+  padding:0px 0px 2px 0px;
+  font-size:14px;
+  text-transform:uppercase;
+  line-height:16px;
+  color:#00426a;
+}
+
+.post-title a {
+  text-decoration:none;
+  color:#00426a;
+}
+
+.post-title a:hover {
+  color:#fff;
+}
+
+.post div {
+  margin:0px;
+  padding:0px;
+  line-height:16px;
+}
+
+p.post-footer {
+  margin:0px;
+  color:#999999;
+}
+
+.post-footer em, .comment-link {
+  font-size: 9px;
+  text-transform:uppercase;
+  letter-spacing:.1em;
+}
+
+.post-footer em {
+  font-style:normal;
+  color:#579;
+  margin:0px;
+}
+
+.comment-link {
+  margin-left:0px;
+}
+
+.post img {
+  padding:4px;
+  border:1px solid #00426a;
+}
+
+.post blockquote {
+  margin:10px;
+}
+
+.post blockquote p {
+  margin:0px;
+}
+
+
+/* Comments
+----------------------------------------------- */
+#comments h4 {
+  margin:0px;
+  font-weight: bold;
+  text-transform:uppercase;
+  letter-spacing:.2em;
+  color:#999999;
+}
+
+#comments h4 strong {
+  font-size: 12px;
+}
+
+#comments-block {
+  margin:1em 0px;
+  line-height:1.6em;
+}
+
+#comments-block dt {
+  margin:0px;
+}
+
+#comments-block dd {
+  margin:0px;
+}
+
+#comments-block dd.comment-timestamp {
+  margin:0px;
+  font-size: 9px;
+  text-transform:uppercase;
+  letter-spacing:.1em;
+}
+
+#comments-block dd p {
+  margin:0px;
+}
+
+.deleted-comment {
+  font-style:italic;
+  color:gray;
+}
+
+
+/* Sidebar Content
+----------------------------------------------- */
+.sidebar-title {
+  margin:0px;
+  padding:10px 0px 2px 10px;
+  font-size:14px;
+  line-height:16px;
+  color:#00426a;
+}
+
+#sidebar ul {
+  margin:0px;
+  padding:0px;
+  border-bottom:none;
+  list-style:none;
+}
+
+#sidebar li {
+  margin:0px;
+  padding:2px 0px 2px 25px;
+}
+
+#sidebar p {
+  margin:0px;
+  padding:0px;
+}
+
+
+/* Footer
+----------------------------------------------- */
+#footer {
+  width:950px;
+  height: 45px;
+  clear:both;
+  margin:0px;
+  padding:0px;
+  background: #00426a;
+}
+
+#footer p {
+  margin:0;
+  padding:10px;
+  text-align: center;
+  font-family: Verdana, Helvetica, Arial, Trebuchet MS, Lucida Grande, Sans-Serif;
+  font-size: 10px;
+  text-transform:uppercase;
+  color: #ffffff;
+  letter-spacing:.1em;
+}
+
+</style>
+
+</head>
+
+<body>
+<div id="layoutContainer">
+<div id="header">
+
+</div>
+
+<!-- Begin #content -->
+<div id="content">
+
+<!-- Begin #main -->
+<div id="main"><div id="main2">
+
+
+<h2 class="date-header">Monday, June 2, 2008</h2>
+     
+<!-- Begin .post -->
+<div class="post"><a name="8467333441549744196"></a>
+
+<h3 class="post-title">
+
+Final exam study guide and all the lectures are posted!
+</h3>
+
+<div class="post-body">
+<div><div style="clear:both;"></div>Hi everyone,<br />I've posted all the lectures and the final exam review sheet.<br /><br />remember that the final exam is on Wednesday, June 11th, 4:00pm-7:00pm. <br /><br />Blue book(s) required for the Final!<br /><br />Good luck!<br /><br />Joe<div style="clear:both; padding-bottom:0.25em"></div>
+</div>
+</div>
+    
+<p class="post-footer">
+<em>posted by UCSB Philosophy at 
+    <a class="post-footer-link" href="http://www.philosophy.ucsb.edu/websites/phil6/2008/06/final-exam-study-guide-and-all-lectures.html" title="permanent link"> 3:30 PM </a></em>
+
+
+  
+    </p>
+  
+  </div>
+  <!-- End .post -->
+  
+  
+  
+  <!-- Begin #comments -->
+ 
+
+  <!-- End #comments -->
+
+
+</div></div>
+<!-- End #main -->
+
+
+<!-- BEGIN SIDEBAR -->
+<div id="sidebar"><div id="sidebar2">
+
+
+  <h2 class="sidebar-title">Email Links</h2>
+    <ul>
+    	<li><a href="mailto:josephlee@umail.ucsb.edu">Joseph Lee (Class Instructor)</a></li>
+        <li><a href="mailto:carmen_mcdonald@umail.ucsb.edu">Carmen McDonald (TA)</a></li>
+
+  </ul>
+
+<h2 class="sidebar-title">Info & Handouts</h2>
+    <ul>
+    	<li><a href="http://www.philosophy.ucsb.edu/websites/phil6/phil6_sp08_syllabus.pdf">Phil 6 Syllabus</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil6/Phil6_Paper1topic.pdf">Phil 6 Paper #1</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil6/Phil6_Paper2topic.pdf">Phil 6 Paper #2</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil6/Phil6_Monroehandout.pdf">Monroe Handout</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil6/Finalexam_reviewguide.pdf">Final Exam Review Guide</a></li>
+        
+        
+        
+  </ul>
+
+<h2 class="sidebar-title">Lecture Notes</h2>
+    <ul>
+    	<li><a href="http://www.philosophy.ucsb.edu/websites/phil6/Phil6_Lecture1.pdf">Lecture #1</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil6/Phil6_Lecture2.pdf">Lecture #2</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil6/Phil6_Lecture3.pdf">Lecture #3</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil6/Phil6_Lecture4.pdf">Lecture #4</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil6/Phil6_Lecture5.pdf">Lecture #5</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil6/Phil6_Lecture6.pdf">Lecture #6</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil6/Phil6_Lecture7.pdf">Lecture #7</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil6/Phil6_Lecture8.pdf">Lecture #8</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil6/Phil6_Lecture9.pdf">Lecture #9</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil6/Phil6_Lecture10.pdf">Lecture #10</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil6/Phil6_Lecture11.pdf">Lecture #11</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil6/Phil6_Lecture12.pdf">Lecture #12</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil6/Phil6_Lecture13.pdf">Lecture #13</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil6/Phil6_Lecture14.pdf">Lecture #14</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil6/Phil6_Lecture15.pdf">Lecture #15</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil6/Phil6_Lecture16.pdf">Lecture #16</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil6/Phil6_Lecture17.pdf">Lecture #17</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil6/Phil6_Lecture18.pdf">Lecture #18</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil6/Phil6_Lecture19.pdf">Lecture #19</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil6/Phil6_Lecture20.pdf">Lecture #20</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil6/Phil6_Lecture21.pdf">Lecture #21</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil6/Phil6_Lecture22.pdf">Lecture #22</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil6/Phil6_Lecture23.pdf">Lecture #23</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil6/Phil6_Lecture24.pdf">Lecture #24</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil6/Phil6_Lecture25.pdf">Lecture #25</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil6/Phil6_Lecture26.pdf">Lecture #26</a></li>
+        
+
+  </ul>
+
+<h2 class="sidebar-title">Online Resources</h2>
+    <ul>
+        <li><a href="http://plato.stanford.edu/contents.html">Stanford Encyclopedia of Philosophy</a></li>
+         <li><a href="http://www.wadsworth.com/philosophy_d/special_features/ext/delivery/fields.html">The Fields of Philosophy</a></li>
+    	<li><a href="http://www.philosophy.ucsb.edu/">UCSB Philosophy</a></li>
+  </ul>
+
+
+
+  
+<h2 class="sidebar-title">Previous Posts</h2>
+    <ul id="recently">
+    
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil6/2008/06/final-exam-study-guide-and-all-lectures.html">Final exam study guide and all the lectures are po...</a></li>
+     
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil6/2008/05/lecture-cancelled-monday-may-19th.html">Lecture cancelled Monday, May 19th</a></li>
+     
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil6/2008/05/please-download-handout.html">Please Download Handout</a></li>
+     
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil6/2008/05/hi-everyone-paper-2-topics-are-up-now.html">Paper Assignment #2</a></li>
+     
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil6/2008/04/no-more-lecture-notes.html">No More Lecture Notes</a></li>
+     
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil6/2008/04/announcements.html">Announcements:</a></li>
+     
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil6/2008/04/reading-for-monday-april-21st.html">Reading for Monday, April 21st</a></li>
+     
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil6/2008/03/professional-and-business-ethics.html">Phil 6 Syllabus</a></li>
+     
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil6/2008/03/test.html">Welcome to Philosophy 6</a></li>
+     
+  </ul>
+
+    
+  <h2 class="sidebar-title">Archives</h2>
+    <ul class="archive-list">
+   	  
+    	<li><a href="http://www.philosophy.ucsb.edu/websites/phil6/2008_03_01_archive.html">March 2008</a></li>
+	  
+    	<li><a href="http://www.philosophy.ucsb.edu/websites/phil6/2008_04_01_archive.html">April 2008</a></li>
+	  
+    	<li><a href="http://www.philosophy.ucsb.edu/websites/phil6/2008_05_01_archive.html">May 2008</a></li>
+	  
+    	<li><a href="http://www.philosophy.ucsb.edu/websites/phil6/2008_06_01_archive.html">June 2008</a></li>
+	  
+
+  </ul>
+  
+
+</div></div><!-- End #sidebar -->
+
+</div><!-- End #content -->
+
+
+
+
+<!-- Begin #footer -->
+<div id="footer"><p>UCSB Department of Philosophy<br>
+5631 South Hall | Santa Barbara, CA 93106-3090 | (PH) 805-893-3122 (FX) 805-893-8221</p>
+</div>
+<!-- End #footer -->
+
+</div>
+
+</body>
+</html>

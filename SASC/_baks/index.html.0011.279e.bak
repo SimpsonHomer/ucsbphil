@@ -1,0 +1,551 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>SASC Home</title>
+<style type="text/css">
+<!--
+.Text {
+	font-family: Trebuchet MS, Arial, Helvetica, sans-serif;
+}
+-->
+</style>
+</head>
+
+<body bgcolor="#CCCCCC">
+<table width="960" border="0" align="center" bgcolor="#FFFFFF" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><img src="images/SASC_header.jpg" width="960" height="175" alt="SASC Header" /></td>
+  </tr>
+  <tr>
+  
+	<!-- Start Tabs-->
+    <td><table width="960" border="0" cellspacing="0" cellpadding="0">
+      <tr class="Text">
+        <td width="120"><div align="center"><img src="images/home.png" name="Home" onMouseOver="document.images['Home'].src='images/home2.png'"
+onMouseOut="document.images['Home'].src='images/home.png'" width="120" height="42" alt="Home" /></div></td>
+        <td width="120"><div align="center"><a href="http://www.linguistics.ucsb.edu/programs/esl.html"><img src="images/EMS.png" name="EMS" onMouseOver="document.images['EMS'].src='images/EMS2.png'"
+onMouseOut="document.images['EMS'].src='images/EMS.png'" width="120" height="42" alt="EMS" /></a></div></td>
+        <td width="120"><div align="center"><a href="http://www.english.ucsb.edu/"><img src="images/engl.png" name="engl" onMouseOver="document.images['engl'].src='images/engl2.png'"
+onMouseOut="document.images['engl'].src='images/engl.png'" width="120" height="42" alt="English" /></a></div></td>
+        <td width="120"><div align="center"><a href="http://www.philosophy.ucsb.edu/"><img src="images/phil.png" name="phil" onMouseOver="document.images['phil'].src='images/phil2.png'"
+onMouseOut="document.images['phil'].src='images/phil.png'" width="120" height="42" alt="Philosophy" /></a></div></td>
+        <td width="120"><div align="center"><a href="http://www.linguistics.ucsb.edu/"><img src="images/ling.png" name="ling" onMouseOver="document.images['ling'].src='images/ling2.png'"
+onMouseOut="document.images['ling'].src='images/ling.png'" width="120" height="42" alt="Linguistics" /></a></div></td>
+        <td width="120"><div align="center"><a href="http://www.writing.ucsb.edu/"><img src="images/writ.png" name="writ" onMouseOver="document.images['writ'].src='images/writ2.png'"
+onMouseOut="document.images['writ'].src='images/writ.png'" width="120" height="42" alt="Writing Program" /></a></div></td>
+        <td width="120"><div align="center"><img src="images/forms.png" name="forms" onMouseOver="document.images['forms'].src='images/forms2.png'"
+onMouseOut="document.images['forms'].src='images/forms.png'" width="120" height="42" alt="SASC Forms" /></div></td>
+        <td width="120"><div align="center"><img src="images/blank.png" width="120" height="42" /></div></td>
+      </tr>
+    </table></td>
+  </tr>
+  <!-- End Tabs-->
+  <tr>
+    <td style="padding: 8px;">
+    <p class="Text">The South Hall Administrative Support Center (SASC) provides administrative services for the departments of English, English for Multi-Lingual Students Program (EMS), Linguistics, Philosophy, and the Writing Program. It includes Academic Services and Student Services units. </p>
+    <h2 class="Text">SASC Management Team</h2>
+
+	<!-- Start Profile-->
+    <table width="900" class="Text" align="center" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td colspan="3" height="2"><img src="images/bar.png" width="900" height="2"></td>
+      </tr>
+      <tr>
+        <td width="110" valign="top"><img src="images/staff/joni150.jpg" width="100" height="150" alt="Joni" />
+        </td>
+        <td width="195" valign="top" style="padding: 3px;"><strong>Joni Schwartz</strong><br /> <em>SASC Director</em><br /><br /> x3237<br />
+        	<a href="mailto:&#106;&#111;&#110;&#105;&#064;&#104;&#102;&#097;&#046;&#117;&#099;&#115;&#098;&#046;&#101;&#100;&#117;">
+							&#106;&#111;&#110;&#105;&#064;&#104;&#102;&#097;&#046;&#117;&#099;&#115;&#098;&#046;&#101;&#100;&#117;
+            </a>
+        </td>
+        <td width="595" valign="top" style="padding: 3px;"><strong>Duties</strong><br />All  management functions related to the operations of administrative support and  services of the SASC (Student Services and Academic Services units) provided to  South Hall HFA departments and programs in the areas of Academic Personnel,  Financial/Budget, Student Services, Contract and Grant administration,  Purchasing, IT, Space, Development and Alumni Relations, Safety, Policy and  Procedures, etc.
+        </td>
+      </tr>
+    </table>
+    <br />
+	<!-- END Profile-->
+
+	<!-- Start Profile-->
+    <table width="900" class="Text" align="center" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td colspan="3" height="2"><img src="images/bar.png" width="900" height="2"></td>
+      </tr>
+      <tr>
+        <td width="110" valign="top"><img src="images/staff/kathy150.jpg" width="100" height="150" alt="Joni" />
+        </td>
+        <td width="195" valign="top" style="padding: 3px;"><strong>Kathy Jenquin</strong><br /> <em>Manager, SASC (Financial &amp; Academic Personnel Services Unit)</em><br /><br /> x3237<br />
+        	<a href="mailto:&#106;&#101;&#110;&#113;&#117;&#105;&#110;&#064;&#104;&#102;&#097;&#046;&#117;&#099;&#115;&#098;&#046;&#101;&#100;&#117;">
+							&#106;&#101;&#110;&#113;&#117;&#105;&#110;&#064;&#104;&#102;&#097;&#046;&#117;&#099;&#115;&#098;&#046;&#101;&#100;&#117;
+            </a>
+        </td>
+        <td width="595" valign="top" style="padding: 3px;"><strong>Duties</strong><br /> 
+            - Managerial oversight of Academic Services Unit of the SASC<br />
+            - Financial and academic personnel policy and procedures<br />
+            - Academic appointments and payroll<br />
+            - Financial/academic personnel staff supervisor<br />
+		</td>
+      </tr>
+    </table>
+    <br />
+	<!-- END Profile-->
+
+	<!-- Start Profile-->
+    <table width="900" class="Text" align="center" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td colspan="3" height="2"><img src="images/bar.png" width="900" height="2"></td>
+      </tr>
+      <tr>
+        <td width="110" valign="top"><img src="images/staff/dana150.jpg" width="100" height="150" alt="Joni" />
+        </td>
+        <td width="195" valign="top" style="padding: 3px;"><strong>Dana Spoonerow</strong><br /> <em>Manager, SASC (Student Services Unit)</em><br /><br /> x3237<br />
+        	<a href="mailto:&#115;&#112;&#111;&#111;&#110;&#101;&#114;&#111;&#064;&#104;&#102;&#097;&#046;&#117;&#099;&#115;&#098;&#046;&#101;&#100;&#117;">
+							&#115;&#112;&#111;&#111;&#110;&#101;&#114;&#111;&#064;&#104;&#102;&#097;&#046;&#117;&#099;&#115;&#098;&#046;&#101;&#100;&#117;
+            </a>
+        </td>
+        <td width="595" valign="top" style="padding: 3px;"><strong>Duties</strong><br />
+            - Managerial oversight of Student Services Unit of the SASC<br />
+			- Student services policy and procedures<br />
+			- Curriculum planning and course scheduling<br />
+			- TA/Associate/Reader appointments and payroll<br />
+			- Student services staff supervisor<br />
+        </td>
+      </tr>
+    </table>
+    <br />
+	<!-- END Profile-->
+
+    <h2 class="Text">SASC Front Desk</h2>
+
+	<!-- Start Profile-->
+    <table width="900" class="Text" align="center" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td colspan="3" height="2"><img src="images/bar.png" width="900" height="2"></td>
+      </tr>
+      <tr>
+        <td width="110" valign="top"><img src="images/staff/shannon150.jpg" width="100" height="150" alt="Joni" />
+        </td>
+        <td width="195" valign="top" style="padding: 3px;"><strong>Shannon Dalton</strong><br /> 
+          <em>Instructional Program Assistant - ALL DEPARTMENTS</em><br />
+          <br /> x3237<br />
+        	<a href="mailto:&#115;&#100;&#097;&#108;&#116;&#111;&#110;&#064;&#104;&#102;&#097;&#046;&#117;&#099;&#115;&#098;&#046;&#101;&#100;&#117;">
+							&#115;&#100;&#097;&#108;&#116;&#111;&#110;&#064;&#104;&#102;&#097;&#046;&#117;&#099;&#115;&#098;&#046;&#101;&#100;&#117;
+            </a>
+        </td>
+        <td width="595" valign="top" style="padding: 3px;"><strong>Duties</strong><br />
+            - Visitor parking arrangements<br />
+			- Teaching evaluations<br />
+			- Room and media equipment reservations<br />
+			- Website updates and questions<br />
+			- Technical assistance (e.g., copiers, printers)<br />
+			- Faculty email list administrator (Writing Program only)<br />
+            
+            <p class="Text">[if Shannon is unavailable, please contact Noelle San Jose at x7489 for immediate needs]<br />
+        </td>
+      </tr>
+    </table>
+    <br />
+	<!-- END Profile-->
+
+	<!-- Start Profile-->
+    <table width="900" class="Text" align="center" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td colspan="3" height="2"><img src="images/bar.png" width="900" height="2"></td>
+      </tr>
+      <tr>
+        <td width="110" valign="top"><img src="images/staff/noelle150.jpg" width="100" height="150" alt="Joni" />
+        </td>
+        <td width="195" valign="top" style="padding: 3px;"><strong>Noelle San Jose</strong><br /> <em>Instructional Program Assistant - ALL DEPARTMENTS</em><br /><br /> x3237<br />
+        	<a href="mailto:&#110;&#115;&#097;&#110;&#106;&#111;&#115;&#101;&#064;&#104;&#102;&#097;&#046;&#117;&#099;&#115;&#098;&#046;&#101;&#100;&#117;">
+							&#110;&#115;&#097;&#110;&#106;&#111;&#115;&#101;&#064;&#104;&#102;&#097;&#046;&#117;&#099;&#115;&#098;&#046;&#101;&#100;&#117;
+            </a>
+        </td>
+        <td width="595" valign="top" style="padding: 3px;"><strong>Duties</strong><br />
+		 	- Textbook and desk copy orders<br />
+				- Office hours listings<br />
+				- Keys<br />
+				- Mail boxes<br />
+				- Office supplies, business cards<br />
+                - Teaching evaluations<br />
+				- Room and media equipment reservations<br />
+				- Website updates and questions<br />
+				- Technical assistance (e.g., copiers, printers)<br />
+				- Door codes<br />
+                <br />
+                [if Noelle is unavailable, please contact Shannon Dalton at x7488 for immediate needs]<br />
+        </td>
+      </tr>
+    </table>
+	<!-- END Profile-->
+
+    <h2 class="Text">English for Multilingual Students Program/Writing Program</h2>
+
+	<!-- Start Profile-->
+    <table width="900" class="Text" align="center" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td colspan="3" height="2"><img src="images/bar.png" width="900" height="2"></td>
+      </tr>
+      <tr>
+        <td width="110" valign="top"><img src="images/staff/michelle150.jpg" width="100" height="150" alt="Michelle" />
+        </td>
+        <td width="195" valign="top" style="padding: 3px;"><strong>Michelle Lee</strong><br /> <em>EMS Program Manager - EMS AND WRITING PROGRAM ONLY</em><br /><br /> x3237<br />
+        	<a href="mailto:&#109;&#108;&#101;&#101;&#064;&#104;&#102;&#097;&#046;&#117;&#099;&#115;&#098;&#046;&#101;&#100;&#117;">
+							&#109;&#108;&#101;&#101;&#064;&#104;&#102;&#097;&#046;&#117;&#099;&#115;&#098;&#046;&#101;&#100;&#117;
+            </a>
+        </td>
+        <td width="595" valign="top" style="padding: 3px;"><strong>Duties</strong><br />
+			  	- All administrative support for the EMS Program<br />
+				- Student advising for EMS Program<br />
+				- International student TA evaluations<br />
+				- ELPE and AWPE placements for EMS students<br />
+				- Course scheduling <br />
+				- Budget and financial management<br />
+				- Academic personnel<br />
+				- All other EMS-related inquiries<br />
+				- TA/Associate appointments and payroll for the Writing Program<br />
+                               
+        </td>
+      </tr>
+    </table>
+    <br />
+	<!-- END Profile-->
+
+    <h2 class="Text">Graduate Advisors</h2>
+
+	<!-- Start Profile-->
+    <table width="900" class="Text" align="center" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td colspan="3" height="2"><img src="images/bar.png" width="900" height="2"></td>
+      </tr>
+      <tr>
+        <td width="110" valign="top"><img src="images/staff/maryrae150.jpg" width="100" height="150" alt="Mary Rae" />
+        </td>
+        <td width="195" valign="top" style="padding: 3px;"><strong>Mary Rae (“MR”) Staton</strong><br /> <em>Staff Graduate Advisor - ENGLISH DEPARTMENT</em><br /><br />          
+         x2639<br />
+        	<a href="mailto:&#115;&#116;&#097;&#116;&#111;&#110;&#064;&#104;&#102;&#097;&#046;&#117;&#099;&#115;&#098;&#046;&#101;&#100;&#117;">
+							&#115;&#116;&#097;&#116;&#111;&#110;&#064;&#104;&#102;&#097;&#046;&#117;&#099;&#115;&#098;&#046;&#101;&#100;&#117;
+            </a>
+        </td>
+        <td width="595" valign="top" style="padding: 3px;"><strong>Duties</strong><br />
+				- Graduate student recruitment and admissions<br />
+				- Graduate student progress checks<br />
+				- Graduate student advising<br />
+				- TA coordinator: recruitment, payroll, fee remissions<br />
+				- Graduate committee consultant<br />
+				- Student awards<br />
+				- Graduate stipends<br />
+				- Block grant/graduate funding support <br />
+				- Graduate email list administrator<br />                               
+        </td>
+      </tr>
+    </table>
+    <br />
+	<!-- END Profile-->
+
+
+	<!-- Start Profile-->
+    <table width="900" class="Text" align="center" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td colspan="3" height="2"><img src="images/bar.png" width="900" height="2"></td>
+      </tr>
+      <tr>
+        <td width="110" valign="top"><img src="images/staff/cami150.jpg" width="100" height="150" alt="Cami" />
+        </td>
+        <td width="195" valign="top" style="padding: 3px;"><strong>Cami Helmuth</strong><br /> <em>Staff Graduate Advisor - LINGUISTICS AND PHILOSOPHY DEPARTMENTS</em><br /><br />          
+         x7490<br />
+        	<a href="mailto:&#104;&#101;&#108;&#109;&#117;&#116;&#104;&#064;&#104;&#102;&#097;&#046;&#117;&#099;&#115;&#098;&#046;&#101;&#100;&#117;">
+							&#104;&#101;&#108;&#109;&#117;&#116;&#104;&#064;&#104;&#102;&#097;&#046;&#117;&#099;&#115;&#098;&#046;&#101;&#100;&#117;
+            </a>
+        </td>
+        <td width="595" valign="top" style="padding: 3px;"><strong>Duties</strong><br />
+				- Graduate student recruitment and admissions<br />
+				- Graduate student progress checks<br />
+				- Graduate student advising<br />
+				- TA coordinator: recruitment, payroll, fee remissions<br />
+				- Graduate committee consultant<br />
+				- Student awards<br />
+				- Graduate stipends<br />
+				- Block grant/graduate funding support <br />
+				- Graduate email list administrator<br />
+
+                               
+        </td>
+      </tr>
+    </table>
+    <br />
+	<!-- END Profile-->
+
+    <h2 class="Text">Undergraduate Advisors</h2>
+
+	<!-- Start Profile-->
+    <table width="900" class="Text" align="center" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td colspan="3" height="2"><img src="images/bar.png" width="900" height="2"></td>
+      </tr>
+      <tr>
+        <td width="110" valign="top"><img src="images/staff/nick150.jpg" width="100" height="150" alt="Nick" />
+        </td>
+        <td width="195" valign="top" style="padding: 3px;"><strong>Nick Alward</strong><br /> <em>Staff Undergraduate Advisor - ENGLISH DEPARTMENT</em><br /><br />          
+         x4710<br />
+        	<a href="mailto:&#110;&#105;&#099;&#107;&#064;&#104;&#102;&#097;&#046;&#117;&#099;&#115;&#098;&#046;&#101;&#100;&#117;">
+							&#110;&#105;&#099;&#107;&#064;&#104;&#102;&#097;&#046;&#117;&#099;&#115;&#098;&#046;&#101;&#100;&#117;
+            </a>
+        </td>
+        <td width="595" valign="top" style="padding: 3px;"><strong>Duties</strong><br />
+				- Undergraduate student major, minor, and program advising<br />
+				- Undergraduate student petitions for major requirements<br />
+				- Specializations<br />
+				- Course scheduling <br />
+				- Add code and wait list administrator<br />
+				- Undergraduate E-mail list administrator<br />
+				- Undergraduate contests and awards <br />
+				- Commencement/graduation planning<br />
+        </td>
+      </tr>
+    </table>
+    <br />
+	<!-- END Profile-->
+
+
+	<!-- Start Profile-->
+    <table width="900" class="Text" align="center" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td colspan="3" height="2"><img src="images/bar.png" width="900" height="2"></td>
+      </tr>
+      <tr>
+        <td width="110" valign="top"><img src="images/staff/karen150.jpg" width="100" height="150" alt="Joni" />
+        </td>
+        <td width="195" valign="top" style="padding: 3px;"><strong>Karen Barteld</strong><br /> <em>Staff Undergraduate Advisor - LINGUISTICS AND PHILOSOPHY DEPARTMENTS</em><br /><br />          
+         x3776<br />
+        	<a href="mailto:&#107;&#098;&#097;&#114;&#116;&#101;&#108;&#100;&#064;&#104;&#102;&#097;&#046;&#117;&#099;&#115;&#098;&#046;&#101;&#100;&#117;">
+							&#107;&#098;&#097;&#114;&#116;&#101;&#108;&#100;&#064;&#104;&#102;&#097;&#046;&#117;&#099;&#115;&#098;&#046;&#101;&#100;&#117;
+            </a>
+        </td>
+        <td width="595" valign="top" style="padding: 3px;"><strong>Duties</strong><br />
+				- Undergraduate student  major, minor, and program advising<br />
+				- Undergraduate student petitions for major requirements<br />
+				- Approval codes<br />
+				- University and department undergrad awards<br />
+				- Course scheduling and wait-lists<br />
+				- Seminar room scheduling (COURSES only)<br />
+				- Undergrad listserve and alumni info<br />                 
+        </td>
+      </tr>
+    </table>
+    <br />
+	<!-- END Profile-->
+
+	<!-- Start Profile-->
+    <table width="900" class="Text" align="center" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td colspan="3" height="2"><img src="images/bar.png" width="900" height="2"></td>
+      </tr>
+      <tr>
+        <td width="110" valign="top"><img src="images/staff/haley150.jpg" width="100" height="150" alt="Haley" />
+        </td>
+        <td width="195" valign="top" style="padding: 3px;"><strong>Haley Orton</strong><br /> <em>Staff Undergraduate Advisor - WRITING PROGRAM (AND PHILOSOPHY COURSE SCHEDULING ONLY)</em><br /><br />          
+         x2613<br />
+        	<a href="mailto:&#104;&#111;&#114;&#116;&#111;&#110;&#064;&#104;&#102;&#097;&#046;&#117;&#099;&#115;&#098;&#046;&#101;&#100;&#117;">
+							&#104;&#111;&#114;&#116;&#111;&#110;&#064;&#104;&#102;&#097;&#046;&#117;&#099;&#115;&#098;&#046;&#101;&#100;&#117;
+            </a>
+        </td>
+        <td width="595" valign="top" style="padding: 3px;"><strong>Duties</strong><br />
+			- Course and classroom scheduling (Writing Program and Philosophy Department)<br />
+				- ACE course enrollment<br />
+				- Undergraduate student advising for the Minor in Professional Writing<br />
+				- Questions regarding UCSB and WP policies, procedures, and requirements<br />
+				- General Education Area A questions and placements<br />
+				- Course substitutions (community colleges, CSUs, UCs and EAP)<br />
+				- Prerequisite checking and clearance<br />
+				- Beginning-of-quarter drops for non-attendance<br />
+        </td>
+      </tr>
+    </table>
+    <br />
+	<!-- END Profile-->
+
+
+    <h2 class="Text">Financial and Budget Coordinators</h2>
+
+	<!-- Start Profile-->
+    <table width="900" class="Text" align="center" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td colspan="3" height="2"><img src="images/bar.png" width="900" height="2"></td>
+      </tr>
+      <tr>
+        <td width="110" valign="top"><img src="images/staff/raphaella150.jpg" width="100" height="150" alt="Nick" />
+        </td>
+        <td width="195" valign="top" style="padding: 3px;"><strong>Raphaëlla Nau</strong><br /> <em>Financial and Budget Coordinator - ENGLISH DEPARTMENT and SASC</em><br /><br />          
+         x3475<br />
+        	<a href="mailto:&#114;&#110;&#097;&#117;&#064;&#104;&#102;&#097;&#046;&#117;&#099;&#115;&#098;&#046;&#101;&#100;&#117;">
+							&#114;&#110;&#097;&#117;&#064;&#104;&#102;&#097;&#046;&#117;&#099;&#115;&#098;&#046;&#101;&#100;&#117;
+            </a>
+        </td>
+        <td width="595" valign="top" style="padding: 3px;"><strong>Duties</strong><br />
+				- Business meeting, entertainment, travel, and miscellaneous reimbursements<br>
+				- Undergraduate and graduate RA hires (hourly)<br>
+				- Time sheets and payroll for hourly employees<br>
+				- Graduate stipends (non-block grant)<br>
+				- Undergraduate stipends<br>
+				- Financial reports<br>
+
+        </td>
+      </tr>
+    </table>
+    <br />
+	<!-- END Profile-->
+
+
+	<!-- Start Profile-->
+    <table width="900" class="Text" align="center" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td colspan="3" height="2"><img src="images/bar.png" width="900" height="2"></td>
+      </tr>
+      <tr>
+        <td width="110" valign="top"><img src="images/staff/sonya150.jpg" width="100" height="150" alt="Joni" />
+        </td>
+        <td width="195" valign="top" style="padding: 3px;"><strong>Sonya Perez</strong><br /> <em>Financial and Budget Coordinator - LINGUISTICS, PHILOSOPHY, and WRITING PROGRAM</em><br /><br />          
+         x7826<br />
+        	<a href="mailto:&#115;&#112;&#101;&#114;&#101;&#122;&#064;&#104;&#102;&#097;&#046;&#117;&#099;&#115;&#098;&#046;&#101;&#100;&#117;">
+							&#115;&#112;&#101;&#114;&#101;&#122;&#064;&#104;&#102;&#097;&#046;&#117;&#099;&#115;&#098;&#046;&#101;&#100;&#117;
+            </a>
+        </td>
+        <td width="595" valign="top" style="padding: 3px;"><strong>Duties</strong><br />
+				- Business meeting, entertainment, travel, and miscellaneous reimbursements<br>
+				- Undergraduate and graduate RA hires (hourly)<br>
+				- Time sheets and payroll for hourly employees<br>
+				- Graduate stipends (non-block grant)<br>
+				- Undergraduate stipends<br>
+				- Financial reports<br>
+
+        </td>
+      </tr>
+    </table>
+    <br />
+	<!-- END Profile-->
+
+    <h2 class="Text">Academic Personnel Coordinators</h2>
+
+	<!-- Start Profile-->
+    <table width="900" class="Text" align="center" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td colspan="3" height="2"><img src="images/bar.png" width="900" height="2"></td>
+      </tr>
+      <tr>
+        <td width="110" valign="top"><img src="images/staff/jane150.jpg" width="100" height="150" alt="Nick" />
+        </td>
+        <td width="195" valign="top" style="padding: 3px;"><strong>Jane Choi</strong><br /> <em>Academic Personnel Coordinator - LINGUISTICS AND PHILOSOPHY DEPARTMENTS</em><br /><br />          
+         x7151<br />
+        	<a href="mailto:&#106;&#099;&#104;&#111;&#105;&#064;&#104;&#102;&#097;&#046;&#117;&#099;&#115;&#098;&#046;&#101;&#100;&#117;">
+							&#106;&#099;&#104;&#111;&#105;&#064;&#104;&#102;&#097;&#046;&#117;&#099;&#115;&#098;&#046;&#101;&#100;&#117;
+            </a>
+        </td>
+        <td width="595" valign="top" style="padding: 3px;"><strong>Duties</strong><br />
+				- Personnel policy and procedures<br />
+				- Faculty recruitment and appointments<br />
+				- Ladder faculty merits, promotions, career steps, retentions, appraisals<br />
+				- Non-Senate faculty re-appointments, excellence reviews, merits<br />
+				- Payroll, additional compensation, and contracts<br />
+				- Sabbatical and other leaves<br />
+				- Donor acknowledgment<br />
+				- Faculty email list administrator<br />
+				- Visiting scholars <br />
+				- New faculty email, UCSBNetID, orientation<br />
+        </td>
+      </tr>
+    </table>
+    <br />
+	<!-- END Profile-->
+
+
+	<!-- Start Profile-->
+    <table width="900" class="Text" align="center" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td colspan="3" height="2"><img src="images/bar.png" width="900" height="2"></td>
+      </tr>
+      <tr>
+        <td width="110" valign="top"><img src="images/staff/shayna150.jpg" width="100" height="150" alt="Joni" />
+        </td>
+        <td width="195" valign="top" style="padding: 3px;"><strong>Shayna Ingram</strong><br /> <em>Academic Personnel Coordinator - ENGLISH DEPARTMENT AND WRITING PROGRAM</em><br /><br />          
+         x3479<br />
+        	<a href="mailto:&#115;&#104;&#097;&#121;&#110;&#097;&#064;&#104;&#102;&#097;&#046;&#117;&#099;&#115;&#098;&#046;&#101;&#100;&#117;">
+							&#115;&#104;&#097;&#121;&#110;&#097;&#064;&#104;&#102;&#097;&#046;&#117;&#099;&#115;&#098;&#046;&#101;&#100;&#117;
+            </a>
+        </td>
+        <td width="595" valign="top" style="padding: 3px;"><strong>Duties</strong><br />
+				- Personnel policy and procedures<br />
+				- Faculty recruitment and appointments<br />
+				- Ladder faculty merits, promotions, career steps, retentions, appraisals<br />
+				- Non-Senate faculty re-appointments, excellence reviews, merits<br />
+				- Payroll, additional compensation, and contracts<br />
+				- Sabbatical and other leaves<br />
+				- Donor acknowledgment<br />
+				- Faculty email list administrator (English only)<br />
+				- New faculty email, UCSBNetID, orientation<br />
+				- Website updates (back-up)<br />
+
+        </td>
+      </tr>
+    </table>
+    <br />
+	<!-- END Profile-->
+
+    <h2 class="Text">Technical Support</h2>
+
+	<!-- Start Profile-->
+    <table width="900" class="Text" align="center" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td colspan="3" height="2"><img src="images/bar.png" width="900" height="2"></td>
+      </tr>
+      <tr>
+        <td width="110" valign="top"><img src="images/staff/quentin150.jpg" width="100" height="150" alt="Quentin" />
+        </td>
+        <td width="195" valign="top" style="padding: 3px;"><strong>Quentin Gee</strong><br /> <em>Websites - ALL DEPARTMENTS</em><br /><br />
+          <a href="mailto:&#115;&#097;&#115;&#099;&#045;&#119;&#101;&#098;&#117;&#112;&#100;&#097;&#116;&#101;&#115;&#064;&#104;&#102;&#097;&#046;&#117;&#099;&#115;&#098;&#046;&#101;&#100;&#117;">
+							&#115;&#097;&#115;&#099;&#045;&#119;&#101;&#098;&#117;&#112;&#100;&#097;&#116;&#101;&#115;&#064;&#104;&#102;&#097;&#046;&#117;&#099;&#115;&#098;&#046;&#101;&#100;&#117;
+            </a>
+        </td>
+        <td width="595" valign="top" style="padding: 3px;"><strong>Duties</strong><br />
+				- Website  maintenance, updates, and questions<br />
+        </td>
+      </tr>
+    </table>
+    <br />
+	<!-- END Profile-->
+
+
+	<!-- Start Profile-->
+    <table width="900" class="Text" align="center" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td colspan="3" height="2"><img src="images/bar.png" width="900" height="2"></td>
+      </tr>
+      <tr>
+        <td width="110" valign="top"><img src="images/staff/brian150.jpg" width="100" height="150" alt="Joni" />
+        </td>
+        <td width="195" valign="top" style="padding: 3px;"><strong>Brian Reynolds</strong><br /> <em>Network Systems Administrator - ENGLISH DEPARTMENT AND SASC STAFF ONLY</em><br /><br />          
+         x4135<br />
+        	<a href="mailto:&#114;&#101;&#121;&#110;&#111;&#108;&#100;&#115;&#064;&#101;&#110;&#103;&#108;&#105;&#115;&#104;&#046;&#117;&#099;&#115;&#098;&#046;&#101;&#100;&#117;">
+							&#114;&#101;&#121;&#110;&#111;&#108;&#100;&#115;&#064;&#101;&#110;&#103;&#108;&#105;&#115;&#104;&#046;&#117;&#099;&#115;&#098;&#046;&#101;&#100;&#117;
+            </a>
+        </td>
+        <td width="595" valign="top" style="padding: 3px;"><strong>Duties</strong><br />
+				- Maintenance of servers <br />
+				- Maintenance of department, lab, and center computers<br />
+				- All functions related to IT<br />
+				- Media equipment assistance<br />
+				- Security/door code oversight<br />
+
+        </td>
+      </tr>
+    </table>
+    <br />
+	<!-- END Profile-->
+
+
+
+    
+    <p class="Text">&nbsp;</p></td>
+  </tr>
+</table>
+</body>
+</html>

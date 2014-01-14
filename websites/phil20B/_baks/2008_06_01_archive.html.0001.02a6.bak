@@ -1,0 +1,558 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <title>Philosophy 20B: June 2008</title>
+  
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="MSSmartTagsPreventParsing" content="true" />
+<meta name="generator" content="Blogger" />
+<link rel="alternate" type="application/atom+xml" title="Philosophy 20B - Atom" href="http://www.philosophy.ucsb.edu/websites/phil20B/atom.xml" />
+<link rel="alternate" type="application/rss+xml" title="Philosophy 20B - RSS" href="http://www.philosophy.ucsb.edu/websites/phil20B/rss.xml" />
+<link rel="service.post" type="application/atom+xml" title="Philosophy 20B - Atom" href="http://www.blogger.com/feeds/4275905905927077609/posts/default" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.blogger.com/rsd.g?blogID=4275905905927077609" />
+<style type="text/css">
+@import url("http://www.blogger.com/css/blog_controls.css");
+@import url("http://www.blogger.com/dyn-css/authorization.css?targetBlogID=4275905905927077609");
+</style>
+
+
+  <style type="text/css">
+ /*
+-----------------------------------------------
+Blogger Template Style
+Name:     Minima Blue
+Designer: Douglas Bowman
+URL:      www.stopdesign.com
+Date:     28 Feb 2004
+----------------------------------------------- */
+
+
+body {
+  background:#3e5e8d;
+  margin:0;
+  padding:20px 20px;
+  font-family: Verdana, Helvetica, Arial, Trebuchet MS, Lucida Grande, Sans-Serif;
+  font-size: 11px;
+  text-align:center;
+  color:#000000;
+  }
+
+p {
+  margin: 0px;
+  padding: 0px;
+}
+
+h2, h3, h4 {
+  margin: 0px;
+  padding: 0px;
+}
+
+a:link {
+  color:#03c;
+  text-decoration:none;
+  }
+
+a:visited {
+  color:#03c;
+  text-decoration:none;
+  }
+
+a:hover {
+  color:#03c;
+  text-decoration:underline;
+  }
+
+a img {
+  border-width:0;
+  }
+
+#layoutContainer {
+    width:950px;
+    margin:0px auto;
+    padding:0px;
+    text-align:left;
+    border: solid 1px #ffffff;
+    overflow: hidden;
+}
+
+/* Header
+----------------------------------------------- */
+  #header {
+    width:950px;
+    height:175px;
+    margin:0px;
+    border:none;
+    background-image: url(http://www.philosophy.ucsb.edu/images/phil20b.gif);
+    }
+
+#blog-title {
+  margin:0px;
+  padding:0px;
+  border:none;
+  color:#ffffff;
+  text-transform:uppercase;
+  text-indent: -9999px;
+  }
+
+#blog-title a {
+  color:#ffffff;
+  text-decoration:none;
+  }
+
+#blog-title a:hover {
+  color:#ffffff;
+  }
+
+#description {
+  margin:0px;
+  padding:0px;
+  border:none;
+  text-transform:uppercase;
+  text-indent: -9999px;
+  }
+
+
+/* Content
+----------------------------------------------- */
+  #content {
+    width:950px;
+    margin:0px;
+    padding:0px;
+    text-align:left;
+    overflow: hidden;
+    background: #b2b1a5;
+    }
+
+  #main {
+    width:650px;
+    float:left;
+    background:#ebebe7;
+    margin:0px;
+    padding:0px;
+}
+
+#main p {
+    margin:0px;
+    padding:0px;
+    }
+
+
+#main ul {
+    margin:0px;
+    padding:2px 0px 2px 45px;
+    list-style-type: square;
+    }
+
+#main ol {
+    margin:0px;
+    padding:2px 0px 2px 45px;
+    }
+
+#sidebar {
+    width:300px;
+    float:right;
+    margin:0px;
+    padding:0px;
+    background:#b2b1a5;
+    }
+
+
+/* Headings
+----------------------------------------------- */
+h2 {
+  margin:0px;
+  padding:0px;
+  font-size: 12px;
+  text-transform:uppercase;
+  color:#b2b1a5;
+  }
+
+
+/* Posts
+----------------------------------------------- */
+.date-header {
+  text-size:9px;
+  text-transform:uppercase;
+  margin:0px;
+  padding:10px 0px 0px 10px;
+  color:#b2b1a5;
+}
+
+.post {
+  margin:0px;
+  padding:5px 10px 5px 10px;
+  border-bottom:10px solid #cccccc;
+  
+}
+
+.post-title {
+  margin:0px;
+  padding:0px 0px 2px 0px;
+  font-size:14px;
+  text-transform:uppercase;
+  line-height:16px;
+  color:#00426a;
+}
+
+.post-title a {
+  text-decoration:none;
+  color:#00426a;
+}
+
+.post-title a:hover {
+  color:#fff;
+}
+
+.post div {
+  margin:0px;
+  padding:0px;
+  line-height:16px;
+}
+
+p.post-footer {
+  margin:0px;
+  color:#999999;
+}
+
+.post-footer em, .comment-link {
+  font-size: 9px;
+  text-transform:uppercase;
+  letter-spacing:.1em;
+}
+
+.post-footer em {
+  font-style:normal;
+  color:#579;
+  margin:0px;
+}
+
+.comment-link {
+  margin-left:0px;
+}
+
+.post img {
+  padding:4px;
+  border:1px solid #00426a;
+}
+
+.post blockquote {
+  margin:10px;
+}
+
+.post blockquote p {
+  margin:0px;
+}
+
+
+/* Comments
+----------------------------------------------- */
+#comments h4 {
+  margin:0px;
+  font-weight: bold;
+  text-transform:uppercase;
+  letter-spacing:.2em;
+  color:#999999;
+}
+
+#comments h4 strong {
+  font-size: 12px;
+}
+
+#comments-block {
+  margin:1em 0px;
+  line-height:1.6em;
+}
+
+#comments-block dt {
+  margin:0px;
+}
+
+#comments-block dd {
+  margin:0px;
+}
+
+#comments-block dd.comment-timestamp {
+  margin:0px;
+  font-size: 9px;
+  text-transform:uppercase;
+  letter-spacing:.1em;
+}
+
+#comments-block dd p {
+  margin:0px;
+}
+
+.deleted-comment {
+  font-style:italic;
+  color:gray;
+}
+
+
+/* Sidebar Content
+----------------------------------------------- */
+.sidebar-title {
+  margin:0px;
+  padding:10px 0px 2px 10px;
+  font-size:14px;
+  line-height:16px;
+  color:#00426a;
+}
+
+#sidebar ul {
+  margin:0px;
+  padding:0px;
+  border-bottom:none;
+  list-style:none;
+}
+
+#sidebar li {
+  margin:0px;
+  padding:2px 0px 2px 25px;
+}
+
+#sidebar p {
+  margin:0px;
+  padding:0px;
+}
+
+
+/* Footer
+----------------------------------------------- */
+#footer {
+  width:950px;
+  height: 45px;
+  clear:both;
+  margin:0px;
+  padding:0px;
+  background: #00426a;
+}
+
+#footer p {
+  margin:0;
+  padding:10px;
+  text-align: center;
+  font-family: Verdana, Helvetica, Arial, Trebuchet MS, Lucida Grande, Sans-Serif;
+  font-size: 10px;
+  text-transform:uppercase;
+  color: #ffffff;
+  letter-spacing:.1em;
+}
+
+</style>
+
+</head>
+
+<body>
+<div id="layoutContainer">
+<div id="header">
+
+</div>
+
+<!-- Begin #content -->
+<div id="content">
+
+<!-- Begin #main -->
+<div id="main"><div id="main2">
+
+
+<h2 class="date-header">Tuesday, June 24, 2008</h2>
+     
+<!-- Begin .post -->
+<div class="post"><a name="5677231034834666259"></a>
+
+<h3 class="post-title">
+
+Reader
+</h3>
+
+<div class="post-body">
+<div><div style="clear:both;"></div>The reader is ready!<br />Available from UCSB bookstore.<div style="clear:both; padding-bottom:0.25em"></div>
+</div>
+</div>
+    
+<p class="post-footer">
+<em>posted by UCSB Philosophy at 
+    <a class="post-footer-link" href="http://www.philosophy.ucsb.edu/websites/phil20B/2008/06/reader.html" title="permanent link"> 1:41 PM </a></em>
+
+
+  
+    </p>
+  
+  </div>
+  <!-- End .post -->
+  
+  
+  
+  <!-- Begin #comments -->
+ 
+
+  <!-- End #comments -->
+
+
+<h2 class="date-header">Sunday, June 22, 2008</h2>
+     
+<!-- Begin .post -->
+<div class="post"><a name="5525180868857822252"></a>
+
+<h3 class="post-title">
+
+Welcome to Philosophy 20B!
+</h3>
+
+<div class="post-body">
+<div><div style="clear:both;"></div>This is the official class website for Philosophy 20B - History of Philosophy (Medievals to Rationalists).<br /><br />Since the course instructor Vasilis Tsompanidis and the class TA will be posting updates and messages on this website regularly, it would be a good idea for all students enrolled in Phil 20B to check the website frequently.<br /><br />A list of helpful class links (email, info, lecture notes, resources, etc) is located in the right hand column of this website. Please feel free to contact the Philosophy Department <a href="mailto:webmaster@tennberg.com">webmaster</a> if there are any problems with the website. Thanks.<br /><br />Sincerely, Philosophy 20B Staff<div style="clear:both; padding-bottom:0.25em"></div>
+</div>
+</div>
+    
+<p class="post-footer">
+<em>posted by UCSB Philosophy at 
+    <a class="post-footer-link" href="http://www.philosophy.ucsb.edu/websites/phil20B/2008/06/welcome-to-philosophy-20b.html" title="permanent link"> 7:04 PM </a></em>
+
+
+  
+    </p>
+  
+  </div>
+  <!-- End .post -->
+  
+  
+  
+  <!-- Begin #comments -->
+ 
+
+  <!-- End #comments -->
+
+
+</div></div>
+<!-- End #main -->
+
+
+<!-- Begin #sidebar -->
+<div id="sidebar"><div id="sidebar2">
+
+
+  <h2 class="sidebar-title">Email Links</h2>
+    <ul>
+    	<li><a href="mailto:vtso@umail.ucsb.edu">Vasilis Tsompanidis (Class Instructor)</a></li>
+    	<li><a href="mailto:tslewis@umail.ucsb.edu">Tim Lewis</a></li>    	
+        
+  </ul>
+
+<h2 class="sidebar-title">Info & Handouts</h2>
+    <ul>
+    	<li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/20Bsyllabus.doc">Phil 20B Syllabus</a></li>
+    	<li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/paper-topic.doc">First Paper Topic</a></li>
+        
+  </ul>
+
+<h2 class="sidebar-title">Lecture Notes</h2>
+    <ul>
+    	<li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/summer-Phil-20B-1.ppt">Lecture Notes #1</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/summer-Phil-20B-2.ppt">Lecture Notes #2</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/summer-Phil-20B-3.ppt">Lecture Notes #3</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/summer-Phil-20B-4.ppt">Lecture Notes #4</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/summer-Phil-20B-5.ppt">Lecture Notes #5</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/summer-Phil-20B-6.ppt">Lecture Notes #6</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/summer-Phil-20B-7.ppt">Lecture Notes #7</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/summer-Phil-20B-8.ppt">Lecture Notes #8</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/summer-Phil-20B-9.ppt">Lecture Notes #9</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/summer-Phil-20B-10.ppt">Lecture Notes #10</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/summer-Phil-20B-11-12.ppt">Lecture Notes #11-12</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/summer-Phil-20B-13-14.ppt">Lecture Notes #13-14</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/summer-Phil-20B-15.ppt">Lecture Notes #15</a></li>        
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/summer-Phil-20B-16.ppt">Lecture Notes #16</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/summer-Phil-20B-17.ppt">Lecture Notes #17</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/summer-Phil-20B-18.ppt">Lecture Notes #18</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/summer-Phil-20B-19a.ppt">Lecture Notes #19</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/summer-Phil-20B-20.ppt">Lecture Notes #20</a></li>
+<!-- slowly move this line down
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/Phil-20B-4.ppt">Lecture Notes #4</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/Phil-20B-5.ppt">Lecture Notes #5</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/Phil-20B-6.ppt">Lecture Notes #6</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/Phil-20B-7.ppt">Lecture Notes #7</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/Phil-20B-8.ppt">Lecture Notes #8</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/Phil-20B-9.ppt">Lecture Notes #9</a></li>        
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/Phil-20B-10.ppt">Lecture Notes #10</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/Phil-20B-11.ppt">Lecture Notes #11</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/Phil-20B-12.ppt">Lecture Notes #12</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/Phil-20B-13.ppt">Lecture Notes #13</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/Phil-20B-14.ppt">Lecture Notes #14</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/Phil-20B-15.ppt">Lecture Notes #15</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/Phil-20B-16.ppt">Lecture Notes #16</a></li>        
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/Phil-20B-17.ppt">Lecture Notes #17</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/Phil-20B-18.ppt">Lecture Notes #18</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/Phil-20B-19.ppt">Lecture Notes #19</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/Phil-20B-20.ppt">Lecture Notes #20</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/Phil-20B-21.ppt">Lecture Notes #21</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/Phil-20B-22.ppt">Lecture Notes #22</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/Phil-20B-23.ppt">Lecture Notes #23</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/Phil-20B-24.ppt">Lecture Notes #24</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/Phil-20B-25.ppt">Lecture Notes #25</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/Phil-20B-26.ppt">Lecture Notes #26</a></li>
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/Phil-20B-27.ppt">Lecture Notes #27</a></li>
+-->
+  </ul>
+
+<h2 class="sidebar-title">Online Resources</h2>
+    <ul>
+    	<li><a href="http://www.jimpryor.net/teaching/guidelines/writing.html">Writing a Philosophy paper</a></li>
+        <li><a href="http://www.jimpryor.net/teaching/vocab/index.html">Philosophical Terms and Methods</a></li>
+        <li><a href="http://plato.stanford.edu/contents.html">Stanford Encyclopedia of Philosophy</a></li>
+    	<li><a href="http://www.philosophy.ucsb.edu/">UCSB Philosophy</a></li>
+  </ul>
+
+  
+<h2 class="sidebar-title">Previous Posts</h2>
+    <ul id="recently">
+    
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/2008/07/ive-put-up-last-powerpoint-file-that.html">I&#39;ve put up the last powerpoint file that you&#39;ll n...</a></li>
+     
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/2008/07/final-guide.html">This is the review sheet for the final:
+
+summer-Ph...</a></li>
+     
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/2008/07/here-is-second-paper-topic-due-on.html">Here is the second paper topic, due on Monday, Jul...</a></li>
+     
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/2008/07/here-is-first-paper-topic-due-on-monday.html">Here is the first paper topic, due on Monday 7/14/...</a></li>
+     
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/2008/07/week-2-reading-assignment.html">Week 2 Reading Assignment</a></li>
+     
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/2008/06/reader.html">Reader</a></li>
+     
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/2008/06/welcome-to-philosophy-20b.html">Welcome to Philosophy 20B!</a></li>
+     
+        <li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/2008/01/this-is-syllabus-for-philosophy-20b.html">Philosophy 20B Syllabus</a></li>
+     
+  </ul>
+
+    
+  <h2 class="sidebar-title">Archives</h2>
+    <ul class="archive-list">
+   	  
+    	<li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/2008_01_01_archive.html">January 2008</a></li>
+	  
+    	<li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/2008_06_01_archive.html">June 2008</a></li>
+	  
+    	<li><a href="http://www.philosophy.ucsb.edu/websites/phil20B/2008_07_01_archive.html">July 2008</a></li>
+	  
+
+  </ul>
+  
+
+</div></div><!-- End #sidebar -->
+
+</div><!-- End #content -->
+
+
+
+<!-- Begin #footer -->
+<div id="footer"><p>UCSB Department of Philosophy<br>
+5631 South Hall | Santa Barbara, CA 93106-3090 | (PH) 805-893-3122 (FX) 805-893-8221</p>
+</div>
+<!-- End #footer -->
+
+</div>
+
+</body>
+</html>

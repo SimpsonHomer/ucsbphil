@@ -1,0 +1,445 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "">
+	<sitename></sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Helvetica" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Helvetica" fontsize = "4" color = "#F0F0F0" border = "0" rows = "3" col = "3"> </thumbnail> 
+<large base ="images/" font = "Helvetica" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "barnes.jpg"
+thumbpath = "barnes.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "evans-lee-noffsinger.jpg"
+thumbpath = "evans-lee-noffsinger.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "falvey.jpg"
+thumbpath = "falvey.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "falvey-brueckner-zimmerman.jpg"
+thumbpath = "falvey-brueckner-zimmerman.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "falvey-rescorla-brueck0004.jpg"
+thumbpath = "falvey-rescorla-brueck0004.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "forgie-falvey-rescorla.jpg"
+thumbpath = "forgie-falvey-rescorla.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "forgie-table.jpg"
+thumbpath = "forgie-table.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "glatz.jpg"
+thumbpath = "glatz.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "glatz-2.jpg"
+thumbpath = "glatz-2.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "glatz-kids.jpg"
+thumbpath = "glatz-kids.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "glatz-steinberg-haglan0010.jpg"
+thumbpath = "glatz-steinberg-haglan0010.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "glatz-tehrani.jpg"
+thumbpath = "glatz-tehrani.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "grady-way.jpg"
+thumbpath = "grady-way.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "group.jpg"
+thumbpath = "group.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "group-3.jpg"
+thumbpath = "group-3.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "group-4.jpg"
+thumbpath = "group-4.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "group-6.jpg"
+thumbpath = "group-6.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "hagland-conaway.jpg"
+thumbpath = "hagland-conaway.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "lewis-manning-tennberg.jpg"
+thumbpath = "lewis-manning-tennberg.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "lewis-manning-tennberg0019.jpg"
+thumbpath = "lewis-manning-tennberg0019.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "mcmahon-wilkins.jpg"
+thumbpath = "mcmahon-wilkins.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "newman-glatz-steinberg0022.jpg"
+thumbpath = "newman-glatz-steinberg0022.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "rescorla-falvey-zimmerman.jpg"
+thumbpath = "rescorla-falvey-zimmerman.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "rescorla-holden-zimmerman.jpg"
+thumbpath = "rescorla-holden-zimmerman.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "salmon-anderson.jpg"
+thumbpath = "salmon-anderson.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "salmon-berkley.jpg"
+thumbpath = "salmon-berkley.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "scott-hagland-steinber0027.jpg"
+thumbpath = "scott-hagland-steinber0027.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "scott-tehrani.jpg"
+thumbpath = "scott-tehrani.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "steinberg-rescorla-hol0029.jpg"
+thumbpath = "steinberg-rescorla-hol0029.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "steinberg-vaidya-chandler.jpg"
+thumbpath = "steinberg-vaidya-chandler.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "table.jpg"
+thumbpath = "table.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "tennberg.jpg"
+thumbpath = "tennberg.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "tennberg-steinberg-gla0032.jpg"
+thumbpath = "tennberg-steinberg-gla0032.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "vaidya.jpg"
+thumbpath = "vaidya.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "vaidya-cole-holden.jpg"
+thumbpath = "vaidya-cole-holden.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "vaidya-tehrani.jpg"
+thumbpath = "vaidya-tehrani.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "way-anderson.jpg"
+thumbpath = "way-anderson.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "way-cole.jpg"
+thumbpath = "way-cole.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "way-lee-cole.jpg"
+thumbpath = "way-lee-cole.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "way-rescorla.jpg"
+thumbpath = "way-rescorla.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "wilkins.jpg"
+thumbpath = "wilkins.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "wilkins-zamoyski.jpg"
+thumbpath = "wilkins-zamoyski.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "yi-manning-evans-tsomp0043.jpg"
+thumbpath = "yi-manning-evans-tsomp0043.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "yi-newman-manning.jpg"
+thumbpath = "yi-newman-manning.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "zamoyski.jpg"
+thumbpath = "zamoyski.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "zamoyski-conaway.jpg"
+thumbpath = "zamoyski-conaway.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "zamoyski-salazar.jpg"
+thumbpath = "zamoyski-salazar.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "zamoyski-scott.jpg"
+thumbpath = "zamoyski-scott.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "zamoyski-wilkins-glatz.jpg"
+thumbpath = "zamoyski-wilkins-glatz.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "zimmerman-anderson-falvey.jpg"
+thumbpath = "zimmerman-anderson-falvey.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "zimmerman-grazianos-guy.jpg"
+thumbpath = "zimmerman-grazianos-guy.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "zimmerman-rescorla-hol0052.jpg"
+thumbpath = "zimmerman-rescorla-hol0052.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+
+<image
+path = "zimmerman-tehrani.jpg"
+thumbpath = "zimmerman-tehrani.jpg"
+thumbwidth = "200"
+	<meta name = "title"><![CDATA[Spring 2005 Picnic @ Goleta Beach Park]]></meta>
+</image>
+
+</images>
+</gallery>

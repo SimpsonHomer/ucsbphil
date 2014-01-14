@@ -1,0 +1,16 @@
+.maintext { color: black; font-size: 12px; font-family: Verdana, Arial, Helvetica, sans-serif; line-height: 14px; text-align: left; }
+.maintext a:link { color: #36c; font-size: 12px; font-family: Verdana, Arial, Helvetica, sans-serif; line-height: 14px; text-decoration: none; }
+.maintext a:active { color: #36c; font-size: 12px; font-family: Verdana, Arial, Helvetica, sans-serif; line-height: 14px; text-decoration: none; }
+.maintext a:visited { color: #36c; font-size: 12px; font-family: Verdana, Arial, Helvetica, sans-serif; line-height: 14px; text-decoration: none; }
+.maintext a:hover { color: #36c; font-size: 12px; font-family: Verdana, Arial, Helvetica, sans-serif; line-height: 14px; text-decoration: underline; }
+li { margin-top: 5px; margin-bottom: 5px; list-style-type: square; }
+.black-border { border-style: solid; border-width: 1px; }
+.heading { color: #000; font-size: 16px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; line-height: 18px; }
+.subheading-white { color: #fff; font-size: 12px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; line-height: 14px; }
+.subheading { color: black; font-size: 12px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; line-height: 14px; }
+.subheading a:link { color: black; font-size: 12px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; line-height: 14px; text-decoration: none; }
+.subheading a:active { color: black; font-size: 12px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; line-height: 14px; text-decoration: none; }
+.subheading a:visited { color: black; font-size: 12px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; line-height: 14px; text-decoration: none; }
+.subheading a:hover { color: #999; font-size: 12px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; line-height: 14px; text-decoration: none; }
+.image-right { margin-top: 10px; margin-left: 10px; border: solid 1px black; }
+.image-left { margin-right: 10px; border: solid 1px black; }
