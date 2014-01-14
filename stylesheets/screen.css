@@ -452,10 +452,12 @@ table {
   display: inline;
 }
 
-@media (max-width: 35em) {
-  /* line 22, ../sass/screen.scss */
+@media screen and (max-width: 42em) {
+  /* line 23, ../sass/screen.scss */
   .page {
-    max-width: 28em;
+    *zoom: 1;
+    max-width: 58em;
+    _width: 58em;
     padding-left: 0em;
     padding-right: 0em;
     margin-left: auto;
@@ -468,40 +470,43 @@ table {
     display: table;
     clear: both;
   }
-  /* line 24, ../sass/screen.scss */
+  /* line 25, ../sass/screen.scss */
   .page .primary {
     width: 100%;
     float: left;
     margin-right: 7.14286%;
+    display: inline;
   }
-  /* line 25, ../sass/screen.scss */
+  /* line 26, ../sass/screen.scss */
   .page .secondary {
     width: 100%;
     float: right;
     margin-right: 0;
+    *margin-left: -2em;
+    display: inline;
   }
 }
 /* http://unstoppablerobotninja.com/entry/fluid-images/ */
-/* line 34, ../sass/screen.scss */
+/* line 35, ../sass/screen.scss */
 img,
 object,
 iframe {
   max-width: 100%;
 }
 
-/* line 38, ../sass/screen.scss */
+/* line 39, ../sass/screen.scss */
 body {
   background-color: #3e5e8d;
 }
 
-/* line 42, ../sass/screen.scss */
+/* line 43, ../sass/screen.scss */
 .page {
   background-color: #e6e6e1;
   border: .125em solid white;
   font-family: Verdana;
 }
 
-/* line 48, ../sass/screen.scss */
+/* line 49, ../sass/screen.scss */
 nav {
   background-color: gray;
   text-align: center;
@@ -519,7 +524,7 @@ nav a:hover, nav a:active {
   background-color: #e6e6e1;
 }
 
-/* line 55, ../sass/screen.scss */
+/* line 56, ../sass/screen.scss */
 nav ul,
 nav li {
   /* http://www.alistapart.com/articles/taminglists/ */
@@ -528,18 +533,18 @@ nav li {
   padding-left: 0;
 }
 
-/* line 61, ../sass/screen.scss */
+/* line 62, ../sass/screen.scss */
 nav a {
   padding: .25em 1em;
   line-height: 2em;
 }
 
-/* line 66, ../sass/screen.scss */
+/* line 67, ../sass/screen.scss */
 main {
   margin: 0 2em;
 }
 
-/* line 70, ../sass/screen.scss */
+/* line 71, ../sass/screen.scss */
 footer {
   padding: 1em 2em;
   background-color: gray;

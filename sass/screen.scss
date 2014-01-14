@@ -18,7 +18,8 @@
 
 }
 
-@include at-breakpoint(1 35em) {
+@media screen and (max-width: 42em) {
+  @include with-grid-settings(1,100%,2em,0em);
   .page { 
     @include container;
     .primary { @include span-columns(1,1); }
