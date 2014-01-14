@@ -18,7 +18,7 @@
 
 }
 
-@media screen and (max-width: 42em) {
+@media screen and (max-width: 38em) {
   @include with-grid-settings(1,100%,2em,0em);
   .page { 
     @include container;

@@ -452,7 +452,7 @@ table {
   display: inline;
 }
 
-@media screen and (max-width: 42em) {
+@media screen and (max-width: 38em) {
   /* line 23, ../sass/screen.scss */
   .page {
     *zoom: 1;
