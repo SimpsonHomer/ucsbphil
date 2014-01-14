@@ -25,3 +25,31 @@ object,
 iframe {
   max-width: 100%;
 }
+
+body {
+  background-color: rgb(62, 94, 141);
+}
+
+.page {
+  background-color: rgb(230, 230, 225);
+  border: .125em solid white;
+}
+
+nav {
+  text-align: center;
+}
+nav ul,
+nav li {
+/* http://www.alistapart.com/articles/taminglists/ */
+  display: inline;
+  margin: 0;
+  padding-left: 0;
+}
+nav a {
+  padding: 0 1em;
+  line-height: 2em;
+}
+
+main, footer {
+  margin: 0 2em;
+}
