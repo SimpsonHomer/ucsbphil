@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <head>
   <meta charset="utf-8">
+  <!-- this is required for small-screen devices
+       see:
+       http://www.quirksmode.org/blog/archives/2010/09/combining_meta.html -->
   <meta name="viewport" content="width=device-width" />
 	<title>University of California, Santa Barbara | Department of Philosophy</title>
 	<link href="stylesheets/screen.css" rel="stylesheet" type="text/css" media="all" />
@@ -9,9 +12,12 @@
 
 <body>
 <div class="page">
+<!-- see: http://html5doctor.com/the-header-element/ 
+and:
+http://blog.paciellogroup.com/2013/02/using-wai-aria-landmarks-2013/ -->
 <header role="banner">
 	<img alt="UCSB Department of Philosophy logo" src="images/header.gif" />
-
+<!-- http://html5doctor.com/nav-element/ -->
   <nav>
 	  <ul>
       <li class="level0"><a href="./index.html">HOME</a></li>
@@ -35,6 +41,7 @@
 
   <img alt="UCSB" src="images/campus.jpg" />
 
+  <!-- http://html5doctor.com/the-article-element/ -->
   <article role="article">
 	<h2>Announcements</h2>
   <ul>
@@ -132,6 +139,7 @@
 
 </main>
 
+<!-- http://html5doctor.com/the-footer-element/ -->
 <footer role="contentinfo">
 <p>University of California, Santa Barbara</p>
 <p>Philosophy Department | 5631 South Hall | Santa Barbara, CA 93106-3090 | (PH) 805-893-7488 (FX) 805-893-8221</p>
