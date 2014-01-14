@@ -12,3 +12,55 @@ $gutter-width   : 2em;
 $grid-padding   : 0em;
 
 $show-grid-backgrounds  : true;
+
+// Colors
+$philosophy-blue: rgb(62, 94, 141);
+$boring-gray: rgb(230, 230, 225);
+
+// mixin for producing links that swap color and 
+// background-color when hovered
+@mixin a-swap($text, $text-visit, $bg, $und: 0) {
+  a {
+    color: $text;
+    @if ($bg != 0) and ($bg != none) {
+      background-color: $bg;
+    }
+    @if ($und == 1) {
+      text-decoration: underline;
+    }
+    @else {
+      text-decoration: none;
+    }
+    @if ($text-visit != $text) and ($text-visit != 0) {
+      &:visited {
+      color: $text-visit;
+	&:hover {
+	  @if ($bg == none) or ($bg == 0) {
+	    color: white;
+	  }
+	  @else {
+	    color: $bg;
+	  }
+	  background-color: $text-visit;
+	  text-decoration: none;
+	  @if ($und == 1) {
+	    text-decoration: none;
+	  }
+	}
+      }
+    }
+    &:hover,
+    &:active {
+      @if ($bg == none) or ($bg == 0) {
+	color: white;
+      }
+      @else {
+	color: $bg;
+      }
+      background-color: $text;
+      @if ($und == 1) {
+	text-decoration: none;
+      }
+    }
+  }
+}

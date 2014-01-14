@@ -452,31 +452,74 @@ table {
   display: inline;
 }
 
+@media (max-width: 35em) {
+  /* line 22, ../sass/screen.scss */
+  .page {
+    max-width: 28em;
+    padding-left: 0em;
+    padding-right: 0em;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 75%;
+  }
+  /* line 38, ../../../../../usr/local/Cellar/ruby/2.1.0/lib/ruby/gems/2.1.0/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/general/_clearfix.scss */
+  .page:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  /* line 24, ../sass/screen.scss */
+  .page .primary {
+    width: 100%;
+    float: left;
+    margin-right: 7.14286%;
+  }
+  /* line 25, ../sass/screen.scss */
+  .page .secondary {
+    width: 100%;
+    float: right;
+    margin-right: 0;
+  }
+}
 /* http://unstoppablerobotninja.com/entry/fluid-images/ */
-/* line 25, ../sass/screen.scss */
+/* line 34, ../sass/screen.scss */
 img,
 object,
 iframe {
   max-width: 100%;
 }
 
-/* line 29, ../sass/screen.scss */
+/* line 38, ../sass/screen.scss */
 body {
   background-color: #3e5e8d;
 }
 
-/* line 33, ../sass/screen.scss */
+/* line 42, ../sass/screen.scss */
 .page {
   background-color: #e6e6e1;
   border: .125em solid white;
+  font-family: Verdana;
 }
 
-/* line 38, ../sass/screen.scss */
+/* line 48, ../sass/screen.scss */
 nav {
+  background-color: gray;
   text-align: center;
+  font-weight: bold;
+}
+/* line 23, ../sass/_base.scss */
+nav a {
+  color: #e6e6e1;
+  background-color: gray;
+  text-decoration: none;
+}
+/* line 53, ../sass/_base.scss */
+nav a:hover, nav a:active {
+  color: gray;
+  background-color: #e6e6e1;
 }
 
-/* line 42, ../sass/screen.scss */
+/* line 55, ../sass/screen.scss */
 nav ul,
 nav li {
   /* http://www.alistapart.com/articles/taminglists/ */
@@ -485,13 +528,32 @@ nav li {
   padding-left: 0;
 }
 
-/* line 48, ../sass/screen.scss */
+/* line 61, ../sass/screen.scss */
 nav a {
-  padding: 0 1em;
+  padding: .25em 1em;
   line-height: 2em;
 }
 
-/* line 53, ../sass/screen.scss */
-main, footer {
+/* line 66, ../sass/screen.scss */
+main {
   margin: 0 2em;
+}
+
+/* line 70, ../sass/screen.scss */
+footer {
+  padding: 1em 2em;
+  background-color: gray;
+  color: #e6e6e1;
+}
+/* line 23, ../sass/_base.scss */
+footer a {
+  color: #e6e6e1;
+  background-color: gray;
+  text-decoration: underline;
+}
+/* line 53, ../sass/_base.scss */
+footer a:hover, footer a:active {
+  color: gray;
+  background-color: #e6e6e1;
+  text-decoration: none;
 }

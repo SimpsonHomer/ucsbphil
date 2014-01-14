@@ -18,6 +18,15 @@
 
 }
 
+@include at-breakpoint(1 35em) {
+  .page { 
+    @include container;
+    .primary { @include span-columns(1,1); }
+    .secondary { @include span-columns(1 omega,1); }
+    font-size: 75%;
+  }
+}
+
 /* http://unstoppablerobotninja.com/entry/fluid-images/ */
 // /* needs width: 100% in IE stylesheet */
 img,
@@ -27,16 +36,20 @@ iframe {
 }
 
 body {
-  background-color: rgb(62, 94, 141);
+  background-color: $philosophy-blue;
 }
 
 .page {
-  background-color: rgb(230, 230, 225);
+  background-color: $boring-gray;
   border: .125em solid white;
+  font-family: Verdana;
 }
 
 nav {
+  background-color: gray;
   text-align: center;
+  font-weight: bold;
+  @include a-swap($boring-gray, $boring-gray, gray);
 }
 nav ul,
 nav li {
@@ -46,10 +59,19 @@ nav li {
   padding-left: 0;
 }
 nav a {
-  padding: 0 1em;
+  padding: .25em 1em;
   line-height: 2em;
 }
 
-main, footer {
+main {
   margin: 0 2em;
+}
+
+footer {
+  padding: 1em 2em;
+  background-color: gray;
+  color: $boring-gray;
+
+  @include a-swap($boring-gray, $boring-gray, gray, 1);
+
 }
