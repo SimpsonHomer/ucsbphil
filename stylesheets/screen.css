@@ -507,55 +507,102 @@ body {
 }
 
 /* line 49, ../sass/screen.scss */
-header nav {
-  background-color: dimgrey;
+.top-nav {
+  background-color: #153258;
+  text-transform: uppercase;
+}
+/* line 26, ../sass/_base.scss */
+.top-nav a {
+  color: white;
+  background-color: #153258;
+  text-decoration: none;
+}
+/* line 56, ../sass/_base.scss */
+.top-nav a:hover, .top-nav a:active {
+  color: #153258;
+  background-color: white;
+}
+
+/* line 55, ../sass/screen.scss */
+.sub-nav {
+  border-top: 0.125em solid #e6e6e1;
+  background-color: #5c727f;
+  color: white;
+  padding-left: 2em;
+}
+/* line 26, ../sass/_base.scss */
+.sub-nav a {
+  color: white;
+  background-color: #5c727f;
+  text-decoration: underline;
+}
+/* line 56, ../sass/_base.scss */
+.sub-nav a:hover, .sub-nav a:active {
+  color: #5c727f;
+  background-color: white;
+  text-decoration: none;
+}
+
+/* line 63, ../sass/screen.scss */
+.top-nav, .sub-nav {
   text-align: center;
   font-weight: bold;
 }
-/* line 24, ../sass/_base.scss */
-header nav a {
-  color: #e6e6e1;
-  background-color: dimgrey;
-  text-decoration: none;
-}
-/* line 54, ../sass/_base.scss */
-header nav a:hover, header nav a:active {
-  color: dimgrey;
-  background-color: #e6e6e1;
-}
-/* line 55, ../sass/screen.scss */
-header nav ul, header nav li {
+/* line 67, ../sass/screen.scss */
+.top-nav ul, .top-nav li, .sub-nav ul, .sub-nav li {
   /* http://www.alistapart.com/articles/taminglists/ */
   display: inline;
   margin: 0;
   padding-left: 0;
 }
-/* line 61, ../sass/screen.scss */
-header nav a {
+/* line 73, ../sass/screen.scss */
+.top-nav a, .sub-nav a {
   padding: .25em 1em;
   line-height: 2em;
 }
 
-/* line 67, ../sass/screen.scss */
+/* line 79, ../sass/screen.scss */
 main {
   margin: 0 2em;
 }
 
-/* line 71, ../sass/screen.scss */
+/* line 83, ../sass/screen.scss */
 footer {
   padding: 1em 2em;
-  background-color: dimgrey;
+  background-color: #153258;
   color: #e6e6e1;
 }
-/* line 24, ../sass/_base.scss */
+/* line 26, ../sass/_base.scss */
 footer a {
   color: #e6e6e1;
-  background-color: dimgrey;
+  background-color: #153258;
   text-decoration: underline;
 }
-/* line 54, ../sass/_base.scss */
+/* line 56, ../sass/_base.scss */
 footer a:hover, footer a:active {
-  color: dimgrey;
+  color: #153258;
   background-color: #e6e6e1;
   text-decoration: none;
+}
+
+/* line 90, ../sass/screen.scss */
+.profile {
+  clear: both;
+}
+
+/* line 94, ../sass/screen.scss */
+.profile-info {
+  display: -moz-inline-stack;
+  display: inline-block;
+  vertical-align: middle;
+  *vertical-align: auto;
+  zoom: 1;
+  *display: inline;
+}
+
+/* line 99, ../sass/screen.scss */
+.profile-img {
+  float: left;
+  border: 0.25em #153258 solid;
+  margin-bottom: 3em;
 }

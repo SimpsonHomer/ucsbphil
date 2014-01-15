@@ -46,11 +46,23 @@ body {
   font-family: Verdana;
 }
 
-header nav {
+.top-nav {
+  @include a-swap(white, white, $header-footer);
   background-color: $header-footer;
+  text-transform: uppercase;
+}
+
+.sub-nav {
+  border-top: .125em solid $boring-gray;
+  background-color: $subheader;
+  color: white;
+  padding-left: 2em;
+  @include a-swap(white, white, $subheader, 1);
+}
+
+.top-nav, .sub-nav {
   text-align: center;
   font-weight: bold;
-  @include a-swap($boring-gray, $boring-gray, $header-footer);
 
   ul, li {
     /* http://www.alistapart.com/articles/taminglists/ */
@@ -72,7 +84,21 @@ footer {
   padding: 1em 2em;
   background-color: $header-footer;
   color: $boring-gray;
-
   @include a-swap($boring-gray, $boring-gray, $header-footer, 1);
-
 }
+
+.profile {
+  clear: both;
+}
+
+.profile-info {
+// http://compass-style.org/reference/compass/css3/inline_block/
+  @include inline-block;
+}
+
+.profile-img {
+  float: left;
+  border: .25em $header-footer solid;
+  margin-bottom: 3em;
+}
+

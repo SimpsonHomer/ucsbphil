@@ -2,6 +2,7 @@
 // Imports
 
 @import "susy";
+@import "compass/css3";
 
 // ---------------------------------------------------------------------------
 // Basic Grid
@@ -16,7 +17,8 @@ $show-grid-backgrounds  : true;
 // Colors
 $philosophy-blue: rgb(62, 94, 141);
 $boring-gray: rgb(230, 230, 225);
-$header-footer: #696969;
+$header-footer: rgb(21, 50, 88);
+$subheader: rgb(92, 114, 127);
 
 // mixin for producing links that swap color and 
 // background-color when hovered
