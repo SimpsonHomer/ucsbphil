@@ -511,13 +511,13 @@ body {
   background-color: #153258;
   text-transform: uppercase;
 }
-/* line 26, ../sass/_base.scss */
+/* line 29, ../sass/_base.scss */
 .top-nav a {
   color: white;
   background-color: #153258;
   text-decoration: none;
 }
-/* line 56, ../sass/_base.scss */
+/* line 59, ../sass/_base.scss */
 .top-nav a:hover, .top-nav a:active {
   color: #153258;
   background-color: white;
@@ -530,13 +530,13 @@ body {
   color: white;
   padding-left: 2em;
 }
-/* line 26, ../sass/_base.scss */
+/* line 29, ../sass/_base.scss */
 .sub-nav a {
   color: white;
   background-color: #5c727f;
   text-decoration: underline;
 }
-/* line 56, ../sass/_base.scss */
+/* line 59, ../sass/_base.scss */
 .sub-nav a:hover, .sub-nav a:active {
   color: #5c727f;
   background-color: white;
@@ -572,13 +572,13 @@ footer {
   background-color: #153258;
   color: #e6e6e1;
 }
-/* line 26, ../sass/_base.scss */
+/* line 29, ../sass/_base.scss */
 footer a {
   color: #e6e6e1;
   background-color: #153258;
   text-decoration: underline;
 }
-/* line 56, ../sass/_base.scss */
+/* line 59, ../sass/_base.scss */
 footer a:hover, footer a:active {
   color: #153258;
   background-color: #e6e6e1;
@@ -593,28 +593,35 @@ footer a:hover, footer a:active {
   /* overflow keeps the div from collapsing */
   /* http://css-tricks.com/all-about-floats/ */
   overflow: hidden;
+  /* http://css-tricks.com/how-nth-child-works/ */
 }
-/* line 98, ../sass/screen.scss */
+/* line 99, ../sass/screen.scss */
 .profile:nth-child(even) {
   background-color: ghostwhite;
 }
-/* line 101, ../sass/screen.scss */
+/* line 102, ../sass/screen.scss */
 .profile:nth-child(odd) {
   background-color: aliceblue;
 }
 
-/* line 106, ../sass/screen.scss */
+/* line 107, ../sass/screen.scss */
 .profile-title {
   margin-top: -.75em;
 }
 
-/* line 109, ../sass/screen.scss */
+/* line 110, ../sass/screen.scss */
 .profile-degree {
   margin-top: -1em;
 }
 
-/* line 113, ../sass/screen.scss */
+/* line 114, ../sass/screen.scss */
 .profile-img {
   float: right;
   border: 0.25em #3e5e8d solid;
+}
+@media screen and (max-width: 38em) {
+  /* line 114, ../sass/screen.scss */
+  .profile-img {
+    width: 8em;
+  }
 }

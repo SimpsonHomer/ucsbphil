@@ -18,7 +18,7 @@
 
 }
 
-@media screen and (max-width: 38em) {
+@media screen and (max-width: $break) {
   @include with-grid-settings(1,100%,2em,0em);
   .page { 
     @include container;
@@ -95,6 +95,7 @@ footer {
   /* http://css-tricks.com/all-about-floats/ */
   overflow: hidden;
 
+  /* http://css-tricks.com/how-nth-child-works/ */
   &:nth-child(even) {
     background-color: ghostwhite;
   }
@@ -113,5 +114,8 @@ footer {
 .profile-img {
   float: right;
   border: .25em $philosophy-blue solid;
+  @media screen and (max-width: $break) {
+    width: 8em;
+  }
 }
 
