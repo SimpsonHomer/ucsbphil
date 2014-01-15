@@ -587,22 +587,34 @@ footer a:hover, footer a:active {
 
 /* line 90, ../sass/screen.scss */
 .profile {
-  clear: both;
+  padding: 0 2em 1em 1em;
+  margin-bottom: 1em;
+  border: 0.25em #3e5e8d solid;
+  /* overflow keeps the div from collapsing */
+  /* http://css-tricks.com/all-about-floats/ */
+  overflow: hidden;
+}
+/* line 98, ../sass/screen.scss */
+.profile:nth-child(even) {
+  background-color: ghostwhite;
+}
+/* line 101, ../sass/screen.scss */
+.profile:nth-child(odd) {
+  background-color: aliceblue;
 }
 
-/* line 94, ../sass/screen.scss */
-.profile-info {
-  display: -moz-inline-stack;
-  display: inline-block;
-  vertical-align: middle;
-  *vertical-align: auto;
-  zoom: 1;
-  *display: inline;
+/* line 106, ../sass/screen.scss */
+.profile-title {
+  margin-top: -.75em;
 }
 
-/* line 99, ../sass/screen.scss */
+/* line 109, ../sass/screen.scss */
+.profile-degree {
+  margin-top: -1em;
+}
+
+/* line 113, ../sass/screen.scss */
 .profile-img {
-  float: left;
-  border: 0.25em #153258 solid;
-  margin-bottom: 3em;
+  float: right;
+  border: 0.25em #3e5e8d solid;
 }

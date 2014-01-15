@@ -88,17 +88,30 @@ footer {
 }
 
 .profile {
-  clear: both;
+  padding: 0 2em 1em 1em;
+  margin-bottom: 1em;
+  border: .25em $philosophy-blue solid;
+  /* overflow keeps the div from collapsing */
+  /* http://css-tricks.com/all-about-floats/ */
+  overflow: hidden;
+
+  &:nth-child(even) {
+    background-color: ghostwhite;
+  }
+  &:nth-child(odd) {
+    background-color: aliceblue;
+  }
 }
 
-.profile-info {
-// http://compass-style.org/reference/compass/css3/inline_block/
-  @include inline-block;
+.profile-title {
+  margin-top: -.75em;
+}
+.profile-degree {
+  margin-top: -1em;
 }
 
 .profile-img {
-  float: left;
-  border: .25em $header-footer solid;
-  margin-bottom: 3em;
+  float: right;
+  border: .25em $philosophy-blue solid;
 }
 
