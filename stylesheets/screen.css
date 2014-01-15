@@ -507,34 +507,31 @@ body {
 }
 
 /* line 49, ../sass/screen.scss */
-nav {
+header nav {
   background-color: dimgrey;
   text-align: center;
   font-weight: bold;
 }
 /* line 24, ../sass/_base.scss */
-nav a {
+header nav a {
   color: #e6e6e1;
   background-color: dimgrey;
   text-decoration: none;
 }
 /* line 54, ../sass/_base.scss */
-nav a:hover, nav a:active {
+header nav a:hover, header nav a:active {
   color: dimgrey;
   background-color: #e6e6e1;
 }
-
-/* line 56, ../sass/screen.scss */
-nav ul,
-nav li {
+/* line 55, ../sass/screen.scss */
+header nav ul, header nav li {
   /* http://www.alistapart.com/articles/taminglists/ */
   display: inline;
   margin: 0;
   padding-left: 0;
 }
-
-/* line 62, ../sass/screen.scss */
-nav a {
+/* line 61, ../sass/screen.scss */
+header nav a {
   padding: .25em 1em;
   line-height: 2em;
 }

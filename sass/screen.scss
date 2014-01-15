@@ -46,22 +46,22 @@ body {
   font-family: Verdana;
 }
 
-nav {
+header nav {
   background-color: $header-footer;
   text-align: center;
   font-weight: bold;
   @include a-swap($boring-gray, $boring-gray, $header-footer);
-}
-nav ul,
-nav li {
-/* http://www.alistapart.com/articles/taminglists/ */
-  display: inline;
-  margin: 0;
-  padding-left: 0;
-}
-nav a {
-  padding: .25em 1em;
-  line-height: 2em;
+
+  ul, li {
+    /* http://www.alistapart.com/articles/taminglists/ */
+    display: inline;
+    margin: 0;
+    padding-left: 0;
+  }
+  a {
+    padding: .25em 1em;
+    line-height: 2em;
+  }
 }
 
 main {
