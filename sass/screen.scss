@@ -20,7 +20,7 @@
 
 @media screen and (max-width: $break) {
   @include with-grid-settings(1,100%,2em,0em);
-  .page { 
+  .page {
     @include container;
     .primary { @include span-columns(1,1); }
     .secondary { @include span-columns(1 omega,1); }
@@ -56,11 +56,11 @@ body {
   padding-left: 2em;
     border-top: .125em solid $boring-gray;
     color: white;
-  &:nth-child(odd) {
+  &:nth-of-type(even) {
     background-color: $subheader;
     @include a-swap(white, white, $subheader, 1);
   }
-  &:nth-child(even) {
+  &:nth-of-type(odd) {
     background-color: $header-footer;
     @include a-swap(white, white, $header-footer, 1);
   }
@@ -102,10 +102,11 @@ footer {
   overflow: hidden;
 
   /* http://css-tricks.com/how-nth-child-works/ */
-  &:nth-child(odd) {
+  /* http://css-tricks.com/the-difference-between-nth-child-and-nth-of-type/ */
+  &:nth-of-type(even) {
     background-color: ghostwhite;
   }
-  &:nth-child(even) {
+  &:nth-of-type(odd) {
     background-color: lightcyan;
   }
   /* http://css-tricks.com/pseudo-class-selectors/ */
@@ -128,4 +129,3 @@ footer {
     width: 6em;
   }
 }
-

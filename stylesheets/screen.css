@@ -531,33 +531,33 @@ body {
   color: white;
 }
 /* line 59, ../sass/screen.scss */
-.sub-nav:nth-child(odd) {
+.sub-nav:nth-of-type(even) {
   background-color: #5c727f;
 }
 /* line 29, ../sass/_base.scss */
-.sub-nav:nth-child(odd) a {
+.sub-nav:nth-of-type(even) a {
   color: white;
   background-color: #5c727f;
   text-decoration: underline;
 }
 /* line 59, ../sass/_base.scss */
-.sub-nav:nth-child(odd) a:hover, .sub-nav:nth-child(odd) a:active {
+.sub-nav:nth-of-type(even) a:hover, .sub-nav:nth-of-type(even) a:active {
   color: #5c727f;
   background-color: white;
   text-decoration: none;
 }
 /* line 63, ../sass/screen.scss */
-.sub-nav:nth-child(even) {
+.sub-nav:nth-of-type(odd) {
   background-color: #153258;
 }
 /* line 29, ../sass/_base.scss */
-.sub-nav:nth-child(even) a {
+.sub-nav:nth-of-type(odd) a {
   color: white;
   background-color: #153258;
   text-decoration: underline;
 }
 /* line 59, ../sass/_base.scss */
-.sub-nav:nth-child(even) a:hover, .sub-nav:nth-child(even) a:active {
+.sub-nav:nth-of-type(odd) a:hover, .sub-nav:nth-of-type(odd) a:active {
   color: #153258;
   background-color: white;
   text-decoration: none;
@@ -614,38 +614,39 @@ footer a:hover, footer a:active {
   /* http://css-tricks.com/all-about-floats/ */
   overflow: hidden;
   /* http://css-tricks.com/how-nth-child-works/ */
+  /* http://css-tricks.com/the-difference-between-nth-child-and-nth-of-type/ */
   /* http://css-tricks.com/pseudo-class-selectors/ */
 }
-/* line 105, ../sass/screen.scss */
-.profile:nth-child(odd) {
+/* line 106, ../sass/screen.scss */
+.profile:nth-of-type(even) {
   background-color: ghostwhite;
 }
-/* line 108, ../sass/screen.scss */
-.profile:nth-child(even) {
+/* line 109, ../sass/screen.scss */
+.profile:nth-of-type(odd) {
   background-color: lightcyan;
 }
-/* line 112, ../sass/screen.scss */
+/* line 113, ../sass/screen.scss */
 .profile:only-of-type {
   margin-top: 1em;
 }
 
-/* line 117, ../sass/screen.scss */
+/* line 118, ../sass/screen.scss */
 .profile-title {
   margin-top: -.75em;
 }
 
-/* line 120, ../sass/screen.scss */
+/* line 121, ../sass/screen.scss */
 .profile-degree {
   margin-top: -1em;
 }
 
-/* line 124, ../sass/screen.scss */
+/* line 125, ../sass/screen.scss */
 .profile-img {
   float: right;
   border: 0.25em #3e5e8d solid;
 }
 @media screen and (max-width: 38em) {
-  /* line 124, ../sass/screen.scss */
+  /* line 125, ../sass/screen.scss */
   .profile-img {
     width: 6em;
   }
