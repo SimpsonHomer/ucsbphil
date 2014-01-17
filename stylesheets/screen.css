@@ -515,12 +515,13 @@ body {
 .top-nav a {
   color: white;
   background-color: #153258;
-  text-decoration: none;
+  text-decoration: underline;
 }
 /* line 59, ../sass/_base.scss */
 .top-nav a:hover, .top-nav a:active {
   color: #153258;
   background-color: white;
+  text-decoration: none;
 }
 
 /* line 55, ../sass/screen.scss */

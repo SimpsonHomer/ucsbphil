@@ -47,7 +47,7 @@ body {
 }
 
 .top-nav {
-  @include a-swap(white, white, $header-footer);
+  @include a-swap(white, white, $header-footer, 1);
   background-color: $header-footer;
   text-transform: uppercase;
 }
