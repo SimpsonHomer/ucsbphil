@@ -501,7 +501,7 @@ body {
 
 /* line 43, ../sass/screen.scss */
 .page {
-  background-color: #e6e6e1;
+  background-color: white;
   border: .125em solid white;
   font-family: Verdana;
 }
@@ -525,67 +525,86 @@ body {
 
 /* line 55, ../sass/screen.scss */
 .sub-nav {
-  border-top: 0.125em solid #e6e6e1;
-  background-color: #5c727f;
-  color: white;
   padding-left: 2em;
+  border-top: 0.125em solid white;
+  color: white;
+}
+/* line 59, ../sass/screen.scss */
+.sub-nav:nth-child(odd) {
+  background-color: #5c727f;
 }
 /* line 29, ../sass/_base.scss */
-.sub-nav a {
+.sub-nav:nth-child(odd) a {
   color: white;
   background-color: #5c727f;
   text-decoration: underline;
 }
 /* line 59, ../sass/_base.scss */
-.sub-nav a:hover, .sub-nav a:active {
+.sub-nav:nth-child(odd) a:hover, .sub-nav:nth-child(odd) a:active {
   color: #5c727f;
   background-color: white;
   text-decoration: none;
 }
-
 /* line 63, ../sass/screen.scss */
+.sub-nav:nth-child(even) {
+  background-color: #153258;
+}
+/* line 29, ../sass/_base.scss */
+.sub-nav:nth-child(even) a {
+  color: white;
+  background-color: #153258;
+  text-decoration: underline;
+}
+/* line 59, ../sass/_base.scss */
+.sub-nav:nth-child(even) a:hover, .sub-nav:nth-child(even) a:active {
+  color: #153258;
+  background-color: white;
+  text-decoration: none;
+}
+
+/* line 69, ../sass/screen.scss */
 .top-nav, .sub-nav {
   text-align: center;
   font-weight: bold;
 }
-/* line 67, ../sass/screen.scss */
+/* line 73, ../sass/screen.scss */
 .top-nav ul, .top-nav li, .sub-nav ul, .sub-nav li {
   /* http://www.alistapart.com/articles/taminglists/ */
   display: inline;
   margin: 0;
   padding-left: 0;
 }
-/* line 73, ../sass/screen.scss */
+/* line 79, ../sass/screen.scss */
 .top-nav a, .sub-nav a {
   padding: .25em 1em;
   line-height: 2em;
 }
 
-/* line 79, ../sass/screen.scss */
+/* line 85, ../sass/screen.scss */
 main {
   margin: 0 2em;
 }
 
-/* line 83, ../sass/screen.scss */
+/* line 89, ../sass/screen.scss */
 footer {
   padding: 1em 2em;
   background-color: #153258;
-  color: #e6e6e1;
+  color: white;
 }
 /* line 29, ../sass/_base.scss */
 footer a {
-  color: #e6e6e1;
+  color: white;
   background-color: #153258;
   text-decoration: underline;
 }
 /* line 59, ../sass/_base.scss */
 footer a:hover, footer a:active {
   color: #153258;
-  background-color: #e6e6e1;
+  background-color: white;
   text-decoration: none;
 }
 
-/* line 90, ../sass/screen.scss */
+/* line 96, ../sass/screen.scss */
 .profile {
   padding: 0 2em 1em 1em;
   margin-bottom: 1em;
@@ -594,34 +613,39 @@ footer a:hover, footer a:active {
   /* http://css-tricks.com/all-about-floats/ */
   overflow: hidden;
   /* http://css-tricks.com/how-nth-child-works/ */
+  /* http://css-tricks.com/pseudo-class-selectors/ */
 }
-/* line 99, ../sass/screen.scss */
-.profile:nth-child(even) {
+/* line 105, ../sass/screen.scss */
+.profile:nth-child(odd) {
   background-color: ghostwhite;
 }
-/* line 102, ../sass/screen.scss */
-.profile:nth-child(odd) {
-  background-color: aliceblue;
+/* line 108, ../sass/screen.scss */
+.profile:nth-child(even) {
+  background-color: lightcyan;
+}
+/* line 112, ../sass/screen.scss */
+.profile:only-of-type {
+  margin-top: 1em;
 }
 
-/* line 107, ../sass/screen.scss */
+/* line 117, ../sass/screen.scss */
 .profile-title {
   margin-top: -.75em;
 }
 
-/* line 110, ../sass/screen.scss */
+/* line 120, ../sass/screen.scss */
 .profile-degree {
   margin-top: -1em;
 }
 
-/* line 114, ../sass/screen.scss */
+/* line 124, ../sass/screen.scss */
 .profile-img {
   float: right;
   border: 0.25em #3e5e8d solid;
 }
 @media screen and (max-width: 38em) {
-  /* line 114, ../sass/screen.scss */
+  /* line 124, ../sass/screen.scss */
   .profile-img {
-    width: 8em;
+    width: 6em;
   }
 }

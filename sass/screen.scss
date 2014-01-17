@@ -53,11 +53,17 @@ body {
 }
 
 .sub-nav {
-  border-top: .125em solid $boring-gray;
-  background-color: $subheader;
-  color: white;
   padding-left: 2em;
-  @include a-swap(white, white, $subheader, 1);
+    border-top: .125em solid $boring-gray;
+    color: white;
+  &:nth-child(odd) {
+    background-color: $subheader;
+    @include a-swap(white, white, $subheader, 1);
+  }
+  &:nth-child(even) {
+    background-color: $header-footer;
+    @include a-swap(white, white, $header-footer, 1);
+  }
 }
 
 .top-nav, .sub-nav {
@@ -96,11 +102,15 @@ footer {
   overflow: hidden;
 
   /* http://css-tricks.com/how-nth-child-works/ */
-  &:nth-child(even) {
+  &:nth-child(odd) {
     background-color: ghostwhite;
   }
-  &:nth-child(odd) {
-    background-color: aliceblue;
+  &:nth-child(even) {
+    background-color: lightcyan;
+  }
+  /* http://css-tricks.com/pseudo-class-selectors/ */
+  &:only-of-type {
+    margin-top: 1em;
   }
 }
 
@@ -115,7 +125,7 @@ footer {
   float: right;
   border: .25em $philosophy-blue solid;
   @media screen and (max-width: $break) {
-    width: 8em;
+    width: 6em;
   }
 }
 
