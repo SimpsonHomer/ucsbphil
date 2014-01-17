@@ -607,7 +607,7 @@ footer a:hover, footer a:active {
 
 /* line 96, ../sass/screen.scss */
 .profile {
-  padding: 0 2em 1em 1em;
+  padding: 0 2em 1em 1.5em;
   margin-bottom: 1em;
   border: 0.25em #3e5e8d solid;
   /* overflow keeps the div from collapsing */
