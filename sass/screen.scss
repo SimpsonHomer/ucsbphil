@@ -133,3 +133,14 @@ footer {
     width: 6em;
   }
 }
+
+.donate {
+  font-weight: bold;
+  color: gold;
+  &:hover,
+  &:active {
+    color: $header-footer;
+    background-color: gold;
+    text-decoration: none;
+  }
+}

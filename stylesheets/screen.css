@@ -656,3 +656,15 @@ footer a:hover, footer a:active {
     width: 6em;
   }
 }
+
+/* line 137, ../sass/screen.scss */
+.donate {
+  font-weight: bold;
+  color: gold;
+}
+/* line 141, ../sass/screen.scss */
+.donate:hover, .donate:active {
+  color: #153258;
+  background-color: gold;
+  text-decoration: none;
+}
