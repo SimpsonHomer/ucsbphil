@@ -617,36 +617,41 @@ footer a:hover, footer a:active {
   /* http://css-tricks.com/the-difference-between-nth-child-and-nth-of-type/ */
   /* http://css-tricks.com/pseudo-class-selectors/ */
 }
-/* line 106, ../sass/screen.scss */
+/* line 103, ../sass/screen.scss */
+.profile img {
+  width: 150px;
+  height: 185px;
+}
+/* line 110, ../sass/screen.scss */
 .profile:nth-of-type(even) {
   background-color: ghostwhite;
 }
-/* line 109, ../sass/screen.scss */
+/* line 113, ../sass/screen.scss */
 .profile:nth-of-type(odd) {
   background-color: lightcyan;
 }
-/* line 113, ../sass/screen.scss */
+/* line 117, ../sass/screen.scss */
 .profile:only-of-type {
   margin-top: 1em;
 }
 
-/* line 118, ../sass/screen.scss */
+/* line 122, ../sass/screen.scss */
 .profile-title {
   margin-top: -.75em;
 }
 
-/* line 121, ../sass/screen.scss */
+/* line 125, ../sass/screen.scss */
 .profile-degree {
   margin-top: -1em;
 }
 
-/* line 125, ../sass/screen.scss */
+/* line 129, ../sass/screen.scss */
 .profile-img {
   float: right;
   border: 0.25em #3e5e8d solid;
 }
 @media screen and (max-width: 38em) {
-  /* line 125, ../sass/screen.scss */
+  /* line 129, ../sass/screen.scss */
   .profile-img {
     width: 6em;
   }

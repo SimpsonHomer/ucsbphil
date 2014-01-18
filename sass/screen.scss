@@ -100,6 +100,10 @@ footer {
   /* overflow keeps the div from collapsing */
   /* http://css-tricks.com/all-about-floats/ */
   overflow: hidden;
+  img {
+    width: 150px;
+    height: 185px;
+  }
 
   /* http://css-tricks.com/how-nth-child-works/ */
   /* http://css-tricks.com/the-difference-between-nth-child-and-nth-of-type/ */
