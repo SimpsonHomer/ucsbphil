@@ -511,13 +511,13 @@ body {
   background-color: #153258;
   text-transform: uppercase;
 }
-/* line 29, ../sass/_base.scss */
+/* line 32, ../sass/_base.scss */
 .top-nav a {
   color: white;
   background-color: #153258;
   text-decoration: underline;
 }
-/* line 59, ../sass/_base.scss */
+/* line 62, ../sass/_base.scss */
 .top-nav a:hover, .top-nav a:active {
   color: #153258;
   background-color: white;
@@ -534,13 +534,13 @@ body {
 .sub-nav:nth-of-type(even) {
   background-color: #5c727f;
 }
-/* line 29, ../sass/_base.scss */
+/* line 32, ../sass/_base.scss */
 .sub-nav:nth-of-type(even) a {
   color: white;
   background-color: #5c727f;
   text-decoration: underline;
 }
-/* line 59, ../sass/_base.scss */
+/* line 62, ../sass/_base.scss */
 .sub-nav:nth-of-type(even) a:hover, .sub-nav:nth-of-type(even) a:active {
   color: #5c727f;
   background-color: white;
@@ -550,13 +550,13 @@ body {
 .sub-nav:nth-of-type(odd) {
   background-color: #153258;
 }
-/* line 29, ../sass/_base.scss */
+/* line 32, ../sass/_base.scss */
 .sub-nav:nth-of-type(odd) a {
   color: white;
   background-color: #153258;
   text-decoration: underline;
 }
-/* line 59, ../sass/_base.scss */
+/* line 62, ../sass/_base.scss */
 .sub-nav:nth-of-type(odd) a:hover, .sub-nav:nth-of-type(odd) a:active {
   color: #153258;
   background-color: white;
@@ -592,21 +592,22 @@ footer {
   background-color: #153258;
   color: white;
 }
-/* line 29, ../sass/_base.scss */
+/* line 32, ../sass/_base.scss */
 footer a {
   color: white;
   background-color: #153258;
   text-decoration: underline;
 }
-/* line 59, ../sass/_base.scss */
+/* line 62, ../sass/_base.scss */
 footer a:hover, footer a:active {
   color: #153258;
   background-color: white;
   text-decoration: none;
 }
 
-/* line 96, ../sass/screen.scss */
-.profile {
+/* line 97, ../sass/screen.scss */
+.profile,
+.course {
   padding: 0 2em 1em 1.5em;
   margin-bottom: 1em;
   border: 0.25em #3e5e8d solid;
@@ -617,52 +618,75 @@ footer a:hover, footer a:active {
   /* http://css-tricks.com/the-difference-between-nth-child-and-nth-of-type/ */
   /* http://css-tricks.com/pseudo-class-selectors/ */
 }
-/* line 103, ../sass/screen.scss */
-.profile img {
+/* line 104, ../sass/screen.scss */
+.profile img,
+.course img {
   width: 150px;
   height: 185px;
 }
-/* line 110, ../sass/screen.scss */
-.profile:nth-of-type(even) {
+/* line 111, ../sass/screen.scss */
+.profile:nth-of-type(even),
+.course:nth-of-type(even) {
   background-color: ghostwhite;
 }
-/* line 113, ../sass/screen.scss */
-.profile:nth-of-type(odd) {
+/* line 114, ../sass/screen.scss */
+.profile:nth-of-type(odd),
+.course:nth-of-type(odd) {
   background-color: lightcyan;
 }
-/* line 117, ../sass/screen.scss */
-.profile:only-of-type {
+/* line 118, ../sass/screen.scss */
+.profile:only-of-type,
+.course:only-of-type {
   margin-top: 1em;
 }
 
-/* line 122, ../sass/screen.scss */
+/* line 123, ../sass/screen.scss */
 .profile-title {
   margin-top: -.75em;
 }
 
-/* line 125, ../sass/screen.scss */
+/* line 126, ../sass/screen.scss */
 .profile-degree {
   margin-top: -1em;
 }
 
-/* line 129, ../sass/screen.scss */
-.profile-img {
+/* line 131, ../sass/screen.scss */
+.profile-img,
+.course-time {
   float: right;
   border: 0.25em #3e5e8d solid;
 }
+
 @media screen and (max-width: 38em) {
-  /* line 129, ../sass/screen.scss */
+  /* line 135, ../sass/screen.scss */
   .profile-img {
     width: 6em;
   }
 }
 
-/* line 137, ../sass/screen.scss */
+/* line 140, ../sass/screen.scss */
+.course-time {
+  padding-left: 1em;
+  padding-right: 1em;
+  margin-left: 1em;
+  background-color: #153258;
+  color: white;
+}
+@media screen and (max-width: 43em) {
+  /* line 140, ../sass/screen.scss */
+  .course-time {
+    float: none;
+    margin-left: 0;
+    margin-bottom: 1em;
+  }
+}
+
+/* line 153, ../sass/screen.scss */
 .donate {
   font-weight: bold;
   color: gold;
 }
-/* line 141, ../sass/screen.scss */
+/* line 157, ../sass/screen.scss */
 .donate:hover, .donate:active {
   color: #153258;
   background-color: gold;

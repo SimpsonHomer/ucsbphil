@@ -41,7 +41,7 @@ body {
 }
 
 .page {
-  background-color: $boring-gray;
+  background-color: $base;
   border: .125em solid white;
   font-family: Verdana;
 }
@@ -54,7 +54,7 @@ body {
 
 .sub-nav {
   padding-left: 2em;
-    border-top: .125em solid $boring-gray;
+    border-top: .125em solid $base;
     color: white;
   &:nth-of-type(even) {
     background-color: $subheader;
@@ -89,11 +89,12 @@ main {
 footer {
   padding: 1em 2em;
   background-color: $header-footer;
-  color: $boring-gray;
-  @include a-swap($boring-gray, $boring-gray, $header-footer, 1);
+  color: $base;
+  @include a-swap($base, $base, $header-footer, 1);
 }
 
-.profile {
+.profile,
+.course {
   padding: 0 2em 1em 1.5em;
   margin-bottom: 1em;
   border: .25em $philosophy-blue solid;
@@ -108,10 +109,10 @@ footer {
   /* http://css-tricks.com/how-nth-child-works/ */
   /* http://css-tricks.com/the-difference-between-nth-child-and-nth-of-type/ */
   &:nth-of-type(even) {
-    background-color: ghostwhite;
+    background-color: $box;
   }
   &:nth-of-type(odd) {
-    background-color: lightcyan;
+    background-color: $box-alt;
   }
   /* http://css-tricks.com/pseudo-class-selectors/ */
   &:only-of-type {
@@ -126,11 +127,26 @@ footer {
   margin-top: -1em;
 }
 
-.profile-img {
+.profile-img,
+.course-time {
   float: right;
   border: .25em $philosophy-blue solid;
+}
+.profile-img {
   @media screen and (max-width: $break) {
     width: 6em;
+  }
+}
+.course-time {
+  padding-left: 1em;
+  padding-right: 1em;
+  margin-left: 1em;
+  background-color: $header-footer;
+  color: $base;
+  @media screen and (max-width: $break-alt) {
+    float: none;
+    margin-left: 0;
+    margin-bottom: 1em;
   }
 }
 

@@ -16,14 +16,17 @@ $show-grid-backgrounds  : true;
 
 // breakpoints
 $break: 38em;
+$break-alt: 43em;
 
 // Colors
 $philosophy-blue: rgb(62, 94, 141);
-$boring-gray: white;
+$base: white;
 $header-footer: rgb(21, 50, 88);
 $subheader: rgb(92, 114, 127);
+$box: ghostwhite;
+$box-alt: lightcyan;
 
-// mixin for producing links that swap color and 
+// mixin for producing links that swap color and
 // background-color when hovered
 @mixin a-swap($text, $text-visit, $bg, $und: 0) {
   a {
