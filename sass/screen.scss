@@ -149,6 +149,7 @@ footer {
   height: 185px;
   @media screen and (max-width: $break) {
     width: 6em;
+    height: auto;
   }
 }
 .course-time {
