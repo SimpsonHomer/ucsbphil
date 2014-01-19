@@ -12,18 +12,25 @@
 
   header, nav, footer { clear: both; }
 
-  .primary { @include span-columns(1,2); }
+  .primary { @include span-columns(1,2);
+    padding-bottom: 1em;
+  }
 
-  .secondary { @include span-columns(1 omega,2); }
-
+  .secondary { @include span-columns(1 omega,2);
+    padding-bottom: 1em;
+  }
 }
 
 @media screen and (max-width: $break) {
   @include with-grid-settings(1,100%,2em,0em);
   .page {
     @include container;
-    .primary { @include span-columns(1,1); }
-    .secondary { @include span-columns(1 omega,1); }
+    .primary { @include span-columns(1,1);
+      padding-bottom: 0;
+    }
+    .secondary { @include span-columns(1 omega,1);
+      padding-bottom: 0;
+    }
     font-size: 75%;
   }
 }
@@ -34,6 +41,14 @@ img,
 object,
 iframe {
   max-width: 100%;
+}
+main img {
+  margin: .5em .5em .5em 0;
+  height: auto;
+  border: .125em solid black;
+}
+figure + figure {
+  margin-top: 1em;
 }
 
 body {
@@ -102,10 +117,6 @@ footer {
   /* overflow keeps the div from collapsing */
   /* http://css-tricks.com/all-about-floats/ */
   overflow: hidden;
-  img {
-    width: 150px;
-    height: 185px;
-  }
 
   /* http://css-tricks.com/how-nth-child-works/ */
   /* http://css-tricks.com/the-difference-between-nth-child-and-nth-of-type/ */
@@ -134,6 +145,8 @@ footer {
   border: .25em $philosophy-blue solid;
 }
 .profile-img {
+  width: 150px;
+  height: 185px;
   @media screen and (max-width: $break) {
     width: 6em;
   }
