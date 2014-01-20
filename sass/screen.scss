@@ -116,6 +116,18 @@ body {
   }
 }
 
+@media screen and (max-width: $break) {
+  .faculty-nav {
+    /* push content it off-screen, without hiding it from assistive devices */
+    position: absolute;
+    left: -999em;
+    /* apparently this second push is for old Opera:
+    /* http://css-tricks.com/snippets/css/accessibilityseo-friendly-css-hiding/ */
+    top: -999px;
+  }
+}
+
+
 main {
   margin: 0 2em;
   padding-bottom: 1em;
