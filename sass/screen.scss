@@ -12,12 +12,23 @@
 
   header, nav, footer { clear: both; }
 
-  .primary { @include span-columns(1,2);
+  .primary { @include span-columns(3,6);
     padding-bottom: 1em;
   }
 
-  .secondary { @include span-columns(1 omega,2);
+  .secondary { @include span-columns(3 omega,6);
     padding-bottom: 1em;
+  }
+
+  .gallery {
+    @include container;
+    figure {
+      @include span-columns(2,6);
+      @include nth-omega(3n);
+    }
+//    @media screen and (max-width: $break-alt) {
+
+//  }
   }
 }
 
