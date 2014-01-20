@@ -25,6 +25,14 @@
     figure {
       @include span-columns(2,6);
       @include nth-omega(3n);
+      @media screen and (max-width: $break-alt) {
+        @include span-columns(3,6);
+        @include nth-omega(2n);
+      }
+      @media screen and (max-width: $break) {
+        @include span-columns(6,6);
+        @include nth-omega(1n);
+      }
     }
 //    @media screen and (max-width: $break-alt) {
 
@@ -33,19 +41,19 @@
 }
 
 @media screen and (max-width: $break) {
-  @include with-grid-settings(1,100%,2em,0em);
   .page {
     @include container;
-    .primary { @include span-columns(1,1);
+    .primary {
+      @include span-columns(6,6);
       padding-bottom: 0;
     }
-    .secondary { @include span-columns(1 omega,1);
+    .secondary {
+      @include span-columns(6 omega,6);
       padding-bottom: 0;
     }
     font-size: 75%;
   }
 }
-
 /* http://unstoppablerobotninja.com/entry/fluid-images/ */
 // /* needs width: 100% in IE stylesheet */
 img,

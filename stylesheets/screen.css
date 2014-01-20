@@ -481,9 +481,37 @@ table {
   float: right;
   margin-right: 0;
 }
+@media screen and (max-width: 43em) {
+  /* line 25, ../sass/screen.scss */
+  .page .gallery figure {
+    width: 48.71795%;
+    float: left;
+    margin-right: 2.5641%;
+    display: inline;
+  }
+  /* line 184, ../../../../../usr/local/Cellar/ruby/2.1.0/lib/ruby/gems/2.1.0/gems/susy-1.0.9/sass/susy/_grid.scss */
+  .page .gallery figure:nth-child(2n) {
+    float: right;
+    margin-right: 0;
+  }
+}
+@media screen and (max-width: 38em) {
+  /* line 25, ../sass/screen.scss */
+  .page .gallery figure {
+    width: 100%;
+    float: left;
+    margin-right: 2.5641%;
+    display: inline;
+  }
+  /* line 184, ../../../../../usr/local/Cellar/ruby/2.1.0/lib/ruby/gems/2.1.0/gems/susy-1.0.9/sass/susy/_grid.scss */
+  .page .gallery figure:nth-child(1n) {
+    float: right;
+    margin-right: 0;
+  }
+}
 
 @media screen and (max-width: 38em) {
-  /* line 37, ../sass/screen.scss */
+  /* line 44, ../sass/screen.scss */
   .page {
     *zoom: 1;
     max-width: 58.5em;
@@ -500,15 +528,15 @@ table {
     display: table;
     clear: both;
   }
-  /* line 39, ../sass/screen.scss */
+  /* line 46, ../sass/screen.scss */
   .page .primary {
     width: 100%;
     float: left;
-    margin-right: 17.64706%;
+    margin-right: 2.5641%;
     display: inline;
     padding-bottom: 0;
   }
-  /* line 42, ../sass/screen.scss */
+  /* line 50, ../sass/screen.scss */
   .page .secondary {
     width: 100%;
     float: right;
@@ -519,38 +547,38 @@ table {
   }
 }
 /* http://unstoppablerobotninja.com/entry/fluid-images/ */
-/* line 53, ../sass/screen.scss */
+/* line 61, ../sass/screen.scss */
 img,
 object,
 iframe {
   max-width: 100%;
 }
 
-/* line 56, ../sass/screen.scss */
+/* line 64, ../sass/screen.scss */
 main img {
   margin: .5em .5em .5em 0;
   height: auto;
   border: .125em solid black;
 }
 
-/* line 61, ../sass/screen.scss */
+/* line 69, ../sass/screen.scss */
 figure + figure {
   margin-top: 1em;
 }
 
-/* line 65, ../sass/screen.scss */
+/* line 73, ../sass/screen.scss */
 body {
   background-color: #3e5e8d;
 }
 
-/* line 69, ../sass/screen.scss */
+/* line 77, ../sass/screen.scss */
 .page {
   background-color: white;
   border: .125em solid white;
   font-family: Verdana;
 }
 
-/* line 75, ../sass/screen.scss */
+/* line 83, ../sass/screen.scss */
 .top-nav {
   background-color: #153258;
   text-transform: uppercase;
@@ -568,13 +596,13 @@ body {
   text-decoration: none;
 }
 
-/* line 81, ../sass/screen.scss */
+/* line 89, ../sass/screen.scss */
 .sub-nav {
   padding-left: 2em;
   border-top: 0.125em solid white;
   color: white;
 }
-/* line 85, ../sass/screen.scss */
+/* line 93, ../sass/screen.scss */
 .sub-nav:nth-of-type(even) {
   background-color: #5c727f;
 }
@@ -590,7 +618,7 @@ body {
   background-color: white;
   text-decoration: none;
 }
-/* line 89, ../sass/screen.scss */
+/* line 97, ../sass/screen.scss */
 .sub-nav:nth-of-type(odd) {
   background-color: #153258;
 }
@@ -607,31 +635,31 @@ body {
   text-decoration: none;
 }
 
-/* line 95, ../sass/screen.scss */
+/* line 103, ../sass/screen.scss */
 .top-nav, .sub-nav {
   text-align: center;
   font-weight: bold;
 }
-/* line 99, ../sass/screen.scss */
+/* line 107, ../sass/screen.scss */
 .top-nav ul, .top-nav li, .sub-nav ul, .sub-nav li {
   /* http://www.alistapart.com/articles/taminglists/ */
   display: inline;
   margin: 0;
   padding-left: 0;
 }
-/* line 105, ../sass/screen.scss */
+/* line 113, ../sass/screen.scss */
 .top-nav a, .sub-nav a {
   padding: .25em 1em;
   line-height: 2em;
 }
 
-/* line 111, ../sass/screen.scss */
+/* line 119, ../sass/screen.scss */
 main {
   margin: 0 2em;
   padding-bottom: 1em;
 }
 
-/* line 116, ../sass/screen.scss */
+/* line 124, ../sass/screen.scss */
 footer {
   padding: 1em 2em;
   background-color: #153258;
@@ -650,7 +678,7 @@ footer a:hover, footer a:active {
   text-decoration: none;
 }
 
-/* line 124, ../sass/screen.scss */
+/* line 132, ../sass/screen.scss */
 .profile,
 .course {
   padding: 0 2em 1em 1.5em;
@@ -663,53 +691,53 @@ footer a:hover, footer a:active {
   /* http://css-tricks.com/the-difference-between-nth-child-and-nth-of-type/ */
   /* http://css-tricks.com/pseudo-class-selectors/ */
 }
-/* line 134, ../sass/screen.scss */
+/* line 142, ../sass/screen.scss */
 .profile:nth-of-type(even),
 .course:nth-of-type(even) {
   background-color: ghostwhite;
 }
-/* line 137, ../sass/screen.scss */
+/* line 145, ../sass/screen.scss */
 .profile:nth-of-type(odd),
 .course:nth-of-type(odd) {
   background-color: lightcyan;
 }
-/* line 141, ../sass/screen.scss */
+/* line 149, ../sass/screen.scss */
 .profile:only-of-type,
 .course:only-of-type {
   margin-top: 1em;
 }
 
-/* line 146, ../sass/screen.scss */
+/* line 154, ../sass/screen.scss */
 .profile-title {
   margin-top: -.75em;
 }
 
-/* line 149, ../sass/screen.scss */
+/* line 157, ../sass/screen.scss */
 .profile-degree {
   margin-top: -1em;
 }
 
-/* line 154, ../sass/screen.scss */
+/* line 162, ../sass/screen.scss */
 .profile-img,
 .course-time {
   float: right;
   border: 0.25em #3e5e8d solid;
 }
 
-/* line 158, ../sass/screen.scss */
+/* line 166, ../sass/screen.scss */
 .profile-img {
   width: 150px;
   height: 185px;
 }
 @media screen and (max-width: 38em) {
-  /* line 158, ../sass/screen.scss */
+  /* line 166, ../sass/screen.scss */
   .profile-img {
     width: 6em;
     height: auto;
   }
 }
 
-/* line 166, ../sass/screen.scss */
+/* line 174, ../sass/screen.scss */
 .course-time {
   padding-left: 1em;
   padding-right: 1em;
@@ -718,7 +746,7 @@ footer a:hover, footer a:active {
   color: white;
 }
 @media screen and (max-width: 43em) {
-  /* line 166, ../sass/screen.scss */
+  /* line 174, ../sass/screen.scss */
   .course-time {
     float: none;
     margin-left: 0;
@@ -726,12 +754,12 @@ footer a:hover, footer a:active {
   }
 }
 
-/* line 179, ../sass/screen.scss */
+/* line 187, ../sass/screen.scss */
 .donate {
   font-weight: bold;
   color: gold;
 }
-/* line 183, ../sass/screen.scss */
+/* line 191, ../sass/screen.scss */
 .donate:hover, .donate:active {
   color: #153258;
   background-color: gold;
